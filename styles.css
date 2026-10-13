@@ -42,3 +42,12 @@ html,body{overflow:hidden}#app{height:100vh;height:100dvh;grid-template-rows:76p
 
 .favorite-pin{position:relative;width:38px;height:38px;background:#fff;border:3px solid #fff;border-radius:10px;box-shadow:0 2px 9px #061a3570}.favorite-pin img{display:block;width:100%;height:100%;object-fit:cover;border-radius:6px}.favorite-pin:after{content:"";position:absolute;left:11px;bottom:-9px;border-left:5px solid transparent;border-right:5px solid transparent;border-top:7px solid #fff}.selected-marker .favorite-pin{box-shadow:0 0 0 5px #164fb666,0 3px 10px #061a3555}.favorite-cluster{background:#154dcc30!important}.favorite-cluster>div.favorite-cluster-logo{position:relative;background:#fff;width:34px;height:34px;margin:3px;border:2px solid #fff;border-radius:9px;box-shadow:0 2px 7px #061a3540}.favorite-cluster-logo img{display:block;width:100%;height:100%;object-fit:cover;border-radius:6px}.favorite-cluster-logo .favorite-cluster-count{position:absolute;right:-8px;bottom:-7px;min-width:19px;height:19px;line-height:17px;padding:0 4px;background:#0b3180;color:#fff;border:1px solid #fff;border-radius:10px;font-size:10px;font-weight:800}
 .leaflet-control-layers-expanded{border-radius:9px!important;padding:10px 13px!important;font-size:11px;color:#17324e;box-shadow:0 3px 14px #061a3525}.leaflet-control-layers-base label{padding:3px 0}.leaflet-control-layers-selector{accent-color:#0b3976}
+
+/* Compact layer selector, including overrides for global form styles. */
+.leaflet-control-layers{border-radius:9px!important}
+.leaflet-control-layers-toggle{width:44px!important;height:44px!important}
+.leaflet-control-layers-base label{display:block;margin:0;padding:6px 0;font-size:12px;line-height:1.4}
+.leaflet-control-layers-base label>span{display:flex;align-items:center;gap:7px}
+.leaflet-control-layers-base input.leaflet-control-layers-selector{display:inline-block;width:14px;height:14px;margin:0;padding:0;flex:0 0 14px;top:0}
+.layer-close{display:block;margin:0 0 6px auto;padding:5px 8px;border:0;border-radius:4px;background:#edf2f7;color:#17324e;font-size:11px;cursor:pointer}
+.layer-close:focus-visible,.leaflet-control-layers-toggle:focus-visible{outline:2px solid #b18a40;outline-offset:2px}
