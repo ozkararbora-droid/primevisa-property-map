@@ -16,3 +16,5 @@
 
 .contact-grid .contact-item,.social-line .contact-item{display:flex;align-items:center;gap:4px}
 .contact-icon{display:inline-block;width:10px;height:10px;flex:0 0 10px;color:#e3c588;vertical-align:middle}
+
+.letter-footer .social-line>div{gap:8px;flex-wrap:wrap;justify-content:flex-end;max-width:58%}.letter-footer .social-line .contact-item{font-size:6.5px}
