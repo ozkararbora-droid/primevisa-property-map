@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+<defs><linearGradient id="sea" x2="1" y2="1"><stop stop-color="#0b284d"/><stop offset="1" stop-color="#176786"/></linearGradient></defs>
+<path fill="url(#sea)" d="M0 0h900v240H0z"/>
+<g fill="none" stroke="#84c3d1" opacity=".18"><path d="M270 180q140-65 280 0t350 0M230 203q140-65 280 0t400 0M200 227q140-65 280 0t430 0"/></g>
+<circle cx="737" cy="90" r="53" fill="#d2b477" opacity=".2"/>
+<g fill="#cfb27a" opacity=".65"><path d="m603 124 99-43 99 43zM602 127h200v8H602zM589 200h225v7H589zM583 210h238v7H583z"/><path d="M614 140h16v55h-16zM646 140h16v55h-16zM678 140h16v55h-16zM710 140h16v55h-16zM742 140h16v55h-16zM774 140h16v55h-16z"/></g>
+<g transform="translate(822 20)"><path fill="#fff" d="M0 0h60v40H0z"/><path stroke="#2268b1" stroke-width="4.44" d="M0 2.22h60M0 11.11h60M0 20h60M0 28.89h60M0 37.78h60"/><path fill="#2268b1" d="M0 0h22.22v22.22H0z"/><path stroke="#fff" stroke-width="4.44" d="M11.11 0v22.22M0 11.11h22.22"/></g>
+</svg>
