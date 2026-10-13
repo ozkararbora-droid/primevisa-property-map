@@ -1,0 +1,521 @@
+{
+  "generatedAt": "2026-10-13",
+  "fallbackOrder": [
+    "unit-specific image when verified",
+    "project exterior or render",
+    "project interior",
+    "region image",
+    "PrimeVisa placeholder"
+  ],
+  "projects": [
+    {
+      "firm": "OIKOS",
+      "project": "OASIS RESIDENCES",
+      "exterior": "assets/projects/oikos-oasis-residences-exterior.jpg",
+      "interior": "assets/projects/oikos-oasis-residences-interior.jpg",
+      "source": "https://www.oikosdevelopments.com/wp-content/uploads/2026/07/OASIS-OIKOS-PROPERTY-DEVELOPMENTS-4-1290x870.jpg",
+      "sourceKind": "official-project-gallery",
+      "interiorKind": "project-interior-render",
+      "interiorSource": "https://www.oikosdevelopments.com/wp-content/uploads/2026/07/OASIS-10-1290x870.jpg"
+    },
+    {
+      "firm": "OIKOS",
+      "project": "THE GROVE",
+      "exterior": "assets/projects/oikos-the-grove-exterior.jpg",
+      "interior": null,
+      "source": "https://www.oikosdevelopments.com/wp-content/uploads/2026/08/The-Grove-Residences-by-Oikos-Exterior-4-1290x870.jpg",
+      "sourceKind": "official-project-gallery",
+      "interiorKind": "project-interior-render",
+      "interiorSource": null
+    },
+    {
+      "firm": "OIKOS",
+      "project": "THERMAE VIEW RESIDENCES",
+      "exterior": "assets/projects/oikos-thermae-view-residences-exterior.jpg",
+      "interior": "assets/projects/oikos-thermae-view-residences-interior.jpg",
+      "source": "https://www.oikosdevelopments.com/wp-content/uploads/2026/08/Thermae-View-Residences-by-Oikos-External-870x1290.jpg",
+      "sourceKind": "official-project-gallery",
+      "interiorKind": "project-interior-render",
+      "interiorSource": "https://www.oikosdevelopments.com/wp-content/uploads/2026/08/Thermae-View-Residences-by-Oikos-interior-1290x870.jpg"
+    },
+    {
+      "firm": "OIKOS",
+      "project": "BOULEVARD",
+      "exterior": "assets/projects/oikos-boulevard-exterior.jpg",
+      "source": "https://www.oikosdevelopments.com/wp-content/uploads/2026/06/feature_0-4.jpg",
+      "sourceKind": "official-project-gallery",
+      "interiorKind": null,
+      "interiorSource": "https://www.oikosdevelopments.com/wp-content/uploads/2026/06/gal_1-4-1290x870.jpg",
+      "secondary": "assets/projects/oikos-boulevard-interior.jpg",
+      "secondaryLabel": "Ek proje görünümü"
+    },
+    {
+      "firm": "OIKOS",
+      "project": "TRINITY",
+      "exterior": "assets/projects/oikos-trinity-exterior.jpg",
+      "interior": "assets/projects/oikos-trinity-interior.jpg",
+      "source": "https://www.oikosdevelopments.com/wp-content/uploads/2026/07/trinity-exterior-wide-1290x870.png",
+      "sourceKind": "official-project-gallery",
+      "interiorKind": "project-interior-render",
+      "interiorSource": "https://www.oikosdevelopments.com/wp-content/uploads/2026/07/trinity-living-1-1290x870.jpg"
+    },
+    {
+      "firm": "OIKOS",
+      "project": "MERIDIA",
+      "exterior": "assets/projects/oikos-meridia-exterior.jpg",
+      "source": "https://www.oikosdevelopments.com/wp-content/uploads/2026/06/feature_0-13.jpg",
+      "sourceKind": "official-project-gallery",
+      "interiorKind": null,
+      "interiorSource": "https://www.oikosdevelopments.com/wp-content/uploads/2026/06/gal_1-13-1290x870.jpg",
+      "secondary": "assets/projects/oikos-meridia-interior.jpg",
+      "secondaryLabel": "Ek proje görünümü"
+    },
+    {
+      "firm": "OIKOS",
+      "project": "CURVE - PERISTERI",
+      "exterior": "assets/projects/oikos-curve-peristeri-exterior.jpg",
+      "interior": "assets/projects/oikos-curve-peristeri-interior.jpg",
+      "source": "https://www.oikosdevelopments.com/wp-content/uploads/2026/06/feature_0-6.jpg",
+      "sourceKind": "official-project-gallery",
+      "interiorKind": "project-interior-render",
+      "interiorSource": "https://www.oikosdevelopments.com/wp-content/uploads/2026/06/gal_1-6-1290x870.jpg"
+    },
+    {
+      "firm": "OIKOS",
+      "project": "KIFISIA SUITES",
+      "exterior": "assets/projects/oikos-kifisia-suites-exterior.jpg",
+      "interior": "assets/projects/oikos-kifisia-suites-interior.jpg",
+      "source": "https://www.oikosdevelopments.com/wp-content/uploads/2026/07/cover.jpg",
+      "sourceKind": "official-project-gallery",
+      "interiorKind": "project-interior-render",
+      "interiorSource": "https://www.oikosdevelopments.com/wp-content/uploads/2026/07/1-1290x870.jpg"
+    },
+    {
+      "firm": "OIKOS",
+      "project": "LEVANTE VILLAS",
+      "exterior": "assets/projects/oikos-levante-villas-exterior.jpg",
+      "interior": "assets/projects/oikos-levante-villas-interior.jpg",
+      "source": "https://www.oikosdevelopments.com/wp-content/uploads/2026/06/feature_0-12.jpg",
+      "sourceKind": "official-project-gallery",
+      "interiorKind": "project-interior-render",
+      "interiorSource": "https://www.oikosdevelopments.com/wp-content/uploads/2026/06/gal_1-12-1290x870.jpg"
+    },
+    {
+      "firm": "Hestia",
+      "project": "PARAGON I",
+      "exterior": "assets/projects/hestia-paragon-i-exterior.jpg",
+      "interior": "assets/projects/hestia-paragon-i-interior.jpg",
+      "source": "https://hestia-group.gr/static/upload/image/20260713/1783945543567061.png",
+      "sourceKind": "official-project-gallery",
+      "interiorKind": "official-project-interior-render",
+      "interiorSource": "https://hestia-group.gr/static/upload/image/20260723/1784810853852108.png"
+    },
+    {
+      "firm": "Hestia",
+      "project": "PARAGON II",
+      "exterior": "assets/projects/hestia-paragon-ii-exterior.jpg",
+      "interior": "assets/projects/hestia-paragon-ii-interior.jpg",
+      "source": "https://hestia-group.gr/static/upload/image/20260121/1769010811377280.png",
+      "sourceKind": "official-project-gallery",
+      "interiorKind": "official-project-interior-render",
+      "interiorSource": "https://hestia-group.gr/static/upload/image/20260203/1770122153329508.png"
+    },
+    {
+      "firm": "Hestia",
+      "project": "COSMO I",
+      "exterior": "assets/projects/hestia-cosmo-i-exterior.jpg",
+      "interior": "assets/projects/hestia-cosmo-i-interior.jpg",
+      "source": "https://hestia-group.gr/static/upload/image/20260713/1783946203976472.png",
+      "sourceKind": "official-project-gallery",
+      "interiorKind": "official-project-interior-render",
+      "interiorSource": "https://hestia-group.gr/static/upload/image/20260127/1769446300873727.png"
+    },
+    {
+      "firm": "Hestia",
+      "project": "DELOS",
+      "exterior": "assets/projects/hestia-delos-exterior.jpg",
+      "interior": "assets/projects/hestia-delos-interior.jpg",
+      "source": "https://hestia-group.gr/static/upload/image/20260804/1785853168479622.png",
+      "sourceKind": "official-project-gallery",
+      "interiorKind": "official-project-interior-render",
+      "interiorSource": "https://hestia-group.gr/static/upload/image/20260525/1779718977519843.png"
+    },
+    {
+      "firm": "Hestia",
+      "project": "ORION",
+      "exterior": "assets/projects/hestia-orion-exterior.jpg",
+      "interior": "assets/projects/hestia-orion-interior.jpg",
+      "source": "https://hestia-group.gr/static/upload/image/20260728/1785245724419596.png",
+      "sourceKind": "official-project-gallery",
+      "interiorKind": "official-project-interior-render",
+      "interiorSource": "https://hestia-group.gr/static/upload/image/20260518/1779100824849003.png"
+    },
+    {
+      "firm": "Santheos",
+      "project": "ARCH 10",
+      "exterior": "assets/projects/santheos-arch-10-exterior.jpg",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/project-arch-10-st-039/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Santheos",
+      "project": "Artemida",
+      "exterior": "assets/projects/santheos-artemida-exterior.jpg",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/projects-artemida-st-026/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Santheos",
+      "project": "Doir",
+      "exterior": "assets/projects/santheos-doir-exterior.jpg",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/project-doir-st-038/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Santheos",
+      "project": "IoniaKA",
+      "exterior": "assets/projects/santheos-ioniaka-exterior.jpg",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/project-ionika-st-030/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Santheos",
+      "project": "Kapodistriou",
+      "exterior": "assets/projects/santheos-kapodistriou-exterior.jpg",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/project-kapo-st-042/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Santheos",
+      "project": "Line",
+      "exterior": "assets/projects/santheos-line-exterior.jpg",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/project-line-st-044/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Santheos",
+      "project": "M-P",
+      "exterior": "assets/projects/santheos-m-p-exterior.jpg",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/project-moutso-st-046/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Santheos",
+      "project": "Mati",
+      "exterior": "assets/projects/santheos-mati-exterior.jpg",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/project-mati-st-043/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Santheos",
+      "project": "Matza",
+      "exterior": "assets/projects/santheos-matza-exterior.jpg",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/project-matza-st-049/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Santheos",
+      "project": "Patima",
+      "exterior": "assets/projects/santheos-patima-exterior.jpg",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/projects-patima-st-025-chalandri/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Santheos",
+      "project": "Petrousa",
+      "exterior": "assets/projects/santheos-petrousa-exterior.jpg",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/project-petrousa-st-017/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Santheos",
+      "project": "Psirri",
+      "exterior": "assets/projects/santheos-psirri-exterior.jpg",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/projects-psirri-st-024/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Santheos",
+      "project": "Spat",
+      "exterior": "assets/projects/santheos-spat-exterior.jpg",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/project-spaton-st-047/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Santheos",
+      "project": "Spaton",
+      "exterior": "assets/projects/santheos-spaton-exterior.jpg",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/project-spaton-st-029/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Santheos",
+      "project": "Tenarou",
+      "exterior": "assets/projects/santheos-tenarou-exterior.jpg",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/project-tenarou-st-013/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Santheos",
+      "project": "Sygrou2",
+      "exterior": "https://www.santheos.com/wp-content/uploads/2026/08/project-sygrou2-st-031.webp",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/project-sygrou2-st-031/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Santheos",
+      "project": "Kallirois",
+      "exterior": "https://www.santheos.com/wp-content/uploads/2026/08/project-kallirois-st032.webp",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/project-kallirois-st032/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Santheos",
+      "project": "Louvre",
+      "exterior": "https://www.santheos.com/wp-content/uploads/2026/08/project-louvre-st-040.webp",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/project-louvre-st-040/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "SHomes / SHG",
+      "project": "ISM - 016",
+      "exterior": "assets/projects/shomes-ism-016-exterior.jpg",
+      "interior": null,
+      "source": "https://drive.google.com/file/d/1-Hwm1xrUpw7IQShqbPJ7DoB3e0zeTYnH/view",
+      "sourceKind": "company-brochure-render",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "SHomes / SHG",
+      "project": "Elysium Gardens",
+      "exterior": "assets/projects/shomes-elysium-gardens-exterior.jpg",
+      "interior": null,
+      "source": "https://drive.google.com/file/d/1AB6qnTxmkOm5SAhcPrKMDTfb9s7DFUXy/view",
+      "sourceKind": "company-brochure-render",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "SHomes / SHG",
+      "project": "ART - 025",
+      "exterior": "assets/projects/shomes-art-025-exterior.jpg",
+      "interior": null,
+      "source": "https://drive.google.com/file/d/19m6xcjRdO0CYPZiMWToFCoBIXO_5PMoP/view",
+      "sourceKind": "company-brochure-render",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "SHomes / SHG",
+      "project": "Alētheia Residences",
+      "exterior": "assets/projects/shomes-al-theia-residences-exterior.jpg",
+      "interior": null,
+      "source": "https://drive.google.com/file/d/1p1FVSKugxhh4_PZ-XSPVWvDzMLCUhBla/view",
+      "sourceKind": "company-brochure-render",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "SHomes / SHG",
+      "project": "AGH - 220",
+      "exterior": "assets/projects/shomes-agh-220-exterior.jpg",
+      "interior": null,
+      "source": "https://drive.google.com/file/d/1H4ezdTfK4fRJV1OGX7jBIGldfTaXP7KQ/view",
+      "sourceKind": "company-brochure-render",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "SHomes / SHG",
+      "project": "TEP - 002",
+      "exterior": "assets/projects/shomes-tep-002-exterior.jpg",
+      "interior": null,
+      "source": "https://drive.google.com/file/d/1InmDmhASHveEc1B_r2ClY3FKqAY8g8T5/view",
+      "sourceKind": "company-brochure-render",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "SHomes / SHG",
+      "project": "ROU - 010",
+      "exterior": "assets/projects/shomes-rou-010-exterior.jpg",
+      "interior": null,
+      "source": "https://drive.google.com/file/d/11vMx4wUmdWhsYmSTNu-BVPU3HjE-uXJy/view",
+      "sourceKind": "company-brochure-render",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "SHomes / SHG",
+      "project": "PAT - 359",
+      "exterior": "assets/projects/shomes-pat-359-exterior.jpg",
+      "interior": null,
+      "source": "https://drive.google.com/file/d/1DbVvELO2feVWmOqPYr2sFARUapHTp-mY/view",
+      "sourceKind": "company-brochure-render",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "SHomes / SHG",
+      "project": "NIK - 048",
+      "exterior": "assets/projects/shomes-nik-048-exterior.jpg",
+      "interior": null,
+      "source": "https://drive.google.com/file/d/1waIIDjHLTzBYgZPj0jwooMM7BpJorQ_F/view",
+      "sourceKind": "company-brochure-render",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "SHomes / SHG",
+      "project": "MIO - 021",
+      "exterior": "assets/projects/shomes-mio-021-exterior.jpg",
+      "interior": null,
+      "source": "https://drive.google.com/file/d/16b5gYkfI08wBYZxGRub1LBf-mee5Bhif/view",
+      "sourceKind": "company-brochure-render",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "SHomes / SHG",
+      "project": "EVR - 035",
+      "exterior": "assets/projects/shomes-evr-035-exterior.jpg",
+      "interior": null,
+      "source": "https://drive.google.com/file/d/1NfM7GEvBDclB7f8riF5w3wHx4J8MIcUm/view",
+      "sourceKind": "company-brochure-render",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "SHomes / SHG",
+      "project": "CHI - 026",
+      "exterior": "assets/projects/shomes-chi-026-exterior.jpg",
+      "interior": null,
+      "source": "https://drive.google.com/file/d/1bIKGfcje0OlCZbH1Y5E2SKwvJ8d5M0id/view",
+      "sourceKind": "company-brochure-render",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "SHomes / SHG",
+      "project": "AMI - 011",
+      "exterior": "assets/projects/shomes-ami-011-exterior.jpg",
+      "interior": null,
+      "source": "https://drive.google.com/file/d/1_U42V3iJqPEKSvX_OFQsv4WFv95ow1eo/view",
+      "sourceKind": "company-brochure-render",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Limar",
+      "project": "Terrace Heights",
+      "exterior": "assets/projects/limar-terrace-heights-exterior.jpg",
+      "interior": null,
+      "source": "https://cdn.limarone.com/terrace-heights/exterior/1.jpg",
+      "sourceKind": "official-project-exterior-photo",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "MIBS",
+      "project": "T15 Residence",
+      "exterior": "assets/projects/mibs-t15-residence-exterior.jpg",
+      "interior": "assets/projects/mibs-t15-residence-interior.jpg",
+      "source": "https://api.mibsgroup.com/storage/1204/conversions/T15-(1)-large.webp",
+      "sourceKind": "official-project-gallery",
+      "interiorKind": "sample-interior",
+      "interiorSource": "https://api.mibsgroup.com/storage/1205/conversions/1-large.webp"
+    },
+    {
+      "firm": "V2 Development",
+      "project": "PLAZA Residences",
+      "exterior": "assets/projects/v2-plaza-residences-exterior.jpg",
+      "interior": null,
+      "source": "https://storage.googleapis.com/avezor-images/properties/695c1a07aad0c0e9b7af6761/images/original/external_1767866185509_roq2g.jpg?v=1767866186294",
+      "sourceKind": "company-brochure-render",
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Zafido",
+      "project": "Dimosthenous 270 - Kallithea",
+      "exterior": null,
+      "interior": null,
+      "source": null,
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Zafido",
+      "project": "Menandrou & Nirvana 6 - Ilioupoli",
+      "exterior": null,
+      "interior": null,
+      "source": null,
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Zafido",
+      "project": "Navarinou 5 & Kosti Palama - CHALANDRI",
+      "exterior": null,
+      "interior": null,
+      "source": null,
+      "interiorKind": "sample-interior"
+    },
+    {
+      "firm": "Santheos",
+      "project": "VenizelouPi",
+      "exterior": "https://www.santheos.com/wp-content/uploads/2026/08/project-elvenizelou-st-035.webp",
+      "interior": null,
+      "source": "https://www.santheos.com/projects-golden-visa-greece/project-elvenizelou-st-035/",
+      "sourceKind": "official-project-page",
+      "interiorKind": "sample-interior"
+    }
+  ],
+  "unresolved": [
+    {
+      "firm": "OIKOS",
+      "project": "CELESTIA",
+      "reason": "Official gallery candidate conflicts with the listed Gripari 73 address and building scale; no confidently matching image selected."
+    },
+    {
+      "firm": "Santheos",
+      "project": "Eleutherias",
+      "reason": "No project-specific image found in public project directory."
+    },
+    {
+      "firm": "Zafido",
+      "project": "Dimosthenous 270 - Kallithea",
+      "reason": "Found a third-party gallery listing but could not obtain a stable image file for this exact address."
+    },
+    {
+      "firm": "Zafido",
+      "project": "Menandrou & Nirvana 6 - Ilioupoli",
+      "reason": "No exact project image could be verified from accessible developer or social sources."
+    },
+    {
+      "firm": "Zafido",
+      "project": "Navarinou 5 & Kosti Palama - CHALANDRI",
+      "reason": "No exact project image could be verified from accessible developer or broker sources."
+    }
+  ]
+}
