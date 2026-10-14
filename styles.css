@@ -51,3 +51,9 @@ html,body{overflow:hidden}#app{height:100vh;height:100dvh;grid-template-rows:76p
 .leaflet-control-layers-base input.leaflet-control-layers-selector{display:inline-block;width:14px;height:14px;margin:0;padding:0;flex:0 0 14px;top:0}
 .layer-close{display:block;margin:0 0 6px auto;padding:5px 8px;border:0;border-radius:4px;background:#edf2f7;color:#17324e;font-size:11px;cursor:pointer}
 .layer-close:focus-visible,.leaflet-control-layers-toggle:focus-visible{outline:2px solid #b18a40;outline-offset:2px}
+
+.delivery-options{display:flex;flex-wrap:wrap;gap:6px}
+.delivery-options button{border:1px solid #d4deea;border-radius:7px;padding:9px 10px;background:#f5f7fa;color:#243c58;font:inherit;font-size:11px;font-weight:700;cursor:pointer;min-height:38px}
+.delivery-options button[aria-pressed=true]{background:#102e53;color:#fff;border-color:#102e53;box-shadow:inset 0 -2px 0 #d9b664}
+.delivery-options button:focus-visible{outline:2px solid #bc9145;outline-offset:2px}
+.delivery-hint{font-size:10px;line-height:1.5;color:#65758a;margin:8px 0 0}
