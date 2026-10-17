@@ -18,3 +18,16 @@
 .contact-icon{display:inline-block;width:10px;height:10px;flex:0 0 10px;color:#e3c588;vertical-align:middle}
 
 .letter-footer .social-line>div{gap:8px;flex-wrap:wrap;justify-content:flex-end;max-width:58%}.letter-footer .social-line .contact-item{font-size:6.5px}
+
+/* Owner-supplied banners. Keep the original pixels and clip only white margins. */
+.proposal-banner{position:relative;display:block;width:100%;overflow:hidden;box-sizing:border-box;padding:0;border:0;border-radius:0;background:#fff;min-height:0;flex-shrink:0}
+.proposal-banner img{display:block;position:absolute;max-width:none;height:auto;object-fit:contain;margin:0;padding:0;border:0;border-radius:0}
+.proposal-banner-top{aspect-ratio:2020 / 366}
+.proposal-banner-top img{width:101.3861386%;left:-.6930693%;top:-50%}
+.proposal-banner-bottom{aspect-ratio:2048 / 364}
+.proposal-banner-bottom img{width:100%;left:0;top:-25.2747253%}
+
+.letter-footer{background:transparent;border:0;padding:0}
+.letter-footer .disclaimer{color:#647482;margin:0 0 8px}
+.letter-footer .folio{color:#647482;margin-top:8px}
+@media print{.proposal-banner{break-inside:avoid;page-break-inside:avoid}.proposal-banner img{visibility:visible}}

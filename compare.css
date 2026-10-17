@@ -22,3 +22,13 @@ body{background:#e9edf2;color:#152940}body>header{background:#0a2344;padding:15p
 
 .contact-grid .contact-item,.social-line .contact-item{display:flex;align-items:center;gap:7px}
 .contact-icon{display:inline-block;width:15px;height:15px;flex:0 0 15px;color:#e3c588;vertical-align:middle}
+
+/* Owner-supplied banners. Keep the original pixels and clip only white margins. */
+.proposal-banner{position:relative;display:block;width:100%;overflow:hidden;box-sizing:border-box;padding:0;border:0;border-radius:0;background:#fff;min-height:0;flex-shrink:0}
+.proposal-banner img{display:block;position:absolute;max-width:none;height:auto;object-fit:contain;margin:0;padding:0;border:0;border-radius:0}
+.proposal-banner-top{aspect-ratio:2020 / 366}
+.proposal-banner-top img{width:101.3861386%;left:-.6930693%;top:-50%}
+.proposal-banner-bottom{aspect-ratio:2048 / 364}
+.proposal-banner-bottom img{width:100%;left:0;top:-25.2747253%}
+
+.offer-footer#companyContact{display:block;padding:0;border:0;background:transparent}
