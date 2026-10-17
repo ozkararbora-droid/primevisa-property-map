@@ -31,3 +31,28 @@
 .letter-footer .disclaimer{color:#647482;margin:0 0 8px}
 .letter-footer .folio{color:#647482;margin-top:8px}
 @media print{.proposal-banner{break-inside:avoid;page-break-inside:avoid}.proposal-banner img{visibility:visible}}
+
+/* One explicit A4 sheet; Safari must never fragment the letterhead/footer. */
+@page{size:A4 portrait;margin:12mm}
+#offerDocument{width:186mm;max-width:none}
+.print-page{display:block;position:relative;box-sizing:border-box;width:186mm;height:272mm;min-height:0;max-height:272mm;padding:0;margin:0 auto 20px;break-inside:avoid;page-break-inside:avoid;break-after:page;page-break-after:always}
+.print-page:last-child{break-after:auto;page-break-after:auto}
+.print-page>.letterhead{width:186mm;height:33.7mm;min-height:33.7mm;aspect-ratio:auto;margin:0;break-inside:avoid;page-break-inside:avoid}
+.print-page>.letter-footer{position:absolute;left:0;right:0;bottom:0;width:186mm;margin:0;padding:0;background:#fff;break-inside:avoid;page-break-inside:avoid}
+.print-page .proposal-banner-bottom{height:33.06mm;min-height:33.06mm;aspect-ratio:auto;break-inside:avoid;page-break-inside:avoid}
+.print-page .proposal-banner img{break-inside:avoid;page-break-inside:avoid}
+.page-content{display:block;width:186mm;transform-origin:top left}
+.print-page .proposal-heading{padding:10px 0 9px}
+.print-page .proposal-heading h1{font-size:23px;margin:5px 0 9px}
+.print-page .proposal-meta{padding:8px}
+.print-page .section-intro{margin-bottom:8px}
+.print-page .proposal-body{padding-bottom:0}
+.print-page .consultation-note{margin-top:14px;padding:8px 12px}
+.print-page .letter-footer .disclaimer{margin:0 0 6px;line-height:1.4}
+.print-page .letter-footer .folio{margin-top:5px}
+@media print{
+ html,body{width:auto;margin:0!important;padding:0!important}
+ #offerDocument{width:186mm;margin:0;padding:0}
+ .print-page{display:block;width:186mm;height:272mm;min-height:0;max-height:272mm;margin:0;padding:0;box-shadow:none}
+ .print-page>.letter-footer{position:absolute;bottom:0}
+}
