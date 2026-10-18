@@ -2,7 +2,7 @@
 const $=id=>document.getElementById(id),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const number=n=>n==null||n===''?'—':new Intl.NumberFormat('tr-TR',{maximumFractionDigits:2}).format(n),money=n=>n==null?'—':new Intl.NumberFormat('de-DE',{style:'currency',currency:'EUR',maximumFractionDigits:0}).format(n),area=n=>n==null?'—':number(n)+' m²';
 const key=(f,p)=>[f,p].map(s=>String(s||'').trim().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,' ').trim().replace(/\s+/g,' ')).join('|');
-const status=s=>({Available:'Müsait',Reserved:'Rezerve',Booked:'Rezerveli','On Hold':'Beklemede','Under Offer':'Teklif altında',Locked:'Kilitli',Sold:'Satıldı',Check:'Kontrol gerekli','Check Availability':'Müsaitlik kontrolü gerekli'}[s]||s||'—');
+const status=s=>({Available:'Müsait',Reserved:'Rezerve',Booked:'Rezerve','On Hold':'Rezerve','Under Offer':'Rezerve',Locked:'Rezerve',Sold:'Satıldı',Check:'Müsait · teyit gerekli','Check Availability':'Müsait · teyit gerekli'}[s]||s||'—');
 const yes=v=>({yes:'Var',no:'Yok'}[String(v).toLowerCase()]||v||'—');
 const floor=r=>{const v=String(r.floor??'').trim();if(r.project.toLowerCase()==='cosmo i'&&r.unit==='I1')return 'Zemin + asma kat';return ({gf:'Zemin kat','g/f':'Zemin kat','0':'Zemin kat','ground floor':'Zemin kat',mezz:'Asma kat',mezzanine:'Asma kat','0/mezz':'Zemin + asma kat','g/f-mezzanine':'Zemin + asma kat','-1':'Bodrum kat','-1/0':'Bodrum + zemin kat'}[v.toLowerCase()]||v||'—')};
 const rental=v=>String(v||'—').replace(/^0\.03$/,'%3').replace(/yrs?\b/gi,'yıl').replace(/(\d+(?:[.,]\d+)?)%/g,'%$1').replace(/\/year/gi,'/ yıl').replace(/complimentary property management/gi,'ücretsiz mülk yönetimi');
