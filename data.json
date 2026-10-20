@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T10:30:32+00:00",
+  "generatedAt": "2026-10-20T13:04:14+00:00",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 922,
   "records": [
@@ -116,7 +116,7 @@
       "parking": "Yes",
       "storage": "",
       "price": 358000,
-      "status": "Reserved",
+      "status": "Available",
       "gv": "",
       "delivery": "30.06.2028",
       "deliveryDate": "2028-06-30",
@@ -128,8 +128,8 @@
       "lng": 23.692,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-10-20T13:04:14+00:00"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|GF08",
@@ -6614,7 +6614,7 @@
       "parking": "",
       "storage": "",
       "price": 259000,
-      "status": "Reserved",
+      "status": "Sold",
       "gv": "",
       "delivery": "31.12.2027",
       "deliveryDate": "2027-12-31",
@@ -6626,8 +6626,8 @@
       "lng": 23.655,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-10-20T13:04:14+00:00"
     },
     {
       "id": "OIKOS|MERIDIA|C06",
@@ -29841,7 +29841,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-10-20T10:30:32+00:00",
+    "checkedAt": "2026-10-20T13:04:14+00:00",
     "matchedUnits": 913,
     "missingSourceUnits": 9,
     "staticDocumentUnits": 168,
