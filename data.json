@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T14:23:00+00:00",
+  "generatedAt": "2026-10-20T07:09:00+00:00",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 922,
   "records": [
@@ -84,7 +84,7 @@
       "parking": "Yes",
       "storage": "",
       "price": 256000,
-      "status": "On Hold",
+      "status": "Reserved",
       "gv": "",
       "delivery": "30.06.2028",
       "deliveryDate": "2028-06-30",
@@ -96,8 +96,8 @@
       "lng": 23.692,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "On hold 15/10",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Reserved",
+      "lastCheckedAt": "2026-10-20T07:09:00+00:00"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|GF07",
@@ -29841,7 +29841,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-10-19T14:23:00+00:00",
+    "checkedAt": "2026-10-20T07:09:00+00:00",
     "matchedUnits": 913,
     "missingSourceUnits": 9,
     "staticDocumentUnits": 168,
@@ -29850,7 +29850,7 @@
         "firm": "OIKOS",
         "project": "SIERRA",
         "unitCount": 9,
-        "reason": "No verified coordinate in Map Data; 8 Sold, 1 On Hold"
+        "reason": "No verified coordinate in Map Data; 8 Sold, 1 Available"
       }
     ]
   }
