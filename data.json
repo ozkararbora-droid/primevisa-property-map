@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T13:04:14+00:00",
+  "generatedAt": "2026-10-20T15:20:45+00:00",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 922,
   "records": [
@@ -8732,14 +8732,14 @@
       "deliveryDate": null,
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "lat": 38.023,
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "sourceStatus": "Unit absent from current source list",
+      "lastCheckedAt": "2026-10-20T15:20:45+00:00"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 1.2",
@@ -8797,14 +8797,14 @@
       "deliveryDate": null,
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "lat": 38.023,
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "sourceStatus": "Unit absent from current source list",
+      "lastCheckedAt": "2026-10-20T15:20:45+00:00"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 1.4",
@@ -29841,9 +29841,9 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-10-20T13:04:14+00:00",
-    "matchedUnits": 913,
-    "missingSourceUnits": 9,
+    "checkedAt": "2026-10-20T15:20:45+00:00",
+    "matchedUnits": 911,
+    "missingSourceUnits": 11,
     "staticDocumentUnits": 168,
     "unmappedProjects": [
       {
