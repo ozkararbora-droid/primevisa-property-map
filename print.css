@@ -76,3 +76,19 @@
 .print-page .property-line{white-space:nowrap;font-size:8px;line-height:1.9;border-bottom:1px solid #edf0f4}
 .print-page .property-line>span{display:inline-block;white-space:nowrap;transform-origin:top left}
 .print-page .property-extreme{color:#102e53;background:#f4f6f9}
+
+/* PrimeVisa compact proposal rows. */
+.print-page .alternatives-section{padding:0;margin:0 0 10px;border:1px solid #dbe2ea;border-radius:5px;box-shadow:none;overflow:visible}
+.print-page .alternatives-title{padding:7px 8px;margin:0;background:#102e53;color:#fff;border-bottom:2px solid #b99c61;border-radius:4px 4px 0 0;font-size:10px}
+.print-page .alternatives-title span{font-size:7px;color:#f1e4c9}
+.print-page .alternatives-lines{padding:4px 8px 6px;overflow:visible}
+.print-page .property-line{font-size:8px;line-height:2.1;color:#183650;white-space:nowrap;border-bottom:1px solid #e8edf2}
+.print-page .property-line:last-child{border-bottom:0}
+.print-page .property-line:nth-child(even){background:#f7f9fc}
+.print-page .property-extreme{background:#fbf8f1}
+.print-page .property-key{color:#647482;font-weight:400}
+.print-page .property-field strong{font-weight:600}
+.print-page .property-price strong{color:#102e53;font-weight:750}
+.print-page .property-divider{font-style:normal;color:#acb7c4;margin:0 2px}
+.print-page .property-badge{display:inline-block;color:#765a25;background:#f0e6ce;border:1px solid #decca5;border-radius:3px;padding:1px 4px;margin-right:5px;font-size:7px;line-height:1.3}
+@media print{.print-page .alternatives-section,.print-page .alternatives-section *{-webkit-print-color-adjust:exact;print-color-adjust:exact}}
