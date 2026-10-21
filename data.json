@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T13:09:50+00:00",
+  "generatedAt": "2026-10-21T14:00:39+00:00",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 922,
   "records": [
@@ -2709,7 +2709,7 @@
       "parking": "",
       "storage": "",
       "price": 295000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2721,8 +2721,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
+      "sourceStatus": "reserved!",
+      "lastCheckedAt": "2026-10-21T14:00:39+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|C02",
@@ -29841,7 +29841,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-10-21T13:09:50+00:00",
+    "checkedAt": "2026-10-21T14:00:39+00:00",
     "matchedUnits": 909,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
