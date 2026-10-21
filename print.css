@@ -69,3 +69,10 @@
 .print-page .alternatives-table th{background:#edf2f7;color:#102e53}
 .print-page .alternatives-table th:first-child{width:9%}.print-page .alternatives-table th:nth-child(2){width:15%}
 .print-page .alternatives-note{font-size:7px;margin-top:8px;line-height:1.4}
+
+/* One complete property per line, including project price extremes. */
+.print-page .alternatives-section{margin:0 0 10px;padding:6px 8px;border:1px solid #dce3ec;border-left:2px solid #b99c61}
+.print-page .alternatives-lines{overflow:visible}
+.print-page .property-line{white-space:nowrap;font-size:8px;line-height:1.9;border-bottom:1px solid #edf0f4}
+.print-page .property-line>span{display:inline-block;white-space:nowrap;transform-origin:top left}
+.print-page .property-extreme{color:#102e53;background:#f4f6f9}

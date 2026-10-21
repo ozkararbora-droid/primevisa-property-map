@@ -12,6 +12,12 @@
     heading.before(content);content.append(heading,body);
    }
    content.style.transform='none';content.style.height='auto';
+   for(const line of content.querySelectorAll('.property-line')){
+    const span=line.firstElementChild;if(!span)continue;
+    span.style.transform='none';
+    const ratio=Math.min(1,line.clientWidth/span.offsetWidth);
+    span.style.transform='scaleX('+ratio+')';
+   }
    const available=footer.offsetTop-content.offsetTop-10;
    const natural=content.scrollHeight;
    if(available<=0||!natural)continue;
