@@ -59,3 +59,13 @@
 
 /* Alternatives get dedicated paginated sheets, not compressed property columns. */
 .print-page .alternatives-scroll{overflow:visible}.print-page .alternatives-table{min-width:0!important;table-layout:fixed;width:100%}.print-page .alternatives-table th,.print-page .alternatives-table td{font-size:8px;padding:8px 3px;text-align:center;border:1px solid #dce3ec}.print-page .alternatives-table th:first-child{width:auto}.print-page .alternatives-table th{background:#102e53;color:#fff}.print-page .alternatives-note{font-size:8px;line-height:1.6;color:#647482;margin-top:15px}.print-page .alternatives-budget{font-size:11px;margin:10px 0 16px}
+
+/* Compact alternatives: share one letterhead sheet across several selected units. */
+.print-page .alternatives-section{margin:0 0 12px;padding:0;border:0}
+.print-page .alternatives-title{display:flex;justify-content:space-between;gap:8px;align-items:baseline;margin:0 0 5px;font-size:10px;color:#102e53}
+.print-page .alternatives-title span{font-size:8px;color:#647482}
+.print-page .alternatives-scroll{max-height:none;overflow:visible}
+.print-page .alternatives-table th,.print-page .alternatives-table td{padding:4px 3px;font-size:8px;line-height:1.25;border:0;border-bottom:1px solid #dce3ec}
+.print-page .alternatives-table th{background:#edf2f7;color:#102e53}
+.print-page .alternatives-table th:first-child{width:9%}.print-page .alternatives-table th:nth-child(2){width:15%}
+.print-page .alternatives-note{font-size:7px;margin-top:8px;line-height:1.4}
