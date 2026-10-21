@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T08:50:49+00:00",
+  "generatedAt": "2026-10-21T10:17:13+00:00",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 922,
   "records": [
@@ -5078,7 +5078,7 @@
       "parking": "",
       "storage": "",
       "price": 300000,
-      "status": "On Hold",
+      "status": "Available",
       "gv": "",
       "delivery": "30.06.2028",
       "deliveryDate": "2028-06-30",
@@ -5090,8 +5090,8 @@
       "lng": 23.757,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "On hold 19/10",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-10-21T10:17:13+00:00"
     },
     {
       "id": "OIKOS|TRINITY|C01",
@@ -8113,12 +8113,12 @@
       "bedrooms": 1,
       "bathrooms": 1,
       "internal": 46,
-      "outdoor": 38,
-      "total": 84,
+      "outdoor": 34,
+      "total": 80,
       "parking": "",
       "storage": "",
       "price": 278000,
-      "status": "Available",
+      "status": "On Hold",
       "gv": "",
       "delivery": "",
       "deliveryDate": null,
@@ -8130,8 +8130,8 @@
       "lng": 23.8135,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-21T08:50:49+00:00"
+      "sourceStatus": "On hold",
+      "lastCheckedAt": "2026-10-21T10:17:13+00:00"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|D05",
@@ -29841,7 +29841,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-10-21T08:50:49+00:00",
+    "checkedAt": "2026-10-21T10:17:13+00:00",
     "matchedUnits": 909,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
