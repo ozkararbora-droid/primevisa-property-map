@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T10:17:13+00:00",
+  "generatedAt": "2026-10-21T13:09:50+00:00",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 922,
   "records": [
@@ -2039,8 +2039,8 @@
       "price": 297000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2050,7 +2050,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|GF02",
@@ -2071,8 +2071,8 @@
       "price": 260000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2082,7 +2082,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|GF03",
@@ -2103,8 +2103,8 @@
       "price": 250000,
       "status": "Reserved",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2114,7 +2114,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|GF04",
@@ -2135,8 +2135,8 @@
       "price": 256000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2146,7 +2146,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|GF05",
@@ -2167,8 +2167,8 @@
       "price": 256000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2178,7 +2178,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|A01",
@@ -2199,8 +2199,8 @@
       "price": 282000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2210,7 +2210,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|A02",
@@ -2231,8 +2231,8 @@
       "price": 286000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2242,7 +2242,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|A03",
@@ -2263,8 +2263,8 @@
       "price": 281000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2274,7 +2274,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|A04",
@@ -2295,8 +2295,8 @@
       "price": 286000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2306,7 +2306,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|A05",
@@ -2327,8 +2327,8 @@
       "price": 263000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2338,7 +2338,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|A06",
@@ -2359,8 +2359,8 @@
       "price": 270000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2370,7 +2370,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|A07",
@@ -2391,8 +2391,8 @@
       "price": 360000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2402,7 +2402,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|A08",
@@ -2423,8 +2423,8 @@
       "price": 266000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2434,7 +2434,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|B01",
@@ -2455,8 +2455,8 @@
       "price": 285000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2466,7 +2466,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|B02",
@@ -2487,8 +2487,8 @@
       "price": 289000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2498,7 +2498,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|B03",
@@ -2519,8 +2519,8 @@
       "price": 284000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2530,7 +2530,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|B04",
@@ -2551,8 +2551,8 @@
       "price": 289000,
       "status": "Reserved",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2562,7 +2562,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|B05",
@@ -2583,8 +2583,8 @@
       "price": 266000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2594,7 +2594,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|B06",
@@ -2615,8 +2615,8 @@
       "price": 273000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2626,7 +2626,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|B07",
@@ -2647,8 +2647,8 @@
       "price": 363000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2658,7 +2658,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|B08",
@@ -2679,8 +2679,8 @@
       "price": 269000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2690,7 +2690,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|C01",
@@ -2711,8 +2711,8 @@
       "price": 295000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2722,7 +2722,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|C02",
@@ -2743,8 +2743,8 @@
       "price": 293000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2754,7 +2754,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|C03",
@@ -2775,8 +2775,8 @@
       "price": 288000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2786,7 +2786,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|C04",
@@ -2807,8 +2807,8 @@
       "price": 293000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2818,7 +2818,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|C05",
@@ -2839,8 +2839,8 @@
       "price": 270000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2850,7 +2850,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|C06",
@@ -2871,8 +2871,8 @@
       "price": 277000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2882,7 +2882,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|C07",
@@ -2903,8 +2903,8 @@
       "price": 371000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2914,7 +2914,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|C08",
@@ -2935,8 +2935,8 @@
       "price": 280000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2946,7 +2946,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|D01",
@@ -2967,8 +2967,8 @@
       "price": 307000,
       "status": "Reserved",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -2978,7 +2978,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|D02",
@@ -2999,8 +2999,8 @@
       "price": 297000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -3010,7 +3010,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|D03",
@@ -3031,8 +3031,8 @@
       "price": 292000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -3042,7 +3042,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|D04",
@@ -3063,8 +3063,8 @@
       "price": 297000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -3074,7 +3074,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|D05",
@@ -3095,8 +3095,8 @@
       "price": 274000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -3106,7 +3106,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|D06",
@@ -3127,8 +3127,8 @@
       "price": 281000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -3138,7 +3138,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|D07",
@@ -3159,8 +3159,8 @@
       "price": 397000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -3170,7 +3170,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|D08",
@@ -3191,8 +3191,8 @@
       "price": 292000,
       "status": "Available",
       "gv": "",
-      "delivery": "30.06.2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "30.03.2028",
+      "deliveryDate": "2028-03-30",
       "rental": "3 yrs × 3%",
       "source": "https://docs.google.com/spreadsheets/d/1g3NaHSKTJI1pM7Rn-FzlqvkttIRVuJuyHZi7Bhhqf68/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -3202,7 +3202,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "OIKOS|BOULEVARD|M04",
@@ -8855,7 +8855,7 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 276000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
       "delivery": "Q2 2028",
       "deliveryDate": null,
@@ -8867,8 +8867,8 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-10-21T13:09:50+00:00"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 1.6",
@@ -29841,7 +29841,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-10-21T10:17:13+00:00",
+    "checkedAt": "2026-10-21T13:09:50+00:00",
     "matchedUnits": 909,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
