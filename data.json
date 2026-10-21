@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T07:13:18+00:00",
+  "generatedAt": "2026-10-21T08:50:49+00:00",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 922,
   "records": [
@@ -8112,9 +8112,9 @@
       "floor": "4",
       "bedrooms": 1,
       "bathrooms": 1,
-      "internal": 43,
+      "internal": 46,
       "outdoor": 38,
-      "total": 81,
+      "total": 84,
       "parking": "",
       "storage": "",
       "price": 278000,
@@ -8131,7 +8131,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "lastCheckedAt": "2026-10-21T08:50:49+00:00"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|D05",
@@ -9023,14 +9023,14 @@
       "deliveryDate": null,
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "lat": 38.023,
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "sourceStatus": "Unit absent from current source list",
+      "lastCheckedAt": "2026-10-21T08:50:49+00:00"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 2.4",
@@ -29841,9 +29841,9 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-10-21T07:13:18+00:00",
-    "matchedUnits": 910,
-    "missingSourceUnits": 12,
+    "checkedAt": "2026-10-21T08:50:49+00:00",
+    "matchedUnits": 909,
+    "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
     "unmappedProjects": [
       {
