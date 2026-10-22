@@ -27,7 +27,7 @@ $('printOffer').onclick=()=>{
 };
 let selected=PVFavorites.ids();try{if(location.hash.startsWith('#ids=')){const a=JSON.parse(decodeURIComponent(location.hash.slice(5)));if(Array.isArray(a))selected=[...new Set(a.filter(x=>typeof x==='string'))]}}catch{}
 try{const [a,b]=await Promise.all([fetch('./data.json',{cache:'no-store'}),fetch('./project-images.json')]);if(!a.ok)throw Error();const data=await a.json(),manifest=b.ok?await b.json():{projects:[]};const images=new Map(manifest.projects.map(p=>[key(p.firm,p.project),p]));
-const groups=[['Temel özellikler',[['Firma',r=>r.firm],['Bölge',r=>r.area],['Daire no',r=>r.unit],['Fiyat',r=>money(r.price)],['Yatak odası',r=>number(r.bedrooms)],['Banyo',r=>number(r.bathrooms)],['İç alan',r=>area(r.internal)],['Dış alan',r=>area(r.outdoor)],['Toplam alan',r=>area(r.total)],['Kat',floor]]],['Yatırım ve teslim',[['Müsaitlik',r=>status(r.status)],['Teslim tarihi',r=>r.delivery||'—'],['Otopark',r=>yes(r.parking)],['Depo',r=>yes(r.storage)],['Kira / kira garantisi',r=>rental(r.rental)]]]];
+const groups=[['Temel özellikler',[['Proje Firması',r=>r.firm],['Bölge',r=>r.area],['Daire no',r=>r.unit],['Fiyat',r=>money(r.price)],['Yatak odası',r=>number(r.bedrooms)],['Banyo',r=>number(r.bathrooms)],['İç alan',r=>area(r.internal)],['Dış alan',r=>area(r.outdoor)],['Toplam alan',r=>area(r.total)],['Kat',floor]]],['Yatırım ve teslim',[['Satış Durumu',r=>status(r.status)],['Teslim tarihi',r=>r.delivery||'—'],['Otopark',r=>yes(r.parking)],['Depo',r=>yes(r.storage)],['Kaynak kira bilgisi',r=>rental(r.rental)]]]];
 
 const propertyLine=(r,label='')=>{
  const value=v=>v===null||v===undefined||v===''||v==='—'?'-':v;
