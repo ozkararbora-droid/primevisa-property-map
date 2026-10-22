@@ -36,6 +36,7 @@ const propertyLine=(r,label='')=>{
 };
 const alternativeNote='<p class="alternatives-note">Fiyat uçları projenin Müsait grubuna göredir. Alternatifler aynı firma, proje ve mevcut adres/blok bilgisine göre eşleştirilir; blok bilgisi yoksa bina teyidi gerekir. -: kaynakta yok. Teyit bekleyen evler Müsait grubuna dahildir.</p>';
 const alternativeSection=(r,list,offset=0,total=list.length)=>{
+ if(!total)return '<section class="alternatives-section"><div class="alternatives-title"><b>'+esc(r.project)+' · '+esc(r.unit)+'</b></div><div class="alternatives-lines"><p class="alternatives-empty">Uygun alternatif yok</p></div></section>';
  const range=PVAlternatives.extremes(r,data.records);
  return '<section class="alternatives-section"><div class="alternatives-title"><b>'+esc(r.project)+' · '+esc(r.unit)+'</b><span>'+total+' alternatif · en fazla +10.000 €'+(offset?' · devamı':'')+'</span></div><div class="alternatives-lines">'+(!offset&&range.length?propertyLine(range[0],'En uygun Fiyat')+propertyLine(range[1],'En Yüksek Fiyat'):'')+(list.length?list.map(r=>propertyLine(r)).join(''):'<p class="alternatives-empty">Uygun alternatif yok.</p>')+'</div></section>';
 };
