@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T14:00:39+00:00",
+  "generatedAt": "2026-10-22T10:11:13+00:00",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 922,
   "records": [
@@ -8342,7 +8342,7 @@
       "parking": "N/A",
       "storage": "Yes",
       "price": 250000,
-      "status": "Reserved",
+      "status": "Available",
       "gv": "Yes",
       "delivery": "Q2 2028",
       "deliveryDate": null,
@@ -8354,8 +8354,8 @@
       "lng": 23.7,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Dimosthenous%20270%2C%20Kallithea%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-10-22T10:11:13+00:00"
     },
     {
       "id": "Zafido|Dimosthenous 270 - Kallithea|GF3",
@@ -9241,7 +9241,7 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 284000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
       "delivery": "Q2 2028",
       "deliveryDate": null,
@@ -9253,8 +9253,8 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-10-22T10:11:13+00:00"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 3.5",
@@ -15787,8 +15787,8 @@
       "total": 42,
       "parking": "P28",
       "storage": "",
-      "price": 280000,
-      "status": "Available",
+      "price": null,
+      "status": "Sold",
       "gv": "",
       "delivery": "31.08.2027",
       "deliveryDate": "2027-08-31",
@@ -15800,9 +15800,9 @@
       "lng": 23.733,
       "mapUrl": "https://maps.app.goo.gl/vTfur1QuMpj2gkSJA",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "Priced unit; Condition blank",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Sold",
+      "sourceDocumentDate": "2026-10-22",
+      "lastCheckedAt": "2026-10-22T10:11:13+00:00"
     },
     {
       "id": "Hestia|DELOS|307",
@@ -29841,7 +29841,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-10-21T14:00:39+00:00",
+    "checkedAt": "2026-10-22T10:11:13+00:00",
     "matchedUnits": 909,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
