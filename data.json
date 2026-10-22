@@ -22503,7 +22503,7 @@ Warning: truncated output (original token count: 264099)
     }
   ],
   "audit": {
-    "checkedAt": "2026-10-22T10:11:13+00:00",
+    "checkedAt": "2026-10-22T18:12:07+00:00",
     "matchedUnits": 909,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
