@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T18:12:07+00:00",
+  "generatedAt": "2026-10-22T21:32:33+00:00",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 922,
   "records": [
@@ -24101,9 +24101,9 @@
       "floor": "0",
       "bedrooms": 2,
       "bathrooms": 2,
-      "internal": 65,
+      "internal": 66,
       "outdoor": 8,
-      "total": 73,
+      "total": 74,
       "parking": "",
       "storage": "6",
       "price": 280000,
@@ -24120,7 +24120,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Damvergi%2024%2C%20Peristeri%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "[1] Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-10-22T21:32:33+00:00"
     },
     {
       "id": "SHomes / SHG|Alētheia Residences|B1",
@@ -29841,7 +29841,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-10-22T18:12:07+00:00",
+    "checkedAt": "2026-10-22T21:32:33+00:00",
     "matchedUnits": 909,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
