@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:40:48.120Z",
+  "generatedAt": "2026-10-23T18:59:22.409Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 942,
   "records": [
@@ -29807,7 +29807,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Tahmini aylık 1100–1300 EUR (garanti değildir)",
       "source": "The 11 Project EN/TR.pdf; Floor Plans (sqm).pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -29819,7 +29819,9 @@
       "sourceStatus": "Available",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Metaxourgio metro 120 m · Atina Merkez Tren İstasyonu 470 m · NTUA 720 m · Ulusal Arkeoloji Müzesi 760 m · Omonoia 620 m · Syntagma 1,7 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The 11 Project EN(1).pdf, sayfa 11"
     },
     {
       "id": "Be Greek|The 11 Project|GR1",
@@ -29842,7 +29844,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Tahmini aylık 850–950 EUR (garanti değildir)",
       "source": "The 11 Project EN/TR.pdf; Floor Plans (sqm).pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -29854,7 +29856,9 @@
       "sourceStatus": "Available",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Metaxourgio metro 120 m · Atina Merkez Tren İstasyonu 470 m · NTUA 720 m · Ulusal Arkeoloji Müzesi 760 m · Omonoia 620 m · Syntagma 1,7 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The 11 Project EN(1).pdf, sayfa 11"
     },
     {
       "id": "Be Greek|The 11 Project|A1",
@@ -29877,7 +29881,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Tahmini aylık 650–750 EUR (garanti değildir)",
       "source": "The 11 Project EN/TR.pdf; Floor Plans (sqm).pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -29889,7 +29893,9 @@
       "sourceStatus": "Sold",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Metaxourgio metro 120 m · Atina Merkez Tren İstasyonu 470 m · NTUA 720 m · Ulusal Arkeoloji Müzesi 760 m · Omonoia 620 m · Syntagma 1,7 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The 11 Project EN(1).pdf, sayfa 11"
     },
     {
       "id": "Be Greek|The 11 Project|A2",
@@ -29912,7 +29918,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Tahmini aylık 620–720 EUR (garanti değildir)",
       "source": "The 11 Project EN/TR.pdf; Floor Plans (sqm).pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -29924,7 +29930,9 @@
       "sourceStatus": "Available",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Metaxourgio metro 120 m · Atina Merkez Tren İstasyonu 470 m · NTUA 720 m · Ulusal Arkeoloji Müzesi 760 m · Omonoia 620 m · Syntagma 1,7 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The 11 Project EN(1).pdf, sayfa 11"
     },
     {
       "id": "Be Greek|The 11 Project|B2",
@@ -29947,7 +29955,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Tahmini aylık 690–790 EUR (garanti değildir)",
       "source": "The 11 Project EN/TR.pdf; Floor Plans (sqm).pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -29959,7 +29967,9 @@
       "sourceStatus": "Available",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Metaxourgio metro 120 m · Atina Merkez Tren İstasyonu 470 m · NTUA 720 m · Ulusal Arkeoloji Müzesi 760 m · Omonoia 620 m · Syntagma 1,7 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The 11 Project EN(1).pdf, sayfa 11"
     },
     {
       "id": "Be Greek|The 11 Project|B1",
@@ -29982,7 +29992,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Tahmini aylık 640–740 EUR (garanti değildir)",
       "source": "The 11 Project EN/TR.pdf; Floor Plans (sqm).pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -29994,7 +30004,9 @@
       "sourceStatus": "Available",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Metaxourgio metro 120 m · Atina Merkez Tren İstasyonu 470 m · NTUA 720 m · Ulusal Arkeoloji Müzesi 760 m · Omonoia 620 m · Syntagma 1,7 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The 11 Project EN(1).pdf, sayfa 11"
     },
     {
       "id": "Be Greek|The 11 Project|C1",
@@ -30017,7 +30029,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Tahmini aylık 720–820 EUR (garanti değildir)",
       "source": "The 11 Project EN/TR.pdf; Floor Plans (sqm).pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -30029,7 +30041,9 @@
       "sourceStatus": "Sold",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Metaxourgio metro 120 m · Atina Merkez Tren İstasyonu 470 m · NTUA 720 m · Ulusal Arkeoloji Müzesi 760 m · Omonoia 620 m · Syntagma 1,7 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The 11 Project EN(1).pdf, sayfa 11"
     },
     {
       "id": "Be Greek|The 11 Project|C2",
@@ -30052,7 +30066,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Tahmini aylık 670–770 EUR (garanti değildir)",
       "source": "The 11 Project EN/TR.pdf; Floor Plans (sqm).pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -30064,7 +30078,9 @@
       "sourceStatus": "Available",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Metaxourgio metro 120 m · Atina Merkez Tren İstasyonu 470 m · NTUA 720 m · Ulusal Arkeoloji Müzesi 760 m · Omonoia 620 m · Syntagma 1,7 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The 11 Project EN(1).pdf, sayfa 11"
     },
     {
       "id": "Be Greek|The 11 Project|D2",
@@ -30087,7 +30103,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Tahmini aylık 650–750 EUR (garanti değildir)",
       "source": "The 11 Project EN/TR.pdf; Floor Plans (sqm).pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -30099,7 +30115,9 @@
       "sourceStatus": "Check",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": "D2 satış fiyatı ve müsaitlik teyidi gerekli."
+      "dataNote": "D2 satış fiyatı ve müsaitlik teyidi gerekli.",
+      "locationDetails": "Broşüre göre: Metaxourgio metro 120 m · Atina Merkez Tren İstasyonu 470 m · NTUA 720 m · Ulusal Arkeoloji Müzesi 760 m · Omonoia 620 m · Syntagma 1,7 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The 11 Project EN(1).pdf, sayfa 11"
     },
     {
       "id": "Be Greek|The 11 Project|D1",
@@ -30122,7 +30140,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Tahmini aylık 630–730 EUR (garanti değildir)",
       "source": "The 11 Project EN/TR.pdf; Floor Plans (sqm).pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -30134,7 +30152,9 @@
       "sourceStatus": "Sold",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Metaxourgio metro 120 m · Atina Merkez Tren İstasyonu 470 m · NTUA 720 m · Ulusal Arkeoloji Müzesi 760 m · Omonoia 620 m · Syntagma 1,7 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The 11 Project EN(1).pdf, sayfa 11"
     },
     {
       "id": "Be Greek|The 11 Project|E",
@@ -30157,7 +30177,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Tahmini aylık 1000–1200 EUR (garanti değildir)",
       "source": "The 11 Project EN/TR.pdf; Floor Plans (sqm).pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -30169,7 +30189,9 @@
       "sourceStatus": "Available",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Metaxourgio metro 120 m · Atina Merkez Tren İstasyonu 470 m · NTUA 720 m · Ulusal Arkeoloji Müzesi 760 m · Omonoia 620 m · Syntagma 1,7 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The 11 Project EN(1).pdf, sayfa 11"
     },
     {
       "id": "Be Greek|Nikaia Elite Residencies|L1",
@@ -30192,7 +30214,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Kira bilgisi belirtilmemiş (hesaplama varsayımı: yıllık yüzde 3)",
       "source": "The Elite Residencies EN/TR.pdf; Nikaia floor plans.pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -30204,7 +30226,9 @@
       "sourceStatus": "Available",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Nikaia metro 390 m · Pire Limanı 2,5 km · Nikaia Adliyesi 500 m · otobüs durağı 150 m · Pire Üniversitesi 1,5 km · deniz 2 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The Elite Residencies EN(1).pdf: kira tutarı/oranı belirtilmemiş"
     },
     {
       "id": "Be Greek|Nikaia Elite Residencies|L2",
@@ -30227,7 +30251,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Kira bilgisi belirtilmemiş (hesaplama varsayımı: yıllık yüzde 3)",
       "source": "The Elite Residencies EN/TR.pdf; Nikaia floor plans.pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -30239,7 +30263,9 @@
       "sourceStatus": "Available",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Nikaia metro 390 m · Pire Limanı 2,5 km · Nikaia Adliyesi 500 m · otobüs durağı 150 m · Pire Üniversitesi 1,5 km · deniz 2 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The Elite Residencies EN(1).pdf: kira tutarı/oranı belirtilmemiş"
     },
     {
       "id": "Be Greek|Nikaia Elite Residencies|L3",
@@ -30262,7 +30288,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Kira bilgisi belirtilmemiş (hesaplama varsayımı: yıllık yüzde 3)",
       "source": "The Elite Residencies EN/TR.pdf; Nikaia floor plans.pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -30274,7 +30300,9 @@
       "sourceStatus": "Available",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Nikaia metro 390 m · Pire Limanı 2,5 km · Nikaia Adliyesi 500 m · otobüs durağı 150 m · Pire Üniversitesi 1,5 km · deniz 2 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The Elite Residencies EN(1).pdf: kira tutarı/oranı belirtilmemiş"
     },
     {
       "id": "Be Greek|Nikaia Elite Residencies|A1",
@@ -30297,7 +30325,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Kira bilgisi belirtilmemiş (hesaplama varsayımı: yıllık yüzde 3)",
       "source": "The Elite Residencies EN/TR.pdf; Nikaia floor plans.pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -30309,7 +30337,9 @@
       "sourceStatus": "Available",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Nikaia metro 390 m · Pire Limanı 2,5 km · Nikaia Adliyesi 500 m · otobüs durağı 150 m · Pire Üniversitesi 1,5 km · deniz 2 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The Elite Residencies EN(1).pdf: kira tutarı/oranı belirtilmemiş"
     },
     {
       "id": "Be Greek|Nikaia Elite Residencies|A2",
@@ -30332,7 +30362,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Kira bilgisi belirtilmemiş (hesaplama varsayımı: yıllık yüzde 3)",
       "source": "The Elite Residencies EN/TR.pdf; Nikaia floor plans.pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -30344,7 +30374,9 @@
       "sourceStatus": "Available",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Nikaia metro 390 m · Pire Limanı 2,5 km · Nikaia Adliyesi 500 m · otobüs durağı 150 m · Pire Üniversitesi 1,5 km · deniz 2 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The Elite Residencies EN(1).pdf: kira tutarı/oranı belirtilmemiş"
     },
     {
       "id": "Be Greek|Nikaia Elite Residencies|B1",
@@ -30367,7 +30399,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Kira bilgisi belirtilmemiş (hesaplama varsayımı: yıllık yüzde 3)",
       "source": "The Elite Residencies EN/TR.pdf; Nikaia floor plans.pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -30379,7 +30411,9 @@
       "sourceStatus": "Sold",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Nikaia metro 390 m · Pire Limanı 2,5 km · Nikaia Adliyesi 500 m · otobüs durağı 150 m · Pire Üniversitesi 1,5 km · deniz 2 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The Elite Residencies EN(1).pdf: kira tutarı/oranı belirtilmemiş"
     },
     {
       "id": "Be Greek|Nikaia Elite Residencies|B2",
@@ -30402,7 +30436,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Kira bilgisi belirtilmemiş (hesaplama varsayımı: yıllık yüzde 3)",
       "source": "The Elite Residencies EN/TR.pdf; Nikaia floor plans.pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -30414,7 +30448,9 @@
       "sourceStatus": "Available",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Nikaia metro 390 m · Pire Limanı 2,5 km · Nikaia Adliyesi 500 m · otobüs durağı 150 m · Pire Üniversitesi 1,5 km · deniz 2 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The Elite Residencies EN(1).pdf: kira tutarı/oranı belirtilmemiş"
     },
     {
       "id": "Be Greek|Nikaia Elite Residencies|C1",
@@ -30437,7 +30473,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Kira bilgisi belirtilmemiş (hesaplama varsayımı: yıllık yüzde 3)",
       "source": "The Elite Residencies EN/TR.pdf; Nikaia floor plans.pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -30449,7 +30485,9 @@
       "sourceStatus": "Sold",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Nikaia metro 390 m · Pire Limanı 2,5 km · Nikaia Adliyesi 500 m · otobüs durağı 150 m · Pire Üniversitesi 1,5 km · deniz 2 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The Elite Residencies EN(1).pdf: kira tutarı/oranı belirtilmemiş"
     },
     {
       "id": "Be Greek|Nikaia Elite Residencies|C2",
@@ -30472,7 +30510,7 @@
       "gv": "",
       "delivery": "",
       "deliveryDate": "",
-      "rental": "",
+      "rental": "Kira bilgisi belirtilmemiş (hesaplama varsayımı: yıllık yüzde 3)",
       "source": "The Elite Residencies EN/TR.pdf; Nikaia floor plans.pdf",
       "freshness": "PDF kaydı · canlı stok teyidi değil",
       "media": "",
@@ -30484,7 +30522,9 @@
       "sourceStatus": "Sold",
       "lastCheckedAt": "2026-10-23",
       "sourceNote": "PDF kaydı; canlı stok teyidi değildir.",
-      "dataNote": ""
+      "dataNote": "",
+      "locationDetails": "Broşüre göre: Nikaia metro 390 m · Pire Limanı 2,5 km · Nikaia Adliyesi 500 m · otobüs durağı 150 m · Pire Üniversitesi 1,5 km · deniz 2 km. Mesafelerin ölçüm yöntemi belirtilmemiştir.",
+      "rentalSource": "The Elite Residencies EN(1).pdf: kira tutarı/oranı belirtilmemiş"
     }
   ],
   "firmColors": {
