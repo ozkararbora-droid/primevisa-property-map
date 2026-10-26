@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T13:12:24.000Z",
+  "generatedAt": "2026-10-26T14:21:17.000Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 942,
   "records": [
@@ -5122,8 +5122,8 @@
       "lng": 23.757,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "On hold 22/10",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "On hold 29/10",
+      "lastCheckedAt": "2026-10-26T14:21:17+00:00"
     },
     {
       "id": "OIKOS|TRINITY|C02",
@@ -30582,7 +30582,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-10-26T13:12:24+00:00",
+    "checkedAt": "2026-10-26T14:21:17+00:00",
     "matchedUnits": 909,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
