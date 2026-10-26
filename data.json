@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T18:59:22.409Z",
+  "generatedAt": "2026-10-26T13:12:24.000Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 942,
   "records": [
@@ -5142,7 +5142,7 @@
       "parking": "",
       "storage": "",
       "price": 255000,
-      "status": "Reserved",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.06.2028",
       "deliveryDate": "2028-06-30",
@@ -5154,8 +5154,8 @@
       "lng": 23.757,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-10-26T13:12:24+00:00"
     },
     {
       "id": "OIKOS|TRINITY|C03",
@@ -30582,7 +30582,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-10-22T21:32:33+00:00",
+    "checkedAt": "2026-10-26T13:12:24+00:00",
     "matchedUnits": 909,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
@@ -30592,6 +30592,12 @@
         "project": "SIERRA",
         "unitCount": 9,
         "reason": "No verified coordinate in Map Data; 8 Sold, 1 Available"
+      },
+      {
+        "firm": "Zafido",
+        "project": "El. Venizelou 90 - Moschato",
+        "unitCount": 1,
+        "reason": "Unit 2.5 is RESERVED in the source, but no verified Master Stock and Map Data match exists"
       }
     ],
     "beGreekImport": {
