@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T14:21:17.000Z",
+  "generatedAt": "2026-10-26T17:27:02.000Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 942,
   "records": [
@@ -8985,7 +8985,7 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 284000,
-      "status": "Reserved",
+      "status": "Available",
       "gv": "Yes",
       "delivery": "Q2 2028",
       "deliveryDate": null,
@@ -8997,8 +8997,8 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-10-26T17:27:02+00:00"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 2.3",
@@ -30582,7 +30582,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-10-26T14:21:17+00:00",
+    "checkedAt": "2026-10-26T17:27:02+00:00",
     "matchedUnits": 909,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
