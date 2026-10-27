@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T07:42:35.000Z",
+  "generatedAt": "2026-10-27T09:14:49.000Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 942,
   "records": [
@@ -30582,7 +30582,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-10-27T07:42:35+00:00",
+    "checkedAt": "2026-10-27T09:14:49+00:00",
     "matchedUnits": 909,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
@@ -30592,6 +30592,12 @@
         "project": "SIERRA",
         "unitCount": 9,
         "reason": "No verified coordinate in Map Data; 8 Sold, 1 Available"
+      },
+      {
+        "firm": "OIKOS",
+        "project": "THISEOS SERVICED APTS",
+        "unitCount": 1,
+        "reason": "Unit B03 is Reserved in the source, but no verified Master Stock and Map Data match exists"
       },
       {
         "firm": "Zafido",
