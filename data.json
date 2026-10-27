@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T09:14:49.000Z",
+  "generatedAt": "2026-10-27T12:19:12.112Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 942,
   "records": [
@@ -30582,7 +30582,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-10-27T09:14:49+00:00",
+    "checkedAt": "2026-10-27T12:19:12+00:00",
     "matchedUnits": 909,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
@@ -30591,7 +30591,7 @@
         "firm": "OIKOS",
         "project": "SIERRA",
         "unitCount": 9,
-        "reason": "No verified coordinate in Map Data; 8 Sold, 1 Available"
+        "reason": "No verified coordinate in Map Data; 8 Sold, 1 On Hold (until 29/10)"
       },
       {
         "firm": "OIKOS",
