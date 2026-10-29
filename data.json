@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T11:07:11.979Z",
+  "generatedAt": "2026-10-29T12:43:52.763Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 943,
   "records": [
@@ -17338,20 +17338,21 @@
       "parking": "1 parking space",
       "storage": "",
       "price": 297500,
-      "status": "Available",
+      "status": "Check Availability",
       "gv": "",
       "delivery": "01.09.2027",
       "deliveryDate": "2027-09-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel listede yok; firma teyidi gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 38.021,
       "lng": 23.858,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Leoforos%20Spaton%2036%2C%20Gerakas%2C%20Greece",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "sourceStatus": "Unit absent from current source list",
+      "lastCheckedAt": "2026-10-29T12:43:52.763Z",
+      "previousStatus": "Available"
     },
     {
       "id": "Santheos|Spat|B-4",
@@ -30631,7 +30632,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-10-29T11:07:11.979Z",
+    "checkedAt": "2026-10-29T12:43:52.763Z",
     "matchedUnits": 909,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
