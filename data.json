@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T17:25:17.583Z",
+  "generatedAt": "2026-10-30T08:11:56.000Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 943,
   "records": [
@@ -5663,7 +5663,7 @@
       "parking": "",
       "storage": "",
       "price": 276000,
-      "status": "On Hold",
+      "status": "Reserved",
       "gv": "",
       "delivery": "31.12.2027",
       "deliveryDate": "2027-12-31",
@@ -5675,9 +5675,9 @@
       "lng": 23.655,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "On hold 30/10",
-      "lastCheckedAt": "2026-10-27T15:48:07+00:00",
-      "dataNote": "OIKOS kaynağında On hold 30/10."
+      "sourceStatus": "Reserved",
+      "lastCheckedAt": "2026-10-30T08:11:56+00:00",
+      "dataNote": "OIKOS kaynağında Reserved."
     },
     {
       "id": "OIKOS|MERIDIA|D05",
@@ -30632,7 +30632,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-10-29T17:25:17.583Z",
+    "checkedAt": "2026-10-30T08:11:56.000Z",
     "matchedUnits": 909,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
