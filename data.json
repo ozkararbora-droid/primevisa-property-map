@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T07:57:00.000Z",
+  "generatedAt": "2026-11-05T08:56:00.000Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 943,
   "records": [
@@ -3257,7 +3257,7 @@
       "parking": "",
       "storage": "",
       "price": 320000,
-      "status": "Reserved",
+      "status": "On Hold",
       "gv": "",
       "delivery": "31.05.2028",
       "deliveryDate": "2028-05-31",
@@ -3269,9 +3269,10 @@
       "lng": 23.701,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-10-27T15:29:29+00:00",
-      "dataNote": "OIKOS kaynağında Reserved."
+      "sourceStatus": "On hold 09/11",
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "dataNote": "OIKOS kaynağında 09/11 tarihine kadar On Hold.",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "OIKOS|BOULEVARD|A04",
@@ -3387,7 +3388,7 @@
       "parking": "",
       "storage": "",
       "price": 348000,
-      "status": "On Hold",
+      "status": "Available",
       "gv": "",
       "delivery": "31.05.2028",
       "deliveryDate": "2028-05-31",
@@ -3399,9 +3400,9 @@
       "lng": 23.701,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "On hold 09/11",
-      "lastCheckedAt": "2026-11-05T07:10:00.000Z",
-      "dataNote": "OIKOS kaynağında 09/11 tarihine kadar On Hold."
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "OIKOS|BOULEVARD|B10",
@@ -3452,7 +3453,7 @@
       "parking": "",
       "storage": "",
       "price": 323000,
-      "status": "Available",
+      "status": "On Hold",
       "gv": "",
       "delivery": "31.05.2028",
       "deliveryDate": "2028-05-31",
@@ -3464,8 +3465,10 @@
       "lng": 23.701,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "On hold 05/11",
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05",
+      "dataNote": "OIKOS kaynağında 05/11 tarihine kadar On Hold."
     },
     {
       "id": "OIKOS|BOULEVARD|C10",
@@ -3516,7 +3519,7 @@
       "parking": "",
       "storage": "",
       "price": 325000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "",
       "delivery": "31.05.2028",
       "deliveryDate": "2028-05-31",
@@ -3528,8 +3531,9 @@
       "lng": 23.701,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Reserved",
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "OIKOS|BOULEVARD|E01",
@@ -8356,7 +8360,7 @@
       "status": "Reserved",
       "gv": "Yes",
       "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "deliveryDate": "2028-06-30",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -8366,8 +8370,9 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Dimosthenous%20270%2C%20Kallithea%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-28T09:48:20.000Z",
-      "dataNote": "Zafido kaynağında RESERVED."
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "dataNote": "Zafido kaynağında RESERVED.",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Dimosthenous 270 - Kallithea|GF3",
@@ -8386,10 +8391,10 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 277000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
       "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "deliveryDate": "2028-06-30",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -8398,8 +8403,9 @@
       "lng": 23.7,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Dimosthenous%20270%2C%20Kallithea%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Dimosthenous 270 - Kallithea|2.1",
@@ -8484,8 +8490,8 @@
       "price": 253000,
       "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -8495,7 +8501,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Menandrou%20%26%20Nirvana%206%2C%20Ilioupoli%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Menandrou & Nirvana 6 - Ilioupoli|A GF2",
@@ -8516,8 +8523,8 @@
       "price": 263000,
       "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -8527,7 +8534,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Menandrou%20%26%20Nirvana%206%2C%20Ilioupoli%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Menandrou & Nirvana 6 - Ilioupoli|1.1",
@@ -8546,10 +8554,10 @@
       "parking": "N/A",
       "storage": "N/A",
       "price": 267000,
-      "status": "Reserved",
+      "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -8558,8 +8566,9 @@
       "lng": 23.758,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Menandrou%20%26%20Nirvana%206%2C%20Ilioupoli%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-22T18:12:07+00:00"
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Menandrou & Nirvana 6 - Ilioupoli|1.2",
@@ -8580,8 +8589,8 @@
       "price": 263000,
       "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -8591,7 +8600,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Menandrou%20%26%20Nirvana%206%2C%20Ilioupoli%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Menandrou & Nirvana 6 - Ilioupoli|2.2",
@@ -8612,8 +8622,8 @@
       "price": 272000,
       "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -8623,7 +8633,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Menandrou%20%26%20Nirvana%206%2C%20Ilioupoli%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Menandrou & Nirvana 6 - Ilioupoli|3.1",
@@ -8644,8 +8655,8 @@
       "price": 281000,
       "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -8655,7 +8666,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Menandrou%20%26%20Nirvana%206%2C%20Ilioupoli%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Menandrou & Nirvana 6 - Ilioupoli|3.2",
@@ -8676,8 +8688,8 @@
       "price": 283000,
       "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -8687,7 +8699,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Menandrou%20%26%20Nirvana%206%2C%20Ilioupoli%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A GF1",
@@ -8708,8 +8721,8 @@
       "price": 286000,
       "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -8719,7 +8732,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 1.1",
@@ -8835,10 +8849,10 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 276000,
-      "status": "Reserved",
+      "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -8847,8 +8861,9 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-22T18:12:07+00:00"
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 1.5",
@@ -8965,10 +8980,10 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 280000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -8977,8 +8992,9 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 2.1",
@@ -9061,10 +9077,10 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 280000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9073,8 +9089,9 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 2.5",
@@ -9093,10 +9110,10 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 280000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9105,8 +9122,9 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 2.6",
@@ -9127,8 +9145,8 @@
       "price": 282000,
       "status": "Reserved",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9138,7 +9156,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 2.8",
@@ -9191,8 +9210,8 @@
       "price": 288000,
       "status": "Reserved",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9202,7 +9221,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 3.3",
@@ -9223,8 +9243,8 @@
       "price": 286000,
       "status": "Reserved",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9234,7 +9254,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 3.4",
@@ -9318,10 +9339,10 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 341000,
-      "status": "Reserved",
+      "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9330,8 +9351,9 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A M2",
@@ -9350,10 +9372,10 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 383000,
-      "status": "Reserved",
+      "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9362,8 +9384,9 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A M3",
@@ -9382,10 +9405,10 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 319000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9394,8 +9417,9 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A M4",
@@ -9416,8 +9440,8 @@
       "price": 353000,
       "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9427,7 +9451,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A M5",
@@ -9448,8 +9473,8 @@
       "price": 353000,
       "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9459,7 +9484,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A M6",
@@ -9480,8 +9506,8 @@
       "price": 319000,
       "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9491,7 +9517,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A M7",
@@ -9512,8 +9539,8 @@
       "price": 383000,
       "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9523,7 +9550,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A M8",
@@ -9544,8 +9572,8 @@
       "price": 340000,
       "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9555,7 +9583,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B GF1",
@@ -9576,8 +9605,8 @@
       "price": 282000,
       "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9587,7 +9616,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B GF2",
@@ -9606,10 +9636,10 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 285000,
-      "status": "Reserved",
+      "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9618,9 +9648,10 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00",
-      "previousStatus": "Available"
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "previousStatus": "Available",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B GF3",
@@ -9641,8 +9672,8 @@
       "price": 281000,
       "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9652,7 +9683,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B GF4",
@@ -9673,8 +9705,8 @@
       "price": 289000,
       "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9684,7 +9716,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B GF5",
@@ -9705,8 +9738,8 @@
       "price": 289000,
       "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9716,7 +9749,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B GF6",
@@ -9737,8 +9771,8 @@
       "price": 400000,
       "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9748,7 +9782,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B M1",
@@ -9769,8 +9804,8 @@
       "price": 290000,
       "status": "Reserved",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9780,7 +9815,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B 1.1",
@@ -9801,8 +9837,8 @@
       "price": 281000,
       "status": "Reserved",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9812,7 +9848,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B 1.2",
@@ -9833,8 +9870,8 @@
       "price": 267000,
       "status": "Reserved",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9844,7 +9881,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B 1.3",
@@ -9865,8 +9903,8 @@
       "price": 271000,
       "status": "Reserved",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9876,7 +9914,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B 1.4",
@@ -9897,8 +9936,8 @@
       "price": 268000,
       "status": "Reserved",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9908,7 +9947,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B 1.5",
@@ -9929,8 +9969,8 @@
       "price": 357000,
       "status": "Available",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": null,
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -9940,7 +9980,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "V2 Development|PLAZA Residences|B-1",
@@ -30633,7 +30674,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-11-05T07:57:00.000Z",
+    "checkedAt": "2026-11-05T08:56:00.000Z",
     "matchedUnits": 909,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
