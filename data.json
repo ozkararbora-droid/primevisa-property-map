@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T08:56:00.000Z",
+  "generatedAt": "2026-11-05T11:15:00.000Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 943,
   "records": [
@@ -1785,7 +1785,7 @@
       "parking": "",
       "storage": "",
       "price": 267000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "",
       "delivery": "31.12.2028",
       "deliveryDate": "2028-12-31",
@@ -1797,8 +1797,9 @@
       "lng": 23.758,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "reserved!",
+      "lastCheckedAt": "2026-11-05T11:15:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "OIKOS|THE GROVE|A07",
@@ -8133,7 +8134,7 @@
       "parking": "",
       "storage": "",
       "price": 278000,
-      "status": "On Hold",
+      "status": "Reserved",
       "gv": "",
       "delivery": "",
       "deliveryDate": null,
@@ -8145,8 +8146,9 @@
       "lng": 23.8135,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "On hold",
-      "lastCheckedAt": "2026-10-21T10:17:13+00:00"
+      "sourceStatus": "Reserved",
+      "lastCheckedAt": "2026-11-05T11:15:00.000Z",
+      "sourceDocumentDate": "2026-11-05"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|D05",
@@ -8393,8 +8395,8 @@
       "price": 277000,
       "status": "Reserved",
       "gv": "Yes",
-      "delivery": "Q2 2028",
-      "deliveryDate": "2028-06-30",
+      "delivery": "Q4 2028",
+      "deliveryDate": "2028-12-31",
       "rental": "0.03",
       "source": "https://docs.google.com/spreadsheets/d/1B1Atp8hOrIdgbO3g2njoOBqbtr5np_-gBVEdDI6UffI/edit",
       "freshness": "🟢 Kaynaktan kontrol edildi",
@@ -8404,7 +8406,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Dimosthenous%20270%2C%20Kallithea%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-05T08:56:00.000Z",
+      "lastCheckedAt": "2026-11-05T11:15:00.000Z",
       "sourceDocumentDate": "2026-11-05"
     },
     {
@@ -30674,7 +30676,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-11-05T08:56:00.000Z",
+    "checkedAt": "2026-11-05T11:15:00.000Z",
     "matchedUnits": 909,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
