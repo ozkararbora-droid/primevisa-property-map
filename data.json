@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T14:11:00.000Z",
+  "generatedAt": "2026-11-05T16:25:00.000Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 943,
   "records": [
@@ -13667,7 +13667,7 @@
       "parking": "",
       "storage": "S1 (6.4 m²)",
       "price": 265000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "31.08.2027",
       "deliveryDate": "2027-08-31",
@@ -13679,9 +13679,10 @@
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Priced unit; Condition blank",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Sold",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-05T16:25:00.000Z",
+      "sourceModifiedAt": "2026-11-05T16:10:59.227Z"
     },
     {
       "id": "Hestia|ORION|I2-M2",
@@ -14228,7 +14229,7 @@
       "parking": "",
       "storage": "S2 (6.38 m²)",
       "price": 325000,
-      "status": "Available",
+      "status": "Locked",
       "gv": "",
       "delivery": "31.08.2027",
       "deliveryDate": "2027-08-31",
@@ -14240,9 +14241,10 @@
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Priced unit; Condition blank",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Locked",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-05T16:25:00.000Z",
+      "sourceModifiedAt": "2026-11-05T16:10:59.227Z"
     },
     {
       "id": "Hestia|ORION|D1",
@@ -14624,7 +14626,7 @@
       "parking": "",
       "storage": "",
       "price": 270000,
-      "status": "Locked",
+      "status": "Sold",
       "gv": "",
       "delivery": "31.08.2027",
       "deliveryDate": "2027-08-31",
@@ -14636,9 +14638,10 @@
       "lng": 23.708,
       "mapUrl": "https://maps.app.goo.gl/6kfDWSRTn8SmMWA57",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "Locked",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-30T13:14:00+00:00"
+      "sourceStatus": "Sold",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-05T16:25:00.000Z",
+      "sourceModifiedAt": "2026-11-05T16:10:59.227Z"
     },
     {
       "id": "Hestia|PARAGON I|A4",
@@ -22569,7 +22572,7 @@
       "parking": "",
       "storage": "",
       "price": 250000,
-      "status": "Available",
+      "status": "Booked",
       "gv": "",
       "delivery": "01.12.2027",
       "deliveryDate": "2027-12-01",
@@ -22581,8 +22584,8 @@
       "lng": 23.668,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=P.%20Mela%2025%2C%20Ag.%20Ioannis%20Rentis%2C%20Athens%2C%20Greece",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "[1] Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "sourceStatus": "[2] Booked",
+      "lastCheckedAt": "2026-11-05T16:25:00.000Z"
     },
     {
       "id": "SHomes / SHG|Elysium Gardens|G4",
@@ -23433,7 +23436,7 @@
       "parking": "",
       "storage": "",
       "price": 400000,
-      "status": "Available",
+      "status": "Booked",
       "gv": "",
       "delivery": "01.12.2027",
       "deliveryDate": "2027-12-01",
@@ -23445,8 +23448,8 @@
       "lng": 23.668,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=P.%20Mela%2025%2C%20Ag.%20Ioannis%20Rentis%2C%20Athens%2C%20Greece",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "[1] Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "sourceStatus": "[2] Booked",
+      "lastCheckedAt": "2026-11-05T16:25:00.000Z"
     },
     {
       "id": "SHomes / SHG|Elysium Gardens|D7",
@@ -30678,7 +30681,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-11-05T14:11:00.000Z",
+    "checkedAt": "2026-11-05T16:25:00.000Z",
     "matchedUnits": 909,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
@@ -30726,13 +30729,32 @@
       ]
     },
     "oikosRefresh": {
-      "checkedAt": "2026-11-05T14:11:00.000Z",
-      "documentUpdatedAt": "2026-11-05T14:06:14.630Z",
-      "statusChanges": 2,
+      "checkedAt": "2026-11-05T16:25:00.000Z",
+      "documentUpdatedAt": "2026-11-05T16:25:59.355Z",
+      "statusChanges": 0,
       "dimensionRevisions": 0,
+      "changes": []
+    },
+    "shgRefresh": {
+      "checkedAt": "2026-11-05T16:25:00.000Z",
+      "documentUpdatedAt": "2026-11-05T15:22:09.457Z",
+      "statusChanges": 2,
+      "priceChanges": 0,
       "changes": [
-        "OASIS RESIDENCES A07: Reserved → Available",
-        "OASIS RESIDENCES GF06: Reserved → Sold"
+        "Elysium Gardens G3: Available → Booked",
+        "Elysium Gardens D5: Available → Booked"
+      ]
+    },
+    "hestiaRefresh": {
+      "checkedAt": "2026-11-05T16:25:00.000Z",
+      "sourceModifiedAt": "2026-11-05T16:10:59.227Z",
+      "sourceDocumentDate": null,
+      "statusChanges": 3,
+      "priceChanges": 0,
+      "changes": [
+        "ORION I1-M1: Available → Sold",
+        "ORION C3: Available → Locked",
+        "PARAGON I A3: Locked → Sold"
       ]
     }
   }
