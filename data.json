@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T11:09:49.000Z",
+  "generatedAt": "2026-11-11T12:22:28.000Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 944,
   "records": [
@@ -9759,7 +9759,7 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 319000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
       "delivery": "Q4 2028",
       "deliveryDate": "2028-12-31",
@@ -9771,8 +9771,8 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-11-11T12:22:28.000Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -30997,7 +30997,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-11-11T11:09:49.000Z",
+    "checkedAt": "2026-11-11T12:22:28.000Z",
     "matchedUnits": 910,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
@@ -31057,23 +31057,19 @@
       ]
     },
     "oikosRefresh": {
-      "checkedAt": "2026-11-11T11:09:49.000Z",
-      "documentUpdatedAt": "2026-11-11T11:06:32.949Z",
-      "statusChanges": 3,
+      "checkedAt": "2026-11-11T12:22:28.000Z",
+      "documentUpdatedAt": "2026-11-11T12:16:18.160Z",
+      "statusChanges": 0,
       "priceChanges": 0,
-      "changes": [
-        "OASIS RESIDENCES B05: Available → On Hold",
-        "TRINITY GF01: On Hold → Available",
-        "KIFISIA SUITES GF12: On Hold → Available"
-      ],
+      "changes": [],
       "unmappedNewProjects": [
         "ELYS - CHALDIAS 24 (12 units)",
         "SIERRA (9 units)"
       ]
     },
     "shgRefresh": {
-      "checkedAt": "2026-11-11T11:09:49.000Z",
-      "documentUpdatedAt": "2026-11-11T11:09:37.638Z",
+      "checkedAt": "2026-11-11T12:22:28.000Z",
+      "documentUpdatedAt": "2026-11-11T11:40:22.307Z",
       "statusChanges": 0,
       "priceChanges": 0,
       "matchedUnits": 236,
@@ -31094,14 +31090,12 @@
       "sheetsChecked": 5
     },
     "zafidoRefresh": {
-      "checkedAt": "2026-11-11T08:06:16.297Z",
-      "documentUpdatedAt": "2026-11-11T07:51:52.828Z",
-      "statusChanges": 3,
+      "checkedAt": "2026-11-11T12:22:28.000Z",
+      "documentUpdatedAt": "2026-11-11T11:13:10.818Z",
+      "statusChanges": 1,
       "priceChanges": 0,
       "changes": [
-        "Menandrou & Nirvana 6 - Ilioupoli 1.1: Reserved → Available",
-        "Navarinou 5 & Kosti Palama - CHALANDRI A GF1: Available → Reserved",
-        "Navarinou 5 & Kosti Palama - CHALANDRI B GF1: Available → Reserved"
+        "Navarinou 5 & Kosti Palama - CHALANDRI A M6: Available → Reserved"
       ],
       "unmappedNewUnits": [
         "Venus - Elliniko GF1"
