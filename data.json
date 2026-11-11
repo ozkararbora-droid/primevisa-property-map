@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T12:37:40.000Z",
+  "generatedAt": "2026-11-11T14:25:25.000Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 944,
   "records": [
@@ -23522,7 +23522,7 @@
       "parking": "",
       "storage": "",
       "price": 290000,
-      "status": "Available",
+      "status": "Booked",
       "gv": "",
       "delivery": "01.12.2027",
       "deliveryDate": "2027-12-01",
@@ -23534,8 +23534,8 @@
       "lng": 23.668,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=P.%20Mela%2025%2C%20Ag.%20Ioannis%20Rentis%2C%20Athens%2C%20Greece",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "[1] Available",
-      "lastCheckedAt": "2026-10-19T13:35:00+00:00"
+      "sourceStatus": "[2] Booked",
+      "lastCheckedAt": "2026-11-11T14:25:25.000Z"
     },
     {
       "id": "SHomes / SHG|Elysium Gardens|C6",
@@ -30998,7 +30998,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-11-11T12:37:40.000Z",
+    "checkedAt": "2026-11-11T14:25:25.000Z",
     "matchedUnits": 910,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
@@ -31069,12 +31069,14 @@
       ]
     },
     "shgRefresh": {
-      "checkedAt": "2026-11-11T12:22:28.000Z",
-      "documentUpdatedAt": "2026-11-11T11:40:22.307Z",
-      "statusChanges": 0,
+      "checkedAt": "2026-11-11T14:25:25.000Z",
+      "documentUpdatedAt": "2026-11-11T14:19:45.021Z",
+      "statusChanges": 1,
       "priceChanges": 0,
       "matchedUnits": 236,
-      "changes": []
+      "changes": [
+        "Elysium Gardens C4: Available → Booked; price unchanged at €290,000"
+      ]
     },
     "hestiaRefresh": {
       "checkedAt": "2026-11-11T12:37:40.000Z",
@@ -31088,13 +31090,11 @@
       "sheetsChecked": 5
     },
     "zafidoRefresh": {
-      "checkedAt": "2026-11-11T12:22:28.000Z",
-      "documentUpdatedAt": "2026-11-11T11:13:10.818Z",
-      "statusChanges": 1,
+      "checkedAt": "2026-11-11T14:25:25.000Z",
+      "documentUpdatedAt": "2026-11-11T14:17:09.168Z",
+      "statusChanges": 0,
       "priceChanges": 0,
-      "changes": [
-        "Navarinou 5 & Kosti Palama - CHALANDRI A M6: Available → Reserved"
-      ],
+      "changes": [],
       "unmappedNewUnits": [
         "Venus - Elliniko GF1"
       ]
@@ -31118,7 +31118,7 @@
       "changes": []
     },
     "staticSourceSearch": {
-      "checkedAt": "2026-11-11T08:06:16.297Z",
+      "checkedAt": "2026-11-11T14:25:25.000Z",
       "terraceHeights": {
         "latestDocumentDate": "2026-11-05",
         "newerFileFound": false,
