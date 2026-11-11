@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T14:25:25.000Z",
+  "generatedAt": "2026-11-11T15:15:18.000Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 944,
   "records": [
@@ -20,7 +20,7 @@
       "parking": "No",
       "storage": "",
       "price": 258000,
-      "status": "Reserved",
+      "status": "Available",
       "gv": "",
       "delivery": "30.06.2028",
       "deliveryDate": "2028-06-30",
@@ -32,8 +32,8 @@
       "lng": 23.692,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-11T15:15:18.000Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -154,7 +154,7 @@
       "parking": "No",
       "storage": "",
       "price": 390000,
-      "status": "Reserved",
+      "status": "Available",
       "gv": "",
       "delivery": "30.06.2028",
       "deliveryDate": "2028-06-30",
@@ -166,8 +166,8 @@
       "lng": 23.692,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-11T15:15:18.000Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -586,7 +586,7 @@
       "parking": "No",
       "storage": "",
       "price": 257000,
-      "status": "Reserved",
+      "status": "Available",
       "gv": "",
       "delivery": "30.06.2028",
       "deliveryDate": "2028-06-30",
@@ -598,8 +598,8 @@
       "lng": 23.692,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-11T15:15:18.000Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -619,7 +619,7 @@
       "parking": "No",
       "storage": "",
       "price": 259000,
-      "status": "Reserved",
+      "status": "Available",
       "gv": "",
       "delivery": "30.06.2028",
       "deliveryDate": "2028-06-30",
@@ -631,8 +631,8 @@
       "lng": 23.692,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-11T15:15:18.000Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -851,7 +851,7 @@
       "parking": "No",
       "storage": "",
       "price": 260000,
-      "status": "On Hold",
+      "status": "Reserved",
       "gv": "",
       "delivery": "30.06.2028",
       "deliveryDate": "2028-06-30",
@@ -863,8 +863,8 @@
       "lng": 23.692,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "On hold 16/11",
-      "lastCheckedAt": "2026-11-11T11:09:49.000Z",
+      "sourceStatus": "Reserved",
+      "lastCheckedAt": "2026-11-11T15:15:18.000Z",
       "sourceDocumentDate": "2026-11-11",
       "dataNote": "OIKOS kaynağında On hold 16/11. Sürenin geçmesi tek başına müsaitlik kanıtı değildir."
     },
@@ -3031,7 +3031,7 @@
       "parking": "",
       "storage": "",
       "price": 280000,
-      "status": "Available",
+      "status": "On Hold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -3043,8 +3043,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceStatus": "On hold 17/11",
+      "lastCheckedAt": "2026-11-11T15:15:18.000Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -3395,7 +3395,7 @@
       "parking": "",
       "storage": "",
       "price": 270000,
-      "status": "On Hold",
+      "status": "Reserved",
       "gv": "",
       "delivery": "31.05.2028",
       "deliveryDate": "2028-05-31",
@@ -3407,8 +3407,8 @@
       "lng": 23.701,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "On hold 11/11",
-      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceStatus": "Reserved",
+      "lastCheckedAt": "2026-11-11T15:15:18.000Z",
       "dataNote": "OIKOS kaynağında 11/11 tarihine kadar On Hold.",
       "sourceDocumentDate": "2026-11-11"
     },
@@ -30998,7 +30998,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-11-11T14:25:25.000Z",
+    "checkedAt": "2026-11-11T15:15:18.000Z",
     "matchedUnits": 910,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
@@ -31058,11 +31058,19 @@
       ]
     },
     "oikosRefresh": {
-      "checkedAt": "2026-11-11T12:37:40.000Z",
-      "documentUpdatedAt": "2026-11-11T12:36:31.598Z",
-      "statusChanges": 0,
+      "checkedAt": "2026-11-11T15:15:18.000Z",
+      "documentUpdatedAt": "2026-11-11T15:06:43.757Z",
+      "statusChanges": 7,
       "priceChanges": 0,
-      "changes": [],
+      "changes": [
+        "OASIS RESIDENCES GF01: Reserved → Available",
+        "OASIS RESIDENCES GF08: Reserved → Available",
+        "OASIS RESIDENCES A11: Reserved → Available",
+        "OASIS RESIDENCES A12: Reserved → Available",
+        "OASIS RESIDENCES B05: On Hold → Reserved",
+        "THERMAE VIEW RESIDENCES C08: Available → On Hold",
+        "BOULEVARD A04: On Hold → Reserved"
+      ],
       "unmappedNewProjects": [
         "ELYS - CHALDIAS 24 (12 units)",
         "SIERRA (9 units)"
@@ -31118,7 +31126,7 @@
       "changes": []
     },
     "staticSourceSearch": {
-      "checkedAt": "2026-11-11T14:25:25.000Z",
+      "checkedAt": "2026-11-11T15:15:18.000Z",
       "terraceHeights": {
         "latestDocumentDate": "2026-11-05",
         "newerFileFound": false,
