@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T07:21:43.000Z",
+  "generatedAt": "2026-11-11T08:06:16.297Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 944,
   "records": [
@@ -33,8 +33,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|GF03",
@@ -66,9 +66,9 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "dataNote": "OIKOS kaynağında SOLD.",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|GF06",
@@ -100,9 +100,9 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "dataNote": "OIKOS kaynağında SOLD.",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|GF07",
@@ -134,8 +134,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|GF08",
@@ -167,8 +167,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|GF09",
@@ -200,8 +200,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|GF10",
@@ -233,8 +233,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|GF11",
@@ -266,8 +266,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|GF12",
@@ -299,8 +299,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|A01",
@@ -332,8 +332,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|A03",
@@ -365,8 +365,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|A05",
@@ -398,8 +398,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|A06",
@@ -431,9 +431,9 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "dataNote": "OIKOS kaynağında Available.",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|A07",
@@ -465,9 +465,9 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "dataNote": "OIKOS kaynağında Available.",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|A08",
@@ -499,8 +499,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|A09",
@@ -532,8 +532,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|A10",
@@ -565,9 +565,9 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "previousStatus": "On Hold",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|A11",
@@ -599,8 +599,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|A12",
@@ -632,8 +632,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|A13",
@@ -665,8 +665,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|A14",
@@ -698,9 +698,9 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "dataNote": "OIKOS kaynağında SOLD.",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|B01",
@@ -732,8 +732,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|B02",
@@ -765,8 +765,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|B03",
@@ -797,9 +797,9 @@
       "lng": 23.692,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Reserved",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|B04",
@@ -831,8 +831,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|B05",
@@ -864,8 +864,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|B08",
@@ -897,8 +897,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|B09",
@@ -930,8 +930,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|B10",
@@ -963,8 +963,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|B11",
@@ -996,8 +996,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|B12",
@@ -1029,9 +1029,9 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "dataNote": "OIKOS kaynağında Available.",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|B13",
@@ -1063,8 +1063,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|B14",
@@ -1096,8 +1096,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|B15",
@@ -1129,8 +1129,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|GF02",
@@ -1162,8 +1162,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|GF04",
@@ -1195,8 +1195,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|GF05",
@@ -1228,8 +1228,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|A02",
@@ -1261,8 +1261,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|A04",
@@ -1294,8 +1294,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|B06",
@@ -1327,8 +1327,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|B07",
@@ -1360,8 +1360,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|GF01",
@@ -1393,8 +1393,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|GF02",
@@ -1426,8 +1426,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|GF03",
@@ -1459,8 +1459,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|GF04",
@@ -1492,8 +1492,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|GF05",
@@ -1525,8 +1525,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|GF06",
@@ -1558,8 +1558,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|GF07",
@@ -1591,8 +1591,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|GF08",
@@ -1624,8 +1624,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|GF09",
@@ -1690,8 +1690,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|A02",
@@ -1723,8 +1723,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|A03",
@@ -1756,8 +1756,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|A04",
@@ -1789,8 +1789,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|A05",
@@ -1822,8 +1822,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|A06",
@@ -1854,9 +1854,9 @@
       "lng": 23.758,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Reserved",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|A07",
@@ -1888,8 +1888,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|A08",
@@ -1921,8 +1921,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|A09",
@@ -1954,8 +1954,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|A10",
@@ -1987,8 +1987,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|A11",
@@ -2020,8 +2020,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|A12",
@@ -2053,8 +2053,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THE GROVE|A13",
@@ -2086,8 +2086,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|GF01",
@@ -2118,8 +2118,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2151,8 +2151,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2184,8 +2184,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2217,8 +2217,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2250,8 +2250,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2283,8 +2283,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2316,8 +2316,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2349,8 +2349,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2382,8 +2382,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2415,8 +2415,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2448,8 +2448,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2481,8 +2481,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2514,8 +2514,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2547,8 +2547,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2580,8 +2580,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2613,8 +2613,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2646,8 +2646,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2679,8 +2679,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2712,8 +2712,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2745,8 +2745,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2778,8 +2778,8 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Sold",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -2812,8 +2812,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|C02",
@@ -2845,8 +2845,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|C03",
@@ -2878,8 +2878,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|C04",
@@ -2911,8 +2911,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|C05",
@@ -2944,8 +2944,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|C06",
@@ -2977,8 +2977,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|C07",
@@ -3010,8 +3010,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|C08",
@@ -3043,8 +3043,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|D01",
@@ -3076,8 +3076,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|D02",
@@ -3109,8 +3109,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|D03",
@@ -3142,8 +3142,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|D04",
@@ -3175,8 +3175,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|D05",
@@ -3208,8 +3208,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|D06",
@@ -3241,8 +3241,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|D07",
@@ -3274,8 +3274,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|D08",
@@ -3307,8 +3307,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|M04",
@@ -3340,8 +3340,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|A01",
@@ -3373,7 +3373,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "dataNote": "OIKOS kaynağında Available.",
       "sourceDocumentDate": "2026-11-11"
     },
@@ -3407,9 +3407,9 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "On hold 11/11",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "dataNote": "OIKOS kaynağında 11/11 tarihine kadar On Hold.",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|A05",
@@ -3441,8 +3441,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|A10",
@@ -3474,8 +3474,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|B01",
@@ -3507,8 +3507,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|B10",
@@ -3540,8 +3540,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|C01",
@@ -3573,7 +3573,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11",
       "dataNote": "OIKOS kaynağında 05/11 tarihine kadar On Hold."
     },
@@ -3607,8 +3607,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|D01",
@@ -3640,8 +3640,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|E01",
@@ -3673,7 +3673,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -3706,8 +3706,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|F01",
@@ -3772,8 +3772,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|M02",
@@ -3805,8 +3805,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|M03",
@@ -3838,8 +3838,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|M05",
@@ -3871,8 +3871,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|A02",
@@ -3904,8 +3904,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|A03",
@@ -3937,8 +3937,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|A06",
@@ -3970,8 +3970,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|A07",
@@ -4003,8 +4003,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|A08",
@@ -4036,8 +4036,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|A09",
@@ -4069,8 +4069,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|B02",
@@ -4102,8 +4102,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|B03",
@@ -4135,8 +4135,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|B04",
@@ -4168,8 +4168,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|B05",
@@ -4201,8 +4201,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|B06",
@@ -4234,8 +4234,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|B07",
@@ -4267,8 +4267,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|B08",
@@ -4300,8 +4300,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|B09",
@@ -4333,8 +4333,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|C02",
@@ -4366,8 +4366,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|C03",
@@ -4399,8 +4399,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|C04",
@@ -4432,8 +4432,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|C05",
@@ -4465,8 +4465,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|C06",
@@ -4498,8 +4498,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|C07",
@@ -4531,8 +4531,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|C08",
@@ -4564,8 +4564,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|C09",
@@ -4597,8 +4597,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|D02",
@@ -4630,8 +4630,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|D03",
@@ -4663,8 +4663,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|D04",
@@ -4696,8 +4696,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|D05",
@@ -4729,8 +4729,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|D06",
@@ -4762,8 +4762,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|D07",
@@ -4795,8 +4795,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|D08",
@@ -4828,8 +4828,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|D09",
@@ -4861,8 +4861,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|D10",
@@ -4894,8 +4894,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|E03",
@@ -4927,8 +4927,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|E04",
@@ -4960,8 +4960,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|E05",
@@ -4993,8 +4993,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|E06",
@@ -5026,8 +5026,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|E07",
@@ -5059,8 +5059,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|E08",
@@ -5092,8 +5092,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|E09",
@@ -5125,8 +5125,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|CELESTIA|D03",
@@ -5257,9 +5257,9 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "On hold 10/11",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "dataNote": "OIKOS kaynağında On hold 10/11. Sürenin geçmesi tek başına müsaitlik kanıtı değildir.",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|TRINITY|C01",
@@ -5291,8 +5291,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "On hold 09/11",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|TRINITY|C02",
@@ -5324,8 +5324,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|TRINITY|C03",
@@ -5357,8 +5357,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|TRINITY|E03",
@@ -5390,7 +5390,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -5423,8 +5423,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|TRINITY|A01",
@@ -5456,8 +5456,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|TRINITY|A02",
@@ -5489,8 +5489,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|TRINITY|B01",
@@ -5522,8 +5522,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|TRINITY|B02",
@@ -5555,8 +5555,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|TRINITY|B03",
@@ -5588,8 +5588,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|TRINITY|D01",
@@ -5621,8 +5621,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|TRINITY|D02",
@@ -5654,7 +5654,7 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "On hold 13/11",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -5687,8 +5687,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|TRINITY|E01",
@@ -5720,8 +5720,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|TRINITY|E02",
@@ -5753,8 +5753,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|TRINITY|F01",
@@ -5786,8 +5786,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|GF06",
@@ -5819,8 +5819,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|A09",
@@ -5852,9 +5852,9 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "dataNote": "OIKOS kaynağında Reserved.",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|D05",
@@ -5886,8 +5886,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|GF01",
@@ -5919,8 +5919,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|GF02",
@@ -5952,8 +5952,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|GF03",
@@ -5985,8 +5985,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|GF04",
@@ -6018,8 +6018,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|GF05",
@@ -6051,8 +6051,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|GF10",
@@ -6084,8 +6084,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|GF11",
@@ -6117,8 +6117,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|A01",
@@ -6150,8 +6150,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|A02",
@@ -6183,8 +6183,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|A03",
@@ -6216,8 +6216,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|A04",
@@ -6249,8 +6249,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|A05",
@@ -6282,8 +6282,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|A06",
@@ -6315,8 +6315,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|A07",
@@ -6348,8 +6348,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|A08",
@@ -6381,8 +6381,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|B01",
@@ -6414,8 +6414,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|B02",
@@ -6447,8 +6447,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|B03",
@@ -6480,8 +6480,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|B04",
@@ -6513,8 +6513,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|B05",
@@ -6546,8 +6546,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|B06",
@@ -6579,8 +6579,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|B07",
@@ -6612,8 +6612,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|B08",
@@ -6645,8 +6645,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|B09",
@@ -6678,8 +6678,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|C01",
@@ -6711,8 +6711,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|C02",
@@ -6744,8 +6744,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|C03",
@@ -6777,8 +6777,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|C04",
@@ -6810,8 +6810,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|C05",
@@ -6843,8 +6843,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|C06",
@@ -6876,8 +6876,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|C07",
@@ -6909,8 +6909,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|C08",
@@ -6942,8 +6942,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|D01",
@@ -6975,8 +6975,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|D02",
@@ -7008,8 +7008,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|D03",
@@ -7041,8 +7041,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|D04",
@@ -7074,8 +7074,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|D06",
@@ -7107,8 +7107,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|E01",
@@ -7140,8 +7140,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|E02",
@@ -7173,8 +7173,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|E03",
@@ -7206,8 +7206,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|MERIDIA|E04",
@@ -7239,8 +7239,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|CURVE - PERISTERI|i17",
@@ -7338,8 +7338,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "On hold 10/11",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11",
       "dataNote": "OIKOS kaynağında On hold 10/11. Sürenin geçmesi tek başına müsaitlik kanıtı değildir."
     },
     {
@@ -7372,8 +7372,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|GF02",
@@ -7405,8 +7405,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|GF03",
@@ -7438,8 +7438,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|GF04",
@@ -7471,8 +7471,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|GF05",
@@ -7504,8 +7504,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|GF06",
@@ -7537,8 +7537,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|GF07",
@@ -7570,8 +7570,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|GF09",
@@ -7603,8 +7603,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|GF10",
@@ -7636,8 +7636,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|GF11",
@@ -7669,8 +7669,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|GF14",
@@ -7702,8 +7702,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|GF15",
@@ -7735,8 +7735,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|A03",
@@ -7768,8 +7768,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|A04",
@@ -7801,8 +7801,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|A05",
@@ -7834,8 +7834,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|A06",
@@ -7867,8 +7867,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|A08",
@@ -7900,8 +7900,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|B02",
@@ -7933,8 +7933,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|B03",
@@ -7966,8 +7966,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|B06",
@@ -7999,8 +7999,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|B07",
@@ -8032,8 +8032,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|B08",
@@ -8065,8 +8065,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|C01",
@@ -8098,8 +8098,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|C02",
@@ -8131,8 +8131,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|C03",
@@ -8164,8 +8164,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|C04",
@@ -8197,8 +8197,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|C07",
@@ -8230,8 +8230,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|C08",
@@ -8263,8 +8263,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|D01",
@@ -8296,8 +8296,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|D02",
@@ -8329,8 +8329,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|D03",
@@ -8362,8 +8362,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|D04",
@@ -8395,8 +8395,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|D05",
@@ -8428,8 +8428,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|LEVANTE VILLAS|A02",
@@ -8461,8 +8461,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Skroponeria%2C%20Evia%2C%20Greece",
       "precision": "Locality verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|LEVANTE VILLAS|A03",
@@ -8494,8 +8494,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Skroponeria%2C%20Evia%2C%20Greece",
       "precision": "Locality verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|LEVANTE VILLAS|A04",
@@ -8527,8 +8527,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Skroponeria%2C%20Evia%2C%20Greece",
       "precision": "Locality verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|LEVANTE VILLAS|A05",
@@ -8560,8 +8560,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Skroponeria%2C%20Evia%2C%20Greece",
       "precision": "Locality verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|LEVANTE VILLAS|A01",
@@ -8593,8 +8593,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Skroponeria%2C%20Evia%2C%20Greece",
       "precision": "Locality verified · pin approx",
       "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Dimosthenous 270 - Kallithea|GF1",
@@ -8659,9 +8659,9 @@
       "lng": 23.7,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Dimosthenous%20270%2C%20Kallithea%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "AVAILABLE",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
-      "sourceDocumentDate": "2026-11-10"
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Dimosthenous 270 - Kallithea|2.1",
@@ -8757,8 +8757,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Menandrou%20%26%20Nirvana%206%2C%20Ilioupoli%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Menandrou & Nirvana 6 - Ilioupoli|A GF2",
@@ -8790,8 +8790,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Menandrou%20%26%20Nirvana%206%2C%20Ilioupoli%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Menandrou & Nirvana 6 - Ilioupoli|1.1",
@@ -8810,7 +8810,7 @@
       "parking": "N/A",
       "storage": "N/A",
       "price": 267000,
-      "status": "Reserved",
+      "status": "Available",
       "gv": "Yes",
       "delivery": "Q4 2028",
       "deliveryDate": "2028-12-31",
@@ -8822,9 +8822,9 @@
       "lng": 23.758,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Menandrou%20%26%20Nirvana%206%2C%20Ilioupoli%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
-      "sourceDocumentDate": "2026-11-10"
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Menandrou & Nirvana 6 - Ilioupoli|1.2",
@@ -8856,8 +8856,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Menandrou%20%26%20Nirvana%206%2C%20Ilioupoli%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Menandrou & Nirvana 6 - Ilioupoli|2.2",
@@ -8889,8 +8889,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Menandrou%20%26%20Nirvana%206%2C%20Ilioupoli%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Menandrou & Nirvana 6 - Ilioupoli|3.1",
@@ -8922,8 +8922,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Menandrou%20%26%20Nirvana%206%2C%20Ilioupoli%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Menandrou & Nirvana 6 - Ilioupoli|3.2",
@@ -8955,8 +8955,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Menandrou%20%26%20Nirvana%206%2C%20Ilioupoli%2C%20Greece",
       "precision": "Address verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A GF1",
@@ -8975,7 +8975,7 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 286000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
       "delivery": "Q4 2028",
       "deliveryDate": "2028-12-31",
@@ -8987,9 +8987,9 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 1.1",
@@ -9118,8 +9118,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
-      "sourceDocumentDate": "2026-11-10"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 1.5",
@@ -9249,8 +9249,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 2.1",
@@ -9346,8 +9346,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 2.5",
@@ -9379,8 +9379,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 2.6",
@@ -9477,8 +9477,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 3.3",
@@ -9510,8 +9510,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 3.4",
@@ -9608,8 +9608,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A M2",
@@ -9641,8 +9641,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A M3",
@@ -9707,8 +9707,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A M5",
@@ -9740,8 +9740,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A M6",
@@ -9773,8 +9773,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A M7",
@@ -9806,8 +9806,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
-      "sourceDocumentDate": "2026-11-10"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A M8",
@@ -9839,8 +9839,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
-      "sourceDocumentDate": "2026-11-10"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B GF1",
@@ -9859,7 +9859,7 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 282000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
       "delivery": "Q4 2028",
       "deliveryDate": "2028-12-31",
@@ -9871,9 +9871,9 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B GF2",
@@ -9905,9 +9905,9 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
       "previousStatus": "Available",
-      "sourceDocumentDate": "2026-11-10"
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B GF3",
@@ -9939,8 +9939,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B GF4",
@@ -9972,8 +9972,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B GF5",
@@ -10005,8 +10005,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B GF6",
@@ -10038,8 +10038,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
-      "sourceDocumentDate": "2026-11-10"
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B M1",
@@ -10071,8 +10071,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B 1.1",
@@ -10104,8 +10104,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B 1.2",
@@ -10137,8 +10137,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B 1.3",
@@ -10170,8 +10170,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B 1.4",
@@ -10203,8 +10203,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B 1.5",
@@ -10236,8 +10236,8 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
       "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "V2 Development|PLAZA Residences|B-1",
@@ -30998,7 +30998,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-11-11T07:21:43.000Z",
+    "checkedAt": "2026-11-11T08:06:16.297Z",
     "matchedUnits": 910,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
@@ -31058,38 +31058,11 @@
       ]
     },
     "oikosRefresh": {
-      "checkedAt": "2026-11-11T07:21:43.000Z",
-      "documentUpdatedAt": "2026-11-11T07:06:41.783Z",
-      "statusChanges": 26,
+      "checkedAt": "2026-11-11T08:06:16.297Z",
+      "documentUpdatedAt": "2026-11-11T07:56:16.339Z",
+      "statusChanges": 0,
       "priceChanges": 0,
-      "changes": [
-        "THERMAE VIEW RESIDENCES GF01: Available → Sold",
-        "THERMAE VIEW RESIDENCES GF02: Available → Sold",
-        "THERMAE VIEW RESIDENCES GF03: Reserved → Sold",
-        "THERMAE VIEW RESIDENCES GF04: Available → Sold",
-        "THERMAE VIEW RESIDENCES GF05: Available → Sold",
-        "THERMAE VIEW RESIDENCES A01: Available → Sold",
-        "THERMAE VIEW RESIDENCES A02: Available → Sold",
-        "THERMAE VIEW RESIDENCES A03: Available → Sold",
-        "THERMAE VIEW RESIDENCES A04: Available → Sold",
-        "THERMAE VIEW RESIDENCES A05: Available → Sold",
-        "THERMAE VIEW RESIDENCES A06: Available → Sold",
-        "THERMAE VIEW RESIDENCES A07: Available → Sold",
-        "THERMAE VIEW RESIDENCES A08: Available → Sold",
-        "THERMAE VIEW RESIDENCES B01: Available → Sold",
-        "THERMAE VIEW RESIDENCES B02: Available → Sold",
-        "THERMAE VIEW RESIDENCES B03: Available → Sold",
-        "THERMAE VIEW RESIDENCES B04: Reserved → Sold",
-        "THERMAE VIEW RESIDENCES B05: Available → Sold",
-        "THERMAE VIEW RESIDENCES B06: Available → Sold",
-        "THERMAE VIEW RESIDENCES B07: Available → Sold",
-        "THERMAE VIEW RESIDENCES B08: Available → Sold",
-        "BOULEVARD A01: Available → Reserved",
-        "BOULEVARD C01: On Hold → Reserved",
-        "BOULEVARD E01: Available → Reserved",
-        "TRINITY D02: Sold → On Hold",
-        "TRINITY E03: On Hold → Reserved"
-      ],
+      "changes": [],
       "unmappedNewProjects": [
         "ELYS - CHALDIAS 24 (12 units)",
         "SIERRA (9 units)"
@@ -31118,18 +31091,14 @@
       "sheetsChecked": 5
     },
     "zafidoRefresh": {
-      "checkedAt": "2026-11-11T07:21:43.000Z",
-      "documentUpdatedAt": "2026-11-10T14:17:52.362Z",
-      "statusChanges": 7,
+      "checkedAt": "2026-11-11T08:06:16.297Z",
+      "documentUpdatedAt": "2026-11-11T07:51:52.828Z",
+      "statusChanges": 3,
       "priceChanges": 0,
       "changes": [
-        "Dimosthenous 270 - Kallithea GF3: Reserved → Available",
-        "Menandrou & Nirvana 6 - Ilioupoli 1.1: Available → Reserved",
-        "Navarinou 5 & Kosti Palama - CHALANDRI A 1.4: Available → Reserved",
-        "Navarinou 5 & Kosti Palama - CHALANDRI A M7: Available → Reserved",
-        "Navarinou 5 & Kosti Palama - CHALANDRI A M8: Available → Reserved",
-        "Navarinou 5 & Kosti Palama - CHALANDRI B GF2: Available → Reserved",
-        "Navarinou 5 & Kosti Palama - CHALANDRI B GF6: Available → Reserved"
+        "Menandrou & Nirvana 6 - Ilioupoli 1.1: Reserved → Available",
+        "Navarinou 5 & Kosti Palama - CHALANDRI A GF1: Available → Reserved",
+        "Navarinou 5 & Kosti Palama - CHALANDRI B GF1: Available → Reserved"
       ],
       "unmappedNewUnits": [
         "Venus - Elliniko GF1"
@@ -31158,7 +31127,7 @@
       ]
     },
     "staticSourceSearch": {
-      "checkedAt": "2026-11-11T07:21:43.000Z",
+      "checkedAt": "2026-11-11T08:06:16.297Z",
       "terraceHeights": {
         "latestDocumentDate": "2026-11-05",
         "newerFileFound": false,
