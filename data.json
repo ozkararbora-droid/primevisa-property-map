@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T08:21:12.000Z",
+  "generatedAt": "2026-11-11T07:21:43.000Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
-  "unitCount": 943,
+  "unitCount": 944,
   "records": [
     {
       "id": "OIKOS|OASIS RESIDENCES|GF01",
@@ -2106,7 +2106,7 @@
       "parking": "",
       "storage": "",
       "price": 297000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2118,9 +2118,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|GF02",
@@ -2139,7 +2139,7 @@
       "parking": "",
       "storage": "",
       "price": 260000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2151,9 +2151,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|GF03",
@@ -2172,7 +2172,7 @@
       "parking": "",
       "storage": "",
       "price": 250000,
-      "status": "Reserved",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2184,9 +2184,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|GF04",
@@ -2205,7 +2205,7 @@
       "parking": "",
       "storage": "",
       "price": 256000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2217,9 +2217,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|GF05",
@@ -2238,7 +2238,7 @@
       "parking": "",
       "storage": "",
       "price": 256000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2250,9 +2250,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|A01",
@@ -2271,7 +2271,7 @@
       "parking": "",
       "storage": "",
       "price": 282000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2283,9 +2283,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|A02",
@@ -2304,7 +2304,7 @@
       "parking": "",
       "storage": "",
       "price": 286000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2316,9 +2316,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|A03",
@@ -2337,7 +2337,7 @@
       "parking": "",
       "storage": "",
       "price": 281000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2349,9 +2349,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|A04",
@@ -2370,7 +2370,7 @@
       "parking": "",
       "storage": "",
       "price": 286000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2382,9 +2382,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|A05",
@@ -2403,7 +2403,7 @@
       "parking": "",
       "storage": "",
       "price": 263000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2415,9 +2415,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|A06",
@@ -2436,7 +2436,7 @@
       "parking": "",
       "storage": "",
       "price": 270000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2448,9 +2448,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|A07",
@@ -2469,7 +2469,7 @@
       "parking": "",
       "storage": "",
       "price": 360000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2481,9 +2481,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|A08",
@@ -2502,7 +2502,7 @@
       "parking": "",
       "storage": "",
       "price": 266000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2514,9 +2514,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|B01",
@@ -2535,7 +2535,7 @@
       "parking": "",
       "storage": "",
       "price": 285000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2547,9 +2547,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|B02",
@@ -2568,7 +2568,7 @@
       "parking": "",
       "storage": "",
       "price": 289000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2580,9 +2580,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|B03",
@@ -2601,7 +2601,7 @@
       "parking": "",
       "storage": "",
       "price": 284000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2613,9 +2613,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|B04",
@@ -2634,7 +2634,7 @@
       "parking": "",
       "storage": "",
       "price": 289000,
-      "status": "Reserved",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2646,9 +2646,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|B05",
@@ -2667,7 +2667,7 @@
       "parking": "",
       "storage": "",
       "price": 266000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2679,9 +2679,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|B06",
@@ -2700,7 +2700,7 @@
       "parking": "",
       "storage": "",
       "price": 273000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2712,9 +2712,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|B07",
@@ -2733,7 +2733,7 @@
       "parking": "",
       "storage": "",
       "price": 363000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2745,9 +2745,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|B08",
@@ -2766,7 +2766,7 @@
       "parking": "",
       "storage": "",
       "price": 269000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -2778,9 +2778,9 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Sold",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|C01",
@@ -3360,7 +3360,7 @@
       "parking": "",
       "storage": "",
       "price": 320000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "",
       "delivery": "31.05.2028",
       "deliveryDate": "2028-05-31",
@@ -3372,10 +3372,10 @@
       "lng": 23.701,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
+      "sourceStatus": "Reserved",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
       "dataNote": "OIKOS kaynağında Available.",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|A04",
@@ -3560,7 +3560,7 @@
       "parking": "",
       "storage": "",
       "price": 323000,
-      "status": "On Hold",
+      "status": "Reserved",
       "gv": "",
       "delivery": "31.05.2028",
       "deliveryDate": "2028-05-31",
@@ -3572,9 +3572,9 @@
       "lng": 23.701,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "On hold 05/11",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06",
+      "sourceStatus": "Reserved",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11",
       "dataNote": "OIKOS kaynağında 05/11 tarihine kadar On Hold."
     },
     {
@@ -3660,7 +3660,7 @@
       "parking": "",
       "storage": "",
       "price": 330000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "",
       "delivery": "31.05.2028",
       "deliveryDate": "2028-05-31",
@@ -3672,9 +3672,9 @@
       "lng": 23.701,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Reserved",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|BOULEVARD|E02",
@@ -5377,7 +5377,7 @@
       "parking": "",
       "storage": "",
       "price": 259000,
-      "status": "On Hold",
+      "status": "Reserved",
       "gv": "",
       "delivery": 46934,
       "deliveryDate": "2028-06-30",
@@ -5389,9 +5389,9 @@
       "lng": 23.757,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "On hold 10/11",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "Reserved",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|TRINITY|GF02",
@@ -5641,7 +5641,7 @@
       "parking": "",
       "storage": "",
       "price": 258000,
-      "status": "Sold",
+      "status": "On Hold",
       "gv": "",
       "delivery": 46934,
       "deliveryDate": "2028-06-30",
@@ -5653,9 +5653,9 @@
       "lng": 23.757,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "SOLD",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": "2026-11-06"
+      "sourceStatus": "On hold 13/11",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|TRINITY|D03",
@@ -8647,7 +8647,7 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 277000,
-      "status": "Reserved",
+      "status": "Available",
       "gv": "Yes",
       "delivery": "Q4 2028",
       "deliveryDate": "2028-12-31",
@@ -8659,9 +8659,9 @@
       "lng": 23.7,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Dimosthenous%20270%2C%20Kallithea%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "sourceStatus": "AVAILABLE",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Zafido|Dimosthenous 270 - Kallithea|2.1",
@@ -8810,7 +8810,7 @@
       "parking": "N/A",
       "storage": "N/A",
       "price": 267000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
       "delivery": "Q4 2028",
       "deliveryDate": "2028-12-31",
@@ -8822,9 +8822,9 @@
       "lng": 23.758,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Menandrou%20%26%20Nirvana%206%2C%20Ilioupoli%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Zafido|Menandrou & Nirvana 6 - Ilioupoli|1.2",
@@ -9105,7 +9105,7 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 276000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
       "delivery": "Q4 2028",
       "deliveryDate": "2028-12-31",
@@ -9117,9 +9117,9 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A 1.5",
@@ -9793,7 +9793,7 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 383000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
       "delivery": "Q4 2028",
       "deliveryDate": "2028-12-31",
@@ -9805,9 +9805,9 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A M8",
@@ -9826,7 +9826,7 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 340000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
       "delivery": "Q4 2028",
       "deliveryDate": "2028-12-31",
@@ -9838,9 +9838,9 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B GF1",
@@ -9892,7 +9892,7 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 285000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
       "delivery": "Q4 2028",
       "deliveryDate": "2028-12-31",
@@ -9904,10 +9904,10 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
       "previousStatus": "Available",
-      "sourceDocumentDate": null
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B GF3",
@@ -10025,7 +10025,7 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 400000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
       "delivery": "Q4 2028",
       "deliveryDate": "2028-12-31",
@@ -10037,9 +10037,9 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-06T08:21:12.000Z",
-      "sourceDocumentDate": null
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B M1",
@@ -14481,7 +14481,7 @@
       "parking": "",
       "storage": "S2 (6.38 m²)",
       "price": 325000,
-      "status": "Locked",
+      "status": "Sold",
       "gv": "",
       "delivery": "31.08.2027",
       "deliveryDate": "2027-08-31",
@@ -14493,9 +14493,9 @@
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Locked",
+      "sourceStatus": "Sold",
       "sourceDocumentDate": null,
-      "lastCheckedAt": "2026-11-05T16:25:00.000Z",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
       "sourceModifiedAt": "2026-11-05T16:10:59.227Z"
     },
     {
@@ -14746,7 +14746,7 @@
       "parking": "",
       "storage": "",
       "price": 255000,
-      "status": "Locked",
+      "status": "Available",
       "gv": "",
       "delivery": "31.08.2027",
       "deliveryDate": "2027-08-31",
@@ -14758,9 +14758,9 @@
       "lng": 23.708,
       "mapUrl": "https://maps.app.goo.gl/6kfDWSRTn8SmMWA57",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "Locked",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Priced unit; Condition blank",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z"
     },
     {
       "id": "Hestia|PARAGON I|HM1-A1",
@@ -15208,8 +15208,8 @@
       "total": 41.2,
       "parking": "",
       "storage": "",
-      "price": null,
-      "status": "Sold",
+      "price": 276000,
+      "status": "Available",
       "gv": "",
       "delivery": "31.08.2027",
       "deliveryDate": "2027-08-31",
@@ -15221,9 +15221,9 @@
       "lng": 23.708,
       "mapUrl": "https://maps.app.goo.gl/6kfDWSRTn8SmMWA57",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Priced unit; Condition blank",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z"
     },
     {
       "id": "Hestia|PARAGON I|E1",
@@ -15737,7 +15737,7 @@
       "parking": "P11",
       "storage": "",
       "price": 265000,
-      "status": "Available",
+      "status": "Locked",
       "gv": "",
       "delivery": "31.08.2027",
       "deliveryDate": "2027-08-31",
@@ -15749,9 +15749,9 @@
       "lng": 23.733,
       "mapUrl": "https://maps.app.goo.gl/vTfur1QuMpj2gkSJA",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "Priced unit; Condition blank",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Locked",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z"
     },
     {
       "id": "Hestia|DELOS|204",
@@ -17639,21 +17639,22 @@
       "parking": "1 parking space",
       "storage": "",
       "price": 297500,
-      "status": "Check Availability",
+      "status": "Available",
       "gv": "",
       "delivery": "01.09.2027",
       "deliveryDate": "2027-09-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Güncel listede yok; firma teyidi gerekli",
+      "freshness": "🟢 Kaynaktan kontrol edildi",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 38.021,
       "lng": 23.858,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Leoforos%20Spaton%2036%2C%20Gerakas%2C%20Greece",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "Unit absent from current source list",
-      "lastCheckedAt": "2026-10-29T12:43:52.763Z",
-      "previousStatus": "Available"
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "previousStatus": "Available",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Spat|B-4",
@@ -19050,18 +19051,19 @@
       "price": 272000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.06.2027",
-      "deliveryDate": "2027-06-01",
+      "delivery": "01.07.2027",
+      "deliveryDate": "2027-07-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.967,
       "lng": 23.702,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Archimidous%2010%2C%20Tavros%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|ARCH 10|I-4",
@@ -19082,18 +19084,19 @@
       "price": 300000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.06.2027",
-      "deliveryDate": "2027-06-01",
+      "delivery": "01.07.2027",
+      "deliveryDate": "2027-07-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.967,
       "lng": 23.702,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Archimidous%2010%2C%20Tavros%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|ARCH 10|I-5",
@@ -19114,18 +19117,19 @@
       "price": 260000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.06.2027",
-      "deliveryDate": "2027-06-01",
+      "delivery": "01.07.2027",
+      "deliveryDate": "2027-07-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.967,
       "lng": 23.702,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Archimidous%2010%2C%20Tavros%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Unit absent from current source list",
-      "lastCheckedAt": "2026-10-22T18:12:07+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|ARCH 10|A-4",
@@ -19146,18 +19150,19 @@
       "price": 283000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.06.2027",
-      "deliveryDate": "2027-06-01",
+      "delivery": "01.07.2027",
+      "deliveryDate": "2027-07-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.967,
       "lng": 23.702,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Archimidous%2010%2C%20Tavros%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|ARCH 10|A-5",
@@ -19178,18 +19183,19 @@
       "price": 286000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.06.2027",
-      "deliveryDate": "2027-06-01",
+      "delivery": "01.07.2027",
+      "deliveryDate": "2027-07-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.967,
       "lng": 23.702,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Archimidous%2010%2C%20Tavros%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|ARCH 10|B-3",
@@ -19210,18 +19216,19 @@
       "price": 267000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.06.2027",
-      "deliveryDate": "2027-06-01",
+      "delivery": "01.07.2027",
+      "deliveryDate": "2027-07-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.967,
       "lng": 23.702,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Archimidous%2010%2C%20Tavros%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|ARCH 10|B-5",
@@ -19242,18 +19249,19 @@
       "price": 289000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.06.2027",
-      "deliveryDate": "2027-06-01",
+      "delivery": "01.07.2027",
+      "deliveryDate": "2027-07-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.967,
       "lng": 23.702,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Archimidous%2010%2C%20Tavros%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Unit absent from current source list",
-      "lastCheckedAt": "2026-10-22T18:12:07+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|ARCH 10|C-3",
@@ -19274,18 +19282,19 @@
       "price": 273000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.06.2027",
-      "deliveryDate": "2027-06-01",
+      "delivery": "01.07.2027",
+      "deliveryDate": "2027-07-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.967,
       "lng": 23.702,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Archimidous%2010%2C%20Tavros%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|ARCH 10|C-4",
@@ -19306,18 +19315,19 @@
       "price": 291000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.06.2027",
-      "deliveryDate": "2027-06-01",
+      "delivery": "01.07.2027",
+      "deliveryDate": "2027-07-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.967,
       "lng": 23.702,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Archimidous%2010%2C%20Tavros%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Unit absent from current source list",
-      "lastCheckedAt": "2026-10-22T18:12:07+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|ARCH 10|C-5",
@@ -19338,18 +19348,19 @@
       "price": 293000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.06.2027",
-      "deliveryDate": "2027-06-01",
+      "delivery": "01.07.2027",
+      "deliveryDate": "2027-07-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.967,
       "lng": 23.702,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Archimidous%2010%2C%20Tavros%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Kapodistriou|B-1",
@@ -19370,18 +19381,19 @@
       "price": 286000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.04.2027",
-      "deliveryDate": "2027-04-01",
+      "delivery": "01.05.2027",
+      "deliveryDate": "2027-05-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.955,
       "lng": 23.681,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kapodistriou%20108%2C%20Moschato%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Kapodistriou|B-5",
@@ -19402,11 +19414,11 @@
       "price": 273000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.04.2027",
-      "deliveryDate": "2027-04-01",
+      "delivery": "01.05.2027",
+      "deliveryDate": "2027-05-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Güncel listede yok; firma teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.955,
       "lng": 23.681,
@@ -19414,7 +19426,8 @@
       "precision": "Address source-verified · pin approx",
       "previousStatus": "Available",
       "sourceStatus": "Unit absent from current source list",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Kapodistriou|B-6",
@@ -19435,11 +19448,11 @@
       "price": 267000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.04.2027",
-      "deliveryDate": "2027-04-01",
+      "delivery": "01.05.2027",
+      "deliveryDate": "2027-05-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Güncel listede yok; firma teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.955,
       "lng": 23.681,
@@ -19447,7 +19460,8 @@
       "precision": "Address source-verified · pin approx",
       "previousStatus": "Available",
       "sourceStatus": "Unit absent from current source list",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Kapodistriou|B-7",
@@ -19468,18 +19482,19 @@
       "price": 280000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.04.2027",
-      "deliveryDate": "2027-04-01",
+      "delivery": "01.05.2027",
+      "deliveryDate": "2027-05-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.955,
       "lng": 23.681,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kapodistriou%20108%2C%20Moschato%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Kapodistriou|B-8",
@@ -19500,18 +19515,19 @@
       "price": 370000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.04.2027",
-      "deliveryDate": "2027-04-01",
+      "delivery": "01.05.2027",
+      "deliveryDate": "2027-05-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.955,
       "lng": 23.681,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kapodistriou%20108%2C%20Moschato%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Kapodistriou|B-9",
@@ -19532,18 +19548,19 @@
       "price": 295000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.04.2027",
-      "deliveryDate": "2027-04-01",
+      "delivery": "01.05.2027",
+      "deliveryDate": "2027-05-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.955,
       "lng": 23.681,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kapodistriou%20108%2C%20Moschato%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Kapodistriou|B-13",
@@ -19564,18 +19581,19 @@
       "price": 300000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.04.2027",
-      "deliveryDate": "2027-04-01",
+      "delivery": "01.05.2027",
+      "deliveryDate": "2027-05-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.955,
       "lng": 23.681,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kapodistriou%20108%2C%20Moschato%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Kapodistriou|B-14",
@@ -19596,18 +19614,19 @@
       "price": 320000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.04.2027",
-      "deliveryDate": "2027-04-01",
+      "delivery": "01.05.2027",
+      "deliveryDate": "2027-05-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.955,
       "lng": 23.681,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kapodistriou%20108%2C%20Moschato%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Kapodistriou|B-15",
@@ -19628,18 +19647,19 @@
       "price": 320000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.04.2027",
-      "deliveryDate": "2027-04-01",
+      "delivery": "01.05.2027",
+      "deliveryDate": "2027-05-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.955,
       "lng": 23.681,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kapodistriou%20108%2C%20Moschato%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Kapodistriou|B-16",
@@ -19660,18 +19680,19 @@
       "price": 295000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.04.2027",
-      "deliveryDate": "2027-04-01",
+      "delivery": "01.05.2027",
+      "deliveryDate": "2027-05-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.955,
       "lng": 23.681,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kapodistriou%20108%2C%20Moschato%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Kapodistriou|B-17",
@@ -19692,11 +19713,11 @@
       "price": 287000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.04.2027",
-      "deliveryDate": "2027-04-01",
+      "delivery": "01.05.2027",
+      "deliveryDate": "2027-05-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Güncel listede yok; firma teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.955,
       "lng": 23.681,
@@ -19704,7 +19725,8 @@
       "precision": "Address source-verified · pin approx",
       "previousStatus": "Available",
       "sourceStatus": "Unit absent from current source list",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Mati|I-1",
@@ -19981,18 +20003,19 @@
       "price": 254000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "09.01.2027",
-      "deliveryDate": "2027-01-09",
+      "delivery": "01.02.2027",
+      "deliveryDate": "2027-02-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 38.022,
       "lng": 23.857,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Leoforos%20Spaton%2035%2C%20Geraka%20153%2044%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Spaton|D-2",
@@ -20013,18 +20036,19 @@
       "price": 252000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "09.01.2027",
-      "deliveryDate": "2027-01-09",
+      "delivery": "01.02.2027",
+      "deliveryDate": "2027-02-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 38.022,
       "lng": 23.857,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Leoforos%20Spaton%2035%2C%20Geraka%20153%2044%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Spaton|D-3",
@@ -20045,18 +20069,19 @@
       "price": 250000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "09.01.2027",
-      "deliveryDate": "2027-01-09",
+      "delivery": "01.02.2027",
+      "deliveryDate": "2027-02-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 38.022,
       "lng": 23.857,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Leoforos%20Spaton%2035%2C%20Geraka%20153%2044%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Spaton|D-4",
@@ -20077,18 +20102,19 @@
       "price": 253000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "09.01.2027",
-      "deliveryDate": "2027-01-09",
+      "delivery": "01.02.2027",
+      "deliveryDate": "2027-02-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 38.022,
       "lng": 23.857,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Leoforos%20Spaton%2035%2C%20Geraka%20153%2044%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Limar|Terrace Heights|I4",
@@ -29706,18 +29732,19 @@
       "price": 330000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.02.2027",
-      "deliveryDate": "2027-02-01",
+      "delivery": "April 2027",
+      "deliveryDate": "2027-04-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "Santheos source tab / marketing folder",
       "lat": 38.032,
       "lng": 23.804,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Grigoriou%20Lampraki%2067-69%2C%20Chalandri%20152%2038%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Artemida|KL-2",
@@ -29834,18 +29861,19 @@
       "price": 360000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.02.2027",
-      "deliveryDate": "2027-02-01",
+      "delivery": "April 2027",
+      "deliveryDate": "2027-04-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "Santheos source tab / marketing folder",
       "lat": 37.913,
       "lng": 23.722,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Leoforos%20Ionias%2014%2C%20Alimos%20174%2056%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|IoniaKA|A-3",
@@ -29866,18 +29894,19 @@
       "price": 340000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.02.2027",
-      "deliveryDate": "2027-02-01",
+      "delivery": "April 2027",
+      "deliveryDate": "2027-04-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "Santheos source tab / marketing folder",
       "lat": 37.913,
       "lng": 23.722,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Leoforos%20Ionias%2014%2C%20Alimos%20174%2056%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Sygrou2|A-10",
@@ -29994,18 +30023,19 @@
       "price": 415000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.05.2027",
-      "deliveryDate": "2027-05-01",
+      "delivery": "August 2027",
+      "deliveryDate": "2027-08-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "Santheos source tab / marketing folder",
       "lat": 37.944,
       "lng": 23.648,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eleutheriou%20Venizelou%2049%20%26%20Praxitelous%2C%20Piraeus%20185%2032%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|VenizelouPi|G-2",
@@ -30026,18 +30056,19 @@
       "price": 330000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.05.2027",
-      "deliveryDate": "2027-05-01",
+      "delivery": "August 2027",
+      "deliveryDate": "2027-08-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "Santheos source tab / marketing folder",
       "lat": 37.944,
       "lng": 23.648,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eleutheriou%20Venizelou%2049%20%26%20Praxitelous%2C%20Piraeus%20185%2032%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|VenizelouPi|G-3",
@@ -30058,18 +30089,19 @@
       "price": 325000,
       "status": "Check Availability",
       "gv": "",
-      "delivery": "01.05.2027",
-      "deliveryDate": "2027-05-01",
+      "delivery": "August 2027",
+      "deliveryDate": "2027-08-01",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Teyit gerekli",
       "media": "Santheos source tab / marketing folder",
       "lat": 37.944,
       "lng": 23.648,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eleutheriou%20Venizelou%2049%20%26%20Praxitelous%2C%20Piraeus%20185%2032%2C%20Greece",
       "precision": "Address source-verified · pin approx",
       "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     },
     {
       "id": "Santheos|Louvre|Full Building",
@@ -30876,6 +30908,39 @@
       "sourceDocumentDate": "2026-11-05",
       "lastCheckedAt": "2026-11-05T13:35:00.000Z",
       "dataNote": "20.10.2026 fiyat listesine eklenen daire."
+    },
+    {
+      "id": "Santheos|Kapodistriou|B-12",
+      "firm": "Santheos",
+      "project": "Kapodistriou",
+      "unit": "B-12",
+      "country": "Greece",
+      "area": "Moschato",
+      "address": "Kapodistriou 108, Moschato",
+      "floor": "Second Floor",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "internal": 53.17,
+      "outdoor": null,
+      "total": 53.17,
+      "parking": "",
+      "storage": "",
+      "price": 257000,
+      "status": "Check Availability",
+      "gv": "",
+      "delivery": "01.05.2027",
+      "deliveryDate": "2027-05-01",
+      "rental": "",
+      "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
+      "freshness": "🟡 Teyit gerekli",
+      "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
+      "lat": 37.955,
+      "lng": 23.681,
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kapodistriou%20108%2C%20Moschato%2C%20Greece",
+      "precision": "Address source-verified · pin approx",
+      "sourceStatus": "Price listed; no explicit availability status",
+      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "sourceDocumentDate": "2026-11-10"
     }
   ],
   "firmColors": {
@@ -30933,8 +30998,8 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-11-06T08:21:12.000Z",
-    "matchedUnits": 909,
+    "checkedAt": "2026-11-11T07:21:43.000Z",
+    "matchedUnits": 910,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
     "unmappedProjects": [
@@ -30942,19 +31007,31 @@
         "firm": "OIKOS",
         "project": "SIERRA",
         "unitCount": 9,
-        "reason": "No verified coordinate in Map Data; 8 Sold, 1 On Hold (until 29/10)"
+        "reason": "Source units exist, but no verified Map Data coordinate is available; no units added"
+      },
+      {
+        "firm": "OIKOS",
+        "project": "ELYS - CHALDIAS 24",
+        "unitCount": 12,
+        "reason": "New source units exist, but no verified Map Data coordinate is available; no units added"
       },
       {
         "firm": "OIKOS",
         "project": "THISEOS SERVICED APTS",
         "unitCount": 1,
-        "reason": "Unit B03 is Reserved in the source, but no verified Master Stock and Map Data match exists"
+        "reason": "Unit B03 remains unmatched to a verified Master Stock and Map Data record"
       },
       {
         "firm": "Zafido",
         "project": "Venus - Elliniko",
         "unitCount": 1,
-        "reason": "Unit GF1 is Available in the source, but no verified Map Data coordinate exists"
+        "reason": "Unit GF1 is Available in the source, but no verified Map Data coordinate is available"
+      },
+      {
+        "firm": "Santheos",
+        "project": "Smirnis",
+        "unitCount": 6,
+        "reason": "Explicitly Available source units exist, but no verified Map Data coordinate is available; no units added"
       }
     ],
     "beGreekImport": {
@@ -30981,49 +31058,122 @@
       ]
     },
     "oikosRefresh": {
-      "checkedAt": "2026-11-06T08:21:12.000Z",
-      "documentUpdatedAt": "2026-11-06T08:16:17.140Z",
-      "statusChanges": 3,
+      "checkedAt": "2026-11-11T07:21:43.000Z",
+      "documentUpdatedAt": "2026-11-11T07:06:41.783Z",
+      "statusChanges": 26,
       "priceChanges": 0,
-      "dimensionRevisions": 0,
       "changes": [
-        "BOULEVARD A01: On Hold → Available",
-        "TRINITY GF01: Available → On Hold",
-        "KIFISIA SUITES GF12: Available → On Hold"
+        "THERMAE VIEW RESIDENCES GF01: Available → Sold",
+        "THERMAE VIEW RESIDENCES GF02: Available → Sold",
+        "THERMAE VIEW RESIDENCES GF03: Reserved → Sold",
+        "THERMAE VIEW RESIDENCES GF04: Available → Sold",
+        "THERMAE VIEW RESIDENCES GF05: Available → Sold",
+        "THERMAE VIEW RESIDENCES A01: Available → Sold",
+        "THERMAE VIEW RESIDENCES A02: Available → Sold",
+        "THERMAE VIEW RESIDENCES A03: Available → Sold",
+        "THERMAE VIEW RESIDENCES A04: Available → Sold",
+        "THERMAE VIEW RESIDENCES A05: Available → Sold",
+        "THERMAE VIEW RESIDENCES A06: Available → Sold",
+        "THERMAE VIEW RESIDENCES A07: Available → Sold",
+        "THERMAE VIEW RESIDENCES A08: Available → Sold",
+        "THERMAE VIEW RESIDENCES B01: Available → Sold",
+        "THERMAE VIEW RESIDENCES B02: Available → Sold",
+        "THERMAE VIEW RESIDENCES B03: Available → Sold",
+        "THERMAE VIEW RESIDENCES B04: Reserved → Sold",
+        "THERMAE VIEW RESIDENCES B05: Available → Sold",
+        "THERMAE VIEW RESIDENCES B06: Available → Sold",
+        "THERMAE VIEW RESIDENCES B07: Available → Sold",
+        "THERMAE VIEW RESIDENCES B08: Available → Sold",
+        "BOULEVARD A01: Available → Reserved",
+        "BOULEVARD C01: On Hold → Reserved",
+        "BOULEVARD E01: Available → Reserved",
+        "TRINITY D02: Sold → On Hold",
+        "TRINITY E03: On Hold → Reserved"
+      ],
+      "unmappedNewProjects": [
+        "ELYS - CHALDIAS 24 (12 units)",
+        "SIERRA (9 units)"
       ]
     },
     "shgRefresh": {
-      "checkedAt": "2026-11-05T16:25:00.000Z",
-      "documentUpdatedAt": "2026-11-05T15:22:09.457Z",
-      "statusChanges": 2,
-      "priceChanges": 0,
-      "changes": [
-        "Elysium Gardens G3: Available → Booked",
-        "Elysium Gardens D5: Available → Booked"
-      ]
-    },
-    "hestiaRefresh": {
-      "checkedAt": "2026-11-05T16:25:00.000Z",
-      "sourceModifiedAt": "2026-11-05T16:10:59.227Z",
-      "sourceDocumentDate": null,
-      "statusChanges": 3,
-      "priceChanges": 0,
-      "changes": [
-        "ORION I1-M1: Available → Sold",
-        "ORION C3: Available → Locked",
-        "PARAGON I A3: Locked → Sold"
-      ]
-    },
-    "zafidoRefresh": {
-      "checkedAt": "2026-11-06T08:21:12.000Z",
-      "documentUpdatedAt": "2026-11-06T07:16:00.743Z",
+      "checkedAt": "2026-11-11T07:21:43.000Z",
+      "documentUpdatedAt": "2026-11-11T03:25:35.528Z",
       "statusChanges": 0,
       "priceChanges": 0,
-      "matchedUnits": 36,
-      "legacyUnitsAbsent": 14,
+      "matchedUnits": 236,
+      "changes": []
+    },
+    "hestiaRefresh": {
+      "checkedAt": "2026-11-11T07:21:43.000Z",
+      "sourceModifiedAt": "2026-11-09T12:24:52.019Z",
+      "sourceDocumentDate": null,
+      "statusChanges": 4,
+      "priceChanges": 1,
+      "changes": [
+        "ORION C3: Locked → Sold",
+        "PARAGON I IΣ4-HM4: Locked → Available",
+        "PARAGON I D3: Sold → Available; price blank → €276,000",
+        "DELOS 203: Available → Locked"
+      ],
+      "sheetsChecked": 5
+    },
+    "zafidoRefresh": {
+      "checkedAt": "2026-11-11T07:21:43.000Z",
+      "documentUpdatedAt": "2026-11-10T14:17:52.362Z",
+      "statusChanges": 7,
+      "priceChanges": 0,
+      "changes": [
+        "Dimosthenous 270 - Kallithea GF3: Reserved → Available",
+        "Menandrou & Nirvana 6 - Ilioupoli 1.1: Available → Reserved",
+        "Navarinou 5 & Kosti Palama - CHALANDRI A 1.4: Available → Reserved",
+        "Navarinou 5 & Kosti Palama - CHALANDRI A M7: Available → Reserved",
+        "Navarinou 5 & Kosti Palama - CHALANDRI A M8: Available → Reserved",
+        "Navarinou 5 & Kosti Palama - CHALANDRI B GF2: Available → Reserved",
+        "Navarinou 5 & Kosti Palama - CHALANDRI B GF6: Available → Reserved"
+      ],
       "unmappedNewUnits": [
         "Venus - Elliniko GF1"
       ]
+    },
+    "santheosRefresh": {
+      "checkedAt": "2026-11-11T07:21:43.000Z",
+      "documentUpdatedAt": "2026-11-10T15:38:04.581Z",
+      "statusChanges": 1,
+      "priceChanges": 0,
+      "deliveryChanges": 31,
+      "newUnitsAdded": [
+        "Kapodistriou B-12"
+      ],
+      "unmappedNewUnits": [
+        "Smirnis I-1/Y-1",
+        "Smirnis I-2/Y-2",
+        "Smirnis A-1",
+        "Smirnis A-2",
+        "Smirnis B-1/SF-1",
+        "Smirnis B-2/SF-2"
+      ],
+      "availabilityRule": "Units without an explicit source status remain Check Availability",
+      "changes": [
+        "Spat B-3: Check → Available"
+      ]
+    },
+    "staticSourceSearch": {
+      "checkedAt": "2026-11-11T07:21:43.000Z",
+      "terraceHeights": {
+        "latestDocumentDate": "2026-11-05",
+        "newerFileFound": false,
+        "liveStock": false
+      },
+      "t15Residence": {
+        "latestDocumentDate": null,
+        "newerFileFound": false,
+        "liveStock": false
+      },
+      "plaza": {
+        "latestDocumentDate": "2026-08-21",
+        "newerFileFound": false,
+        "liveStock": false
+      }
     }
   }
 }
