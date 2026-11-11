@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T08:06:16.297Z",
+  "generatedAt": "2026-11-11T11:09:49.000Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 944,
   "records": [
@@ -851,7 +851,7 @@
       "parking": "No",
       "storage": "",
       "price": 260000,
-      "status": "Available",
+      "status": "On Hold",
       "gv": "",
       "delivery": "30.06.2028",
       "deliveryDate": "2028-06-30",
@@ -863,9 +863,10 @@
       "lng": 23.692,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
-      "sourceDocumentDate": "2026-11-11"
+      "sourceStatus": "On hold 16/11",
+      "lastCheckedAt": "2026-11-11T11:09:49.000Z",
+      "sourceDocumentDate": "2026-11-11",
+      "dataNote": "OIKOS kaynağında On hold 16/11. Sürenin geçmesi tek başına müsaitlik kanıtı değildir."
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|B08",
@@ -5244,7 +5245,7 @@
       "parking": "",
       "storage": "",
       "price": 300000,
-      "status": "On Hold",
+      "status": "Available",
       "gv": "",
       "delivery": 46934,
       "deliveryDate": "2028-06-30",
@@ -5256,9 +5257,8 @@
       "lng": 23.757,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "On hold 10/11",
-      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
-      "dataNote": "OIKOS kaynağında On hold 10/11. Sürenin geçmesi tek başına müsaitlik kanıtı değildir.",
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-11T11:09:49.000Z",
       "sourceDocumentDate": "2026-11-11"
     },
     {
@@ -7325,7 +7325,7 @@
       "parking": "",
       "storage": "",
       "price": 380000,
-      "status": "On Hold",
+      "status": "Available",
       "gv": "",
       "delivery": "",
       "deliveryDate": null,
@@ -7337,10 +7337,9 @@
       "lng": 23.8135,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eftichias%204%2C%20Kifisia%20141%2021%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "On hold 10/11",
-      "lastCheckedAt": "2026-11-11T08:06:16.297Z",
-      "sourceDocumentDate": "2026-11-11",
-      "dataNote": "OIKOS kaynağında On hold 10/11. Sürenin geçmesi tek başına müsaitlik kanıtı değildir."
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-11T11:09:49.000Z",
+      "sourceDocumentDate": "2026-11-11"
     },
     {
       "id": "OIKOS|KIFISIA SUITES|GF01",
@@ -30998,7 +30997,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-11-11T08:06:16.297Z",
+    "checkedAt": "2026-11-11T11:09:49.000Z",
     "matchedUnits": 910,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
@@ -31058,19 +31057,23 @@
       ]
     },
     "oikosRefresh": {
-      "checkedAt": "2026-11-11T08:06:16.297Z",
-      "documentUpdatedAt": "2026-11-11T07:56:16.339Z",
-      "statusChanges": 0,
+      "checkedAt": "2026-11-11T11:09:49.000Z",
+      "documentUpdatedAt": "2026-11-11T11:06:32.949Z",
+      "statusChanges": 3,
       "priceChanges": 0,
-      "changes": [],
+      "changes": [
+        "OASIS RESIDENCES B05: Available → On Hold",
+        "TRINITY GF01: On Hold → Available",
+        "KIFISIA SUITES GF12: On Hold → Available"
+      ],
       "unmappedNewProjects": [
         "ELYS - CHALDIAS 24 (12 units)",
         "SIERRA (9 units)"
       ]
     },
     "shgRefresh": {
-      "checkedAt": "2026-11-11T07:21:43.000Z",
-      "documentUpdatedAt": "2026-11-11T03:25:35.528Z",
+      "checkedAt": "2026-11-11T11:09:49.000Z",
+      "documentUpdatedAt": "2026-11-11T11:09:37.638Z",
       "statusChanges": 0,
       "priceChanges": 0,
       "matchedUnits": 236,
@@ -31105,14 +31108,12 @@
       ]
     },
     "santheosRefresh": {
-      "checkedAt": "2026-11-11T07:21:43.000Z",
-      "documentUpdatedAt": "2026-11-10T15:38:04.581Z",
-      "statusChanges": 1,
+      "checkedAt": "2026-11-11T11:09:49.000Z",
+      "documentUpdatedAt": "2026-11-11T09:50:17.166Z",
+      "statusChanges": 0,
       "priceChanges": 0,
-      "deliveryChanges": 31,
-      "newUnitsAdded": [
-        "Kapodistriou B-12"
-      ],
+      "deliveryChanges": 0,
+      "newUnitsAdded": [],
       "unmappedNewUnits": [
         "Smirnis I-1/Y-1",
         "Smirnis I-2/Y-2",
@@ -31122,9 +31123,7 @@
         "Smirnis B-2/SF-2"
       ],
       "availabilityRule": "Units without an explicit source status remain Check Availability",
-      "changes": [
-        "Spat B-3: Check → Available"
-      ]
+      "changes": []
     },
     "staticSourceSearch": {
       "checkedAt": "2026-11-11T08:06:16.297Z",
