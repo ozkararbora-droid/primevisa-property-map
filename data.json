@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T12:22:28.000Z",
+  "generatedAt": "2026-11-11T12:37:40.000Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 944,
   "records": [
@@ -15240,8 +15240,8 @@
       "total": 129.2,
       "parking": "",
       "storage": "",
-      "price": null,
-      "status": "Sold",
+      "price": 365000,
+      "status": "Available",
       "gv": "",
       "delivery": "31.08.2027",
       "deliveryDate": "2027-08-31",
@@ -15253,9 +15253,10 @@
       "lng": 23.708,
       "mapUrl": "https://maps.app.goo.gl/6kfDWSRTn8SmMWA57",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Condition blank; positive sales price",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-11T12:37:40.000Z",
+      "dataNote": "Hestia kaynağında Condition boş ve doğrulanmış satış fiyatı pozitif; müsait olarak değerlendirildi."
     },
     {
       "id": "Hestia|DELOS|001",
@@ -30997,7 +30998,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-11-11T12:22:28.000Z",
+    "checkedAt": "2026-11-11T12:37:40.000Z",
     "matchedUnits": 910,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
@@ -31057,8 +31058,8 @@
       ]
     },
     "oikosRefresh": {
-      "checkedAt": "2026-11-11T12:22:28.000Z",
-      "documentUpdatedAt": "2026-11-11T12:16:18.160Z",
+      "checkedAt": "2026-11-11T12:37:40.000Z",
+      "documentUpdatedAt": "2026-11-11T12:36:31.598Z",
       "statusChanges": 0,
       "priceChanges": 0,
       "changes": [],
@@ -31076,16 +31077,13 @@
       "changes": []
     },
     "hestiaRefresh": {
-      "checkedAt": "2026-11-11T07:21:43.000Z",
-      "sourceModifiedAt": "2026-11-09T12:24:52.019Z",
+      "checkedAt": "2026-11-11T12:37:40.000Z",
+      "sourceModifiedAt": "2026-11-11T12:34:42.985Z",
       "sourceDocumentDate": null,
-      "statusChanges": 4,
+      "statusChanges": 1,
       "priceChanges": 1,
       "changes": [
-        "ORION C3: Locked → Sold",
-        "PARAGON I IΣ4-HM4: Locked → Available",
-        "PARAGON I D3: Sold → Available; price blank → €276,000",
-        "DELOS 203: Available → Locked"
+        "PARAGON I E1: Sold → Available; price blank → €365,000"
       ],
       "sheetsChecked": 5
     },
