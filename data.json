@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T08:56:50Z",
+  "generatedAt": "2026-11-12T11:30:41Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 944,
   "records": [
@@ -3395,7 +3395,7 @@
       "parking": "",
       "storage": "",
       "price": 270000,
-      "status": "Reserved",
+      "status": "Sold",
       "gv": "",
       "delivery": "31.05.2028",
       "deliveryDate": "2028-05-31",
@@ -3407,9 +3407,9 @@
       "lng": 23.701,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-12T08:56:50Z",
-      "dataNote": "OIKOS kaynağında 11/11 tarihine kadar On Hold.",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-12T11:30:41Z",
+      "dataNote": "OIKOS kaynağında SOLD.",
       "sourceDocumentDate": "2026-11-12"
     },
     {
@@ -9991,7 +9991,7 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 289000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
       "delivery": "Q4 2028",
       "deliveryDate": "2028-12-31",
@@ -10003,9 +10003,9 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-12T08:56:50Z",
-      "sourceDocumentDate": "2026-11-12"
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-11-12T11:30:41Z",
+      "sourceDocumentDate": null
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B GF6",
@@ -13924,15 +13924,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
+      "sourceStatus": "Project sheet absent from current Hestia file",
       "sourceDocumentDate": null,
-      "lastCheckedAt": "2026-11-05T16:25:00.000Z",
+      "lastCheckedAt": "2026-11-12T11:30:41Z",
       "sourceModifiedAt": "2026-11-05T16:10:59.227Z"
     },
     {
@@ -13958,15 +13958,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|I3-M3",
@@ -13991,15 +13991,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|I4-M4",
@@ -14024,15 +14024,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|I5-M5",
@@ -14057,15 +14057,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|A1",
@@ -14090,15 +14090,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|A2",
@@ -14123,15 +14123,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|A3",
@@ -14156,15 +14156,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|A4",
@@ -14189,15 +14189,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|A5",
@@ -14222,15 +14222,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|B1",
@@ -14255,15 +14255,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|B2",
@@ -14288,15 +14288,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|B3",
@@ -14321,15 +14321,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|B4",
@@ -14354,15 +14354,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|B5",
@@ -14387,15 +14387,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|C1",
@@ -14420,15 +14420,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|C2",
@@ -14453,15 +14453,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|C3",
@@ -14486,15 +14486,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
+      "sourceStatus": "Project sheet absent from current Hestia file",
       "sourceDocumentDate": null,
-      "lastCheckedAt": "2026-11-11T07:21:43.000Z",
+      "lastCheckedAt": "2026-11-12T11:30:41Z",
       "sourceModifiedAt": "2026-11-05T16:10:59.227Z"
     },
     {
@@ -14520,15 +14520,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|D2",
@@ -14553,15 +14553,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|E1",
@@ -14586,15 +14586,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|ORION|E2",
@@ -14619,15 +14619,15 @@
       "deliveryDate": "2027-08-31",
       "rental": "3 yrs × 3%",
       "source": "https://drive.google.com/file/d/1LQPk3yTwhe9-EsAf3KLx2V6n80dEWoqK/view",
-      "freshness": "🟢 Kaynaktan kontrol edildi",
+      "freshness": "🟡 Güncel Hestia dosyasında proje sekmesi yok; teyit gerekli",
       "media": "https://drive.google.com/drive/folders/1UZiJflmviE7AtNWknmGGxu93DthetvoX",
       "lat": 37.96,
       "lng": 23.743,
       "mapUrl": "https://maps.app.goo.gl/YxtdJvZHJPfy6w1j9",
       "precision": "Official developer address · pin approx",
-      "sourceStatus": "Sold",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Project sheet absent from current Hestia file",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|PARAGON I|Y1-ΙΣ1",
@@ -15803,7 +15803,7 @@
       "parking": "P31",
       "storage": "",
       "price": 298000,
-      "status": "Available",
+      "status": "Locked",
       "gv": "",
       "delivery": "31.08.2027",
       "deliveryDate": "2027-08-31",
@@ -15815,9 +15815,9 @@
       "lng": 23.733,
       "mapUrl": "https://maps.app.goo.gl/vTfur1QuMpj2gkSJA",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "Priced unit; Condition blank",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Locked",
+      "sourceDocumentDate": null,
+      "lastCheckedAt": "2026-11-12T11:30:41Z"
     },
     {
       "id": "Hestia|DELOS|206",
@@ -18927,14 +18927,15 @@
       "deliveryDate": "2027-02-15",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Güncel Santheos listesinde proje yok; teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.998,
       "lng": 23.733,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Doiranis%205%2C%20Athina%20113%2062%2C%20Greece",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "sourceStatus": "Project absent from current Santheos source",
+      "lastCheckedAt": "2026-11-12T11:30:41Z",
+      "sourceDocumentDate": null
     },
     {
       "id": "Santheos|Doir|K-2",
@@ -18959,14 +18960,15 @@
       "deliveryDate": "2027-02-15",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Güncel Santheos listesinde proje yok; teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.998,
       "lng": 23.733,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Doiranis%205%2C%20Athina%20113%2062%2C%20Greece",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "sourceStatus": "Project absent from current Santheos source",
+      "lastCheckedAt": "2026-11-12T11:30:41Z",
+      "sourceDocumentDate": null
     },
     {
       "id": "Santheos|Doir|K-3",
@@ -18991,14 +18993,15 @@
       "deliveryDate": "2027-02-15",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Güncel Santheos listesinde proje yok; teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.998,
       "lng": 23.733,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Doiranis%205%2C%20Athina%20113%2062%2C%20Greece",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "sourceStatus": "Project absent from current Santheos source",
+      "lastCheckedAt": "2026-11-12T11:30:41Z",
+      "sourceDocumentDate": null
     },
     {
       "id": "Santheos|Doir|K-4",
@@ -19023,14 +19026,15 @@
       "deliveryDate": "2027-02-15",
       "rental": "",
       "source": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
-      "freshness": "🟡 Kaynakta müsaitlik teyidi gerekli",
+      "freshness": "🟡 Güncel Santheos listesinde proje yok; teyit gerekli",
       "media": "https://docs.google.com/spreadsheets/d/1OgzVtRtyIQEaVqFUSwTWCOG_wUK7VdILvTsmlxlc8-M/edit",
       "lat": 37.998,
       "lng": 23.733,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Doiranis%205%2C%20Athina%20113%2062%2C%20Greece",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "Source has no explicit availability",
-      "lastCheckedAt": "2026-10-19T08:02:00+00:00"
+      "sourceStatus": "Project absent from current Santheos source",
+      "lastCheckedAt": "2026-11-12T11:30:41Z",
+      "sourceDocumentDate": null
     },
     {
       "id": "Santheos|ARCH 10|I-3",
@@ -31234,7 +31238,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-11-12T08:56:50Z",
+    "checkedAt": "2026-11-12T11:30:41Z",
     "matchedUnits": 910,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
@@ -31294,14 +31298,12 @@
       ]
     },
     "oikosRefresh": {
-      "checkedAt": "2026-11-12T08:56:50Z",
-      "documentUpdatedAt": "2026-11-12T08:46:19.101Z",
-      "statusChanges": 3,
+      "checkedAt": "2026-11-12T11:30:41Z",
+      "documentUpdatedAt": "2026-11-12T11:25:56.243Z",
+      "statusChanges": 1,
       "priceChanges": 0,
       "changes": [
-        "MERIDIA GF04: Sold → Available; price unchanged at €250,000",
-        "MERIDIA C03: Reserved → On Hold 18/11; price unchanged at €255,000",
-        "TRINITY C01: On Hold 13/11 → Reserved; price unchanged at €258,000"
+        "BOULEVARD A04: Reserved → Sold; price unchanged at €270,000"
       ],
       "unmappedNewProjects": [
         "ELYS - CHALDIAS 24 (12 units)",
@@ -31309,37 +31311,42 @@
       ]
     },
     "shgRefresh": {
-      "checkedAt": "2026-11-12T08:56:50Z",
-      "documentUpdatedAt": "2026-11-12T08:52:28.877Z",
+      "checkedAt": "2026-11-12T11:30:41Z",
+      "documentUpdatedAt": "2026-11-12T11:25:34.012Z",
       "statusChanges": 0,
       "priceChanges": 0,
       "matchedUnits": 236,
       "changes": []
     },
     "hestiaRefresh": {
-      "checkedAt": "2026-11-11T12:37:40.000Z",
-      "sourceModifiedAt": "2026-11-11T12:34:42.985Z",
+      "checkedAt": "2026-11-12T11:30:41Z",
+      "sourceModifiedAt": "2026-11-12T11:14:38.612Z",
       "sourceDocumentDate": null,
       "statusChanges": 1,
-      "priceChanges": 1,
+      "priceChanges": 0,
       "changes": [
-        "PARAGON I E1: Sold → Available; price blank → €365,000"
+        "DELOS 205: Available → Locked; price unchanged at €298,000"
       ],
-      "sheetsChecked": 5
+      "sheetsChecked": 4,
+      "missingProjectSheets": [
+        "ORION"
+      ]
     },
     "zafidoRefresh": {
-      "checkedAt": "2026-11-12T08:56:50Z",
-      "documentUpdatedAt": "2026-11-12T08:06:19.308Z",
-      "statusChanges": 0,
+      "checkedAt": "2026-11-12T11:30:41Z",
+      "documentUpdatedAt": "2026-11-12T11:06:42.136Z",
+      "statusChanges": 1,
       "priceChanges": 0,
-      "changes": [],
+      "changes": [
+        "Navarinou B GF5: Available → Reserved; price unchanged at €289,000"
+      ],
       "unmappedNewUnits": [
         "Venus - Elliniko GF1"
       ]
     },
     "santheosRefresh": {
-      "checkedAt": "2026-11-11T11:09:49.000Z",
-      "documentUpdatedAt": "2026-11-11T09:50:17.166Z",
+      "checkedAt": "2026-11-12T11:30:41Z",
+      "documentUpdatedAt": "2026-11-12T11:26:17.884Z",
       "statusChanges": 0,
       "priceChanges": 0,
       "deliveryChanges": 0,
@@ -31353,10 +31360,15 @@
         "Smirnis B-2/SF-2"
       ],
       "availabilityRule": "Units without an explicit source status remain Check Availability",
-      "changes": []
+      "changes": [
+        "ST-038 Doir project tab removed; 4 existing units retained as Check Availability with verification warning"
+      ],
+      "missingProjectSheets": [
+        "ST-038 Doir"
+      ]
     },
     "staticSourceSearch": {
-      "checkedAt": "2026-11-12T08:56:50Z",
+      "checkedAt": "2026-11-12T11:30:41Z",
       "terraceHeights": {
         "latestDocumentDate": "2026-11-05",
         "newerFileFound": false,
