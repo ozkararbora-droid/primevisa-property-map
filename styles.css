@@ -131,3 +131,8 @@ html,body{overflow:hidden}#app{height:100vh;height:100dvh;grid-template-rows:76p
  .top-actions .bonus-tab{max-width:none;white-space:nowrap}
  .loading{top:120px}
 }
+
+/* Keep overall portfolio totals visible between stock status and shortcuts. */
+@media(min-width:821px){
+ .topbar .summary{display:block;flex:1 1 160px;min-width:90px;max-width:none;margin:0;text-align:center;white-space:normal;overflow:visible;text-overflow:clip;line-height:1.5;font-size:10px;font-weight:600;color:#dbe8f6}
+}
