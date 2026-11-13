@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T07:18:01Z",
+  "generatedAt": "2026-11-13T12:28:51Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 944,
   "records": [
@@ -31240,7 +31240,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-11-13T07:18:01Z",
+    "checkedAt": "2026-11-13T12:28:51Z",
     "matchedUnits": 910,
     "missingSourceUnits": 13,
     "staticDocumentUnits": 168,
@@ -31274,6 +31274,12 @@
         "project": "Smirnis",
         "unitCount": 6,
         "reason": "Explicitly Available source units exist, but no verified Map Data coordinate is available; no units added"
+      },
+      {
+        "firm": "OIKOS",
+        "project": "THE ONE",
+        "unitCount": 1,
+        "reason": "Source unit C03 is Available at €301,000, but no verified Map Data coordinate is available; unit not added"
       }
     ],
     "beGreekImport": {
@@ -31300,16 +31306,18 @@
       ]
     },
     "oikosRefresh": {
-      "checkedAt": "2026-11-13T07:18:01Z",
-      "documentUpdatedAt": "2026-11-13T07:16:35.079Z",
-      "statusChanges": 1,
+      "checkedAt": "2026-11-13T12:28:51Z",
+      "documentUpdatedAt": "2026-11-13T12:26:30.167Z",
+      "statusChanges": 0,
       "priceChanges": 0,
       "changes": [
-        "OASIS RESIDENCES A12: Available → On Hold 19/11; price unchanged at €259,000"
+        "16 project tabs and _Overrides checked; existing matched units have no verified price/status changes",
+        "New THE ONE C03 is Available at €301,000, but was not added because no verified Map Data coordinate exists"
       ],
       "unmappedNewProjects": [
         "ELYS - CHALDIAS 24 (12 units)",
-        "SIERRA (9 units)"
+        "SIERRA (9 units)",
+        "THE ONE (1 unit)"
       ]
     },
     "shgRefresh": {
@@ -31352,8 +31360,8 @@
       ]
     },
     "santheosRefresh": {
-      "checkedAt": "2026-11-12T11:30:41Z",
-      "documentUpdatedAt": "2026-11-12T11:26:17.884Z",
+      "checkedAt": "2026-11-13T12:28:51Z",
+      "documentUpdatedAt": "2026-11-13T09:27:27.069Z",
       "statusChanges": 0,
       "priceChanges": 0,
       "deliveryChanges": 0,
@@ -31368,14 +31376,12 @@
       ],
       "availabilityRule": "Units without an explicit source status remain Check Availability",
       "changes": [
-        "ST-038 Doir project tab removed; 4 existing units retained as Check Availability with verification warning"
+        "Available and 19 project tabs are cell-for-cell unchanged from the prior verified source; no verified price/status changes"
       ],
-      "missingProjectSheets": [
-        "ST-038 Doir"
-      ]
+      "missingProjectSheets": []
     },
     "staticSourceSearch": {
-      "checkedAt": "2026-11-13T07:18:01Z",
+      "checkedAt": "2026-11-13T12:28:51Z",
       "terraceHeights": {
         "latestDocumentDate": "2026-11-05",
         "newerFileFound": false,
