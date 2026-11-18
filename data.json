@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T07:41:43Z",
+  "generatedAt": "2026-11-18T13:10:58Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 944,
   "records": [
@@ -3636,7 +3636,7 @@
       "parking": "",
       "storage": "",
       "price": 325000,
-      "status": "Reserved",
+      "status": "Sold",
       "gv": "",
       "delivery": "31.05.2028",
       "deliveryDate": "2028-05-31",
@@ -3648,9 +3648,10 @@
       "lng": 23.701,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-12T08:56:50Z",
-      "sourceDocumentDate": "2026-11-12"
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-18T13:10:58Z",
+      "sourceDocumentDate": "2026-11-18",
+      "dataNote": "18.11.2026 16:07 kaynak revizyonu: SOLD."
     },
     {
       "id": "OIKOS|BOULEVARD|E01",
@@ -31257,7 +31258,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-11-18T07:41:43Z",
+    "checkedAt": "2026-11-18T13:10:58Z",
     "matchedUnits": 865,
     "missingSourceUnits": 79,
     "staticDocumentUnits": 168,
@@ -31323,9 +31324,9 @@
       ]
     },
     "oikosRefresh": {
-      "checkedAt": "2026-11-18T07:41:43Z",
-      "documentUpdatedAt": "2026-11-18T07:29:03.473Z",
-      "statusChanges": 12,
+      "checkedAt": "2026-11-18T13:10:58Z",
+      "documentUpdatedAt": "2026-11-18T13:07:45.409Z",
+      "statusChanges": 13,
       "priceChanges": 0,
       "matchedUnits": 254,
       "missingMasterUnits": 6,
@@ -31333,7 +31334,8 @@
         "OASIS GF01 Available → On Hold 23/11; A03 On Hold → Available; A06 Available → Reserved; A10 Reserved → Sold",
         "THE GROVE A06 Reserved → Sold; A12 Reserved → Available",
         "THERMAE VIEW D07/D08 Available → On Hold 20/11",
-        "BOULEVARD A01/C01 Reserved → Sold; TRINITY D02 On Hold → Available; MERIDIA D05 Reserved → On Hold 23/11"
+        "BOULEVARD A01/C01 Reserved → Sold; TRINITY D02 On Hold → Available; MERIDIA D05 Reserved → On Hold 23/11",
+        "BOULEVARD D01 Reserved → Sold in the 16:07 Türkiye time source revision"
       ],
       "unmappedNewProjects": [
         "ELYS - CHALDIAS 24 (12 units)",
