@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T13:31:00Z",
+  "generatedAt": "2026-11-18T07:41:43Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 944,
   "records": [
@@ -20,7 +20,7 @@
       "parking": "No",
       "storage": "",
       "price": 258000,
-      "status": "Available",
+      "status": "On Hold",
       "gv": "",
       "delivery": "30.06.2028",
       "deliveryDate": "2028-06-30",
@@ -32,9 +32,10 @@
       "lng": 23.692,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-12T08:56:50Z",
-      "sourceDocumentDate": "2026-11-12"
+      "sourceStatus": "On hold 23/11",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "sourceDocumentDate": "2026-11-18",
+      "dataNote": "18.11.2026 kaynak kontrolü: On hold 23/11."
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|GF03",
@@ -352,7 +353,7 @@
       "parking": "No",
       "storage": "",
       "price": 255000,
-      "status": "On Hold",
+      "status": "Available",
       "gv": "",
       "delivery": "30.06.2028",
       "deliveryDate": "2028-06-30",
@@ -364,10 +365,10 @@
       "lng": 23.692,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "On hold 15/11",
-      "lastCheckedAt": "2026-11-12T15:34:02Z",
-      "sourceDocumentDate": "2026-11-12",
-      "dataNote": "OIKOS kaynağında On hold 15/11."
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "sourceDocumentDate": "2026-11-18",
+      "dataNote": "18.11.2026 kaynak kontrolü: Available."
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|A05",
@@ -419,7 +420,7 @@
       "parking": "No",
       "storage": "",
       "price": 259000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "",
       "delivery": "30.06.2028",
       "deliveryDate": "2028-06-30",
@@ -431,10 +432,10 @@
       "lng": 23.692,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-12T08:56:50Z",
-      "dataNote": "OIKOS kaynağında Available.",
-      "sourceDocumentDate": "2026-11-12"
+      "sourceStatus": "Reserved",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "dataNote": "18.11.2026 kaynak kontrolü: Reserved.",
+      "sourceDocumentDate": "2026-11-18"
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|A07",
@@ -553,7 +554,7 @@
       "parking": "No",
       "storage": "",
       "price": 257000,
-      "status": "Reserved",
+      "status": "Sold",
       "gv": "",
       "delivery": "30.06.2028",
       "deliveryDate": "2028-06-30",
@@ -565,10 +566,11 @@
       "lng": 23.692,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gonata%20Stilianou%2016%2C%20Peristeri%20121%2033%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-12T08:56:50Z",
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
       "previousStatus": "On Hold",
-      "sourceDocumentDate": "2026-11-12"
+      "sourceDocumentDate": "2026-11-18",
+      "dataNote": "18.11.2026 kaynak kontrolü: SOLD."
     },
     {
       "id": "OIKOS|OASIS RESIDENCES|A11",
@@ -1845,7 +1847,7 @@
       "parking": "",
       "storage": "",
       "price": 267000,
-      "status": "Reserved",
+      "status": "Sold",
       "gv": "",
       "delivery": "31.12.2028",
       "deliveryDate": "2028-12-31",
@@ -1857,9 +1859,10 @@
       "lng": 23.758,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-12T08:56:50Z",
-      "sourceDocumentDate": "2026-11-12"
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "sourceDocumentDate": "2026-11-18",
+      "dataNote": "18.11.2026 kaynak kontrolü: SOLD."
     },
     {
       "id": "OIKOS|THE GROVE|A07",
@@ -2043,7 +2046,7 @@
       "parking": "",
       "storage": "",
       "price": 250000,
-      "status": "Reserved",
+      "status": "Available",
       "gv": "",
       "delivery": "31.12.2028",
       "deliveryDate": "2028-12-31",
@@ -2055,9 +2058,10 @@
       "lng": 23.758,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sevastias%2033%2C%20Nea%20Ionia%20142%2031%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-12T08:56:50Z",
-      "sourceDocumentDate": "2026-11-12"
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "sourceDocumentDate": "2026-11-18",
+      "dataNote": "18.11.2026 kaynak kontrolü: Available."
     },
     {
       "id": "OIKOS|THE GROVE|A13",
@@ -3264,7 +3268,7 @@
       "parking": "",
       "storage": "",
       "price": 397000,
-      "status": "Available",
+      "status": "On Hold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -3276,9 +3280,10 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-12T08:56:50Z",
-      "sourceDocumentDate": "2026-11-12"
+      "sourceStatus": "On hold 20/11",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "sourceDocumentDate": "2026-11-18",
+      "dataNote": "18.11.2026 kaynak kontrolü: On hold 20/11."
     },
     {
       "id": "OIKOS|THERMAE VIEW RESIDENCES|D08",
@@ -3297,7 +3302,7 @@
       "parking": "",
       "storage": "",
       "price": 292000,
-      "status": "Available",
+      "status": "On Hold",
       "gv": "",
       "delivery": "30.03.2028",
       "deliveryDate": "2028-03-30",
@@ -3309,9 +3314,10 @@
       "lng": 22.9558,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nik.%20Manou%2016%2C%20Thessaloniki%20546%2043%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-12T08:56:50Z",
-      "sourceDocumentDate": "2026-11-12"
+      "sourceStatus": "On hold 20/11",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "sourceDocumentDate": "2026-11-18",
+      "dataNote": "18.11.2026 kaynak kontrolü: On hold 20/11."
     },
     {
       "id": "OIKOS|BOULEVARD|M04",
@@ -3363,7 +3369,7 @@
       "parking": "",
       "storage": "",
       "price": 320000,
-      "status": "Reserved",
+      "status": "Sold",
       "gv": "",
       "delivery": "31.05.2028",
       "deliveryDate": "2028-05-31",
@@ -3375,10 +3381,10 @@
       "lng": 23.701,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-12T08:56:50Z",
-      "dataNote": "OIKOS kaynağında Available.",
-      "sourceDocumentDate": "2026-11-12"
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "dataNote": "18.11.2026 kaynak kontrolü: SOLD.",
+      "sourceDocumentDate": "2026-11-18"
     },
     {
       "id": "OIKOS|BOULEVARD|A04",
@@ -3563,7 +3569,7 @@
       "parking": "",
       "storage": "",
       "price": 323000,
-      "status": "Reserved",
+      "status": "Sold",
       "gv": "",
       "delivery": "31.05.2028",
       "deliveryDate": "2028-05-31",
@@ -3575,10 +3581,10 @@
       "lng": 23.701,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thiseos%20218%2C%20Kallithea%20176%2075%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Reserved",
-      "lastCheckedAt": "2026-11-12T08:56:50Z",
-      "sourceDocumentDate": "2026-11-12",
-      "dataNote": "OIKOS kaynağında 05/11 tarihine kadar On Hold."
+      "sourceStatus": "SOLD",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "sourceDocumentDate": "2026-11-18",
+      "dataNote": "18.11.2026 kaynak kontrolü: SOLD."
     },
     {
       "id": "OIKOS|BOULEVARD|C10",
@@ -5643,7 +5649,7 @@
       "parking": "",
       "storage": "",
       "price": 258000,
-      "status": "On Hold",
+      "status": "Available",
       "gv": "",
       "delivery": 46934,
       "deliveryDate": "2028-06-30",
@@ -5655,9 +5661,10 @@
       "lng": 23.757,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Michalakopoulou%20174%2C%20Athina%20115%2027%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "On hold 13/11",
-      "lastCheckedAt": "2026-11-12T08:56:50Z",
-      "sourceDocumentDate": "2026-11-12"
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "sourceDocumentDate": "2026-11-18",
+      "dataNote": "18.11.2026 kaynak kontrolü: Available."
     },
     {
       "id": "OIKOS|TRINITY|D03",
@@ -5875,7 +5882,7 @@
       "parking": "",
       "storage": "",
       "price": 267000,
-      "status": "Reserved",
+      "status": "On Hold",
       "gv": "",
       "delivery": "31.12.2027",
       "deliveryDate": "2027-12-31",
@@ -5887,9 +5894,10 @@
       "lng": 23.655,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chrisostomou%20Smirnis%2032%2C%20Pireas%20185%2040%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "reserved!",
-      "lastCheckedAt": "2026-11-12T08:56:50Z",
-      "sourceDocumentDate": "2026-11-12"
+      "sourceStatus": "On hold 23/11",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "sourceDocumentDate": "2026-11-18",
+      "dataNote": "18.11.2026 kaynak kontrolü: On hold 23/11."
     },
     {
       "id": "OIKOS|MERIDIA|GF01",
@@ -8648,7 +8656,7 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 277000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
       "delivery": "Q4 2028",
       "deliveryDate": "2028-12-31",
@@ -8660,9 +8668,10 @@
       "lng": 23.7,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Dimosthenous%20270%2C%20Kallithea%2C%20Greece",
       "precision": "Address verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-12T08:56:50Z",
-      "sourceDocumentDate": "2026-11-12"
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "sourceDocumentDate": "2026-11-17",
+      "dataNote": "18.11.2026 kaynak kontrolü: RESERVED."
     },
     {
       "id": "Zafido|Dimosthenous 270 - Kallithea|2.1",
@@ -9927,7 +9936,7 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 281000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
       "delivery": "Q4 2028",
       "deliveryDate": "2028-12-31",
@@ -9939,9 +9948,10 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-12T08:56:50Z",
-      "sourceDocumentDate": "2026-11-12"
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "sourceDocumentDate": "2026-11-17",
+      "dataNote": "18.11.2026 kaynak kontrolü: RESERVED."
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B GF4",
@@ -9960,7 +9970,7 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 289000,
-      "status": "Available",
+      "status": "Reserved",
       "gv": "Yes",
       "delivery": "Q4 2028",
       "deliveryDate": "2028-12-31",
@@ -9972,9 +9982,10 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "Available",
-      "lastCheckedAt": "2026-11-12T08:56:50Z",
-      "sourceDocumentDate": "2026-11-12"
+      "sourceStatus": "RESERVED",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "sourceDocumentDate": "2026-11-17",
+      "dataNote": "18.11.2026 kaynak kontrolü: RESERVED."
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|B GF5",
@@ -15673,7 +15684,7 @@
       "parking": "P16",
       "storage": "",
       "price": 265000,
-      "status": "Locked",
+      "status": "Sold",
       "gv": "",
       "delivery": "31.08.2027",
       "deliveryDate": "2027-08-31",
@@ -15685,9 +15696,10 @@
       "lng": 23.733,
       "mapUrl": "https://maps.app.goo.gl/vTfur1QuMpj2gkSJA",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "Locked",
-      "sourceDocumentDate": "2026-11-04",
-      "lastCheckedAt": "2026-11-05T07:57:00.000Z"
+      "sourceStatus": "Sold",
+      "sourceDocumentDate": "2026-11-16",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "dataNote": "18.11.2026 kaynak kontrolü: Sold."
     },
     {
       "id": "Hestia|DELOS|202",
@@ -15805,7 +15817,7 @@
       "parking": "P31",
       "storage": "",
       "price": 298000,
-      "status": "Locked",
+      "status": "Available",
       "gv": "",
       "delivery": "31.08.2027",
       "deliveryDate": "2027-08-31",
@@ -15817,9 +15829,10 @@
       "lng": 23.733,
       "mapUrl": "https://maps.app.goo.gl/vTfur1QuMpj2gkSJA",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "Locked",
-      "sourceDocumentDate": null,
-      "lastCheckedAt": "2026-11-12T11:30:41Z"
+      "sourceStatus": "blank Condition + positive sale price",
+      "sourceDocumentDate": "2026-11-16",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "dataNote": "18.11.2026 kaynak kontrolü: blank Condition + positive sale price."
     },
     {
       "id": "Hestia|DELOS|206",
@@ -15838,7 +15851,7 @@
       "parking": "P4",
       "storage": "",
       "price": 273000,
-      "status": "Locked",
+      "status": "Available",
       "gv": "",
       "delivery": "31.08.2027",
       "deliveryDate": "2027-08-31",
@@ -15850,9 +15863,10 @@
       "lng": 23.733,
       "mapUrl": "https://maps.app.goo.gl/vTfur1QuMpj2gkSJA",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "Locked",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "blank Condition + positive sale price",
+      "sourceDocumentDate": "2026-11-16",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "dataNote": "18.11.2026 kaynak kontrolü: blank Condition + positive sale price."
     },
     {
       "id": "Hestia|DELOS|207",
@@ -16234,7 +16248,7 @@
       "parking": "",
       "storage": "",
       "price": 265000,
-      "status": "Available",
+      "status": "Sold",
       "gv": "",
       "delivery": "31.08.2027",
       "deliveryDate": "2027-08-31",
@@ -16246,9 +16260,10 @@
       "lng": 23.733,
       "mapUrl": "https://maps.app.goo.gl/vTfur1QuMpj2gkSJA",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "Priced unit; Condition blank",
-      "sourceDocumentDate": "2026-10-19",
-      "lastCheckedAt": "2026-10-19T14:23:00+00:00"
+      "sourceStatus": "Sold",
+      "sourceDocumentDate": "2026-11-16",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "dataNote": "18.11.2026 kaynak kontrolü: Sold."
     },
     {
       "id": "Hestia|DELOS|403",
@@ -23311,7 +23326,7 @@
       "parking": "",
       "storage": "",
       "price": 288000,
-      "status": "Available",
+      "status": "Booked",
       "gv": "",
       "delivery": "01.12.2027",
       "deliveryDate": "2027-12-01",
@@ -23323,9 +23338,10 @@
       "lng": 23.668,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=P.%20Mela%2025%2C%20Ag.%20Ioannis%20Rentis%2C%20Athens%2C%20Greece",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "[1] Available",
-      "lastCheckedAt": "2026-11-12T15:34:02Z",
-      "sourceDocumentDate": null
+      "sourceStatus": "[2] Booked",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "sourceDocumentDate": "2026-11-16",
+      "dataNote": "18.11.2026 kaynak kontrolü: [2] Booked."
     },
     {
       "id": "SHomes / SHG|Elysium Gardens|B5",
@@ -24862,7 +24878,7 @@
       "parking": "",
       "storage": "",
       "price": 250000,
-      "status": "Booked",
+      "status": "Available",
       "gv": "",
       "delivery": "Completed",
       "deliveryDate": null,
@@ -24874,9 +24890,10 @@
       "lng": 23.681,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Isminis%2016%2C%20Egaleo%2C%20Greece",
       "precision": "Address source-verified · pin approx",
-      "sourceStatus": "[2] Booked",
-      "lastCheckedAt": "2026-11-12T15:34:02Z",
-      "sourceDocumentDate": null
+      "sourceStatus": "[1] Available",
+      "lastCheckedAt": "2026-11-18T07:41:43Z",
+      "sourceDocumentDate": "2026-11-16",
+      "dataNote": "18.11.2026 kaynak kontrolü: [1] Available."
     },
     {
       "id": "SHomes / SHG|ISM - 016|M1",
@@ -31240,9 +31257,9 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-11-13T12:28:51Z",
-    "matchedUnits": 910,
-    "missingSourceUnits": 13,
+    "checkedAt": "2026-11-18T07:41:43Z",
+    "matchedUnits": 865,
+    "missingSourceUnits": 79,
     "staticDocumentUnits": 168,
     "unmappedProjects": [
       {
@@ -31259,27 +31276,27 @@
       },
       {
         "firm": "OIKOS",
-        "project": "THISEOS SERVICED APTS",
+        "project": "THE ONE",
         "unitCount": 1,
-        "reason": "Unit B03 remains unmatched to a verified Master Stock and Map Data record"
+        "reason": "Source unit C03 is On Hold 19/11 at €301,000, but no verified Map Data coordinate is available; unit not added"
+      },
+      {
+        "firm": "Zafido",
+        "project": "Pyrras 6-8 & Evridamantos - Neos Kosmos",
+        "unitCount": 1,
+        "reason": "Unit CENTER GF1 is Available at €325,000, but no verified Map Data coordinate is available"
       },
       {
         "firm": "Zafido",
         "project": "Venus - Elliniko",
         "unitCount": 1,
-        "reason": "Unit GF1 is Available in the source, but no verified Map Data coordinate is available"
+        "reason": "Unit GF1 is Available at €357,000, but no verified Map Data coordinate is available"
       },
       {
         "firm": "Santheos",
         "project": "Smirnis",
         "unitCount": 6,
         "reason": "Explicitly Available source units exist, but no verified Map Data coordinate is available; no units added"
-      },
-      {
-        "firm": "OIKOS",
-        "project": "THE ONE",
-        "unitCount": 1,
-        "reason": "Source unit C03 is Available at €301,000, but no verified Map Data coordinate is available; unit not added"
       }
     ],
     "beGreekImport": {
@@ -31306,41 +31323,48 @@
       ]
     },
     "oikosRefresh": {
-      "checkedAt": "2026-11-13T12:28:51Z",
-      "documentUpdatedAt": "2026-11-13T12:26:30.167Z",
-      "statusChanges": 0,
+      "checkedAt": "2026-11-18T07:41:43Z",
+      "documentUpdatedAt": "2026-11-18T07:29:03.473Z",
+      "statusChanges": 12,
       "priceChanges": 0,
+      "matchedUnits": 254,
+      "missingMasterUnits": 6,
       "changes": [
-        "16 project tabs and _Overrides checked; existing matched units have no verified price/status changes",
-        "New THE ONE C03 is Available at €301,000, but was not added because no verified Map Data coordinate exists"
+        "OASIS GF01 Available → On Hold 23/11; A03 On Hold → Available; A06 Available → Reserved; A10 Reserved → Sold",
+        "THE GROVE A06 Reserved → Sold; A12 Reserved → Available",
+        "THERMAE VIEW D07/D08 Available → On Hold 20/11",
+        "BOULEVARD A01/C01 Reserved → Sold; TRINITY D02 On Hold → Available; MERIDIA D05 Reserved → On Hold 23/11"
       ],
       "unmappedNewProjects": [
         "ELYS - CHALDIAS 24 (12 units)",
         "SIERRA (9 units)",
-        "THE ONE (1 unit)"
+        "THE ONE C03 (1 unit)"
       ]
     },
     "shgRefresh": {
-      "checkedAt": "2026-11-12T15:34:02Z",
-      "documentUpdatedAt": "2026-11-12T15:27:15.127Z",
+      "checkedAt": "2026-11-18T07:41:43Z",
+      "documentUpdatedAt": "2026-11-16T12:38:53.145Z",
       "sourceDocumentDate": null,
-      "statusChanges": 0,
+      "statusChanges": 2,
       "priceChanges": 0,
-      "propertyFieldChangeUnits": 61,
+      "propertyFieldChangeUnits": 0,
       "matchedUnits": 236,
       "source": "https://drive.google.com/file/d/1jXDdml9t7n4ZQ3tR2K2ohk_4uAEMPIsT/view",
       "changes": [
-        "OLD List redirects to the new SHG Office list; 61 Elysium Gardens units received verified area/floor/room corrections"
+        "Elysium Gardens B4 Available → Booked",
+        "ISM - 016 G2 Booked → Available"
       ]
     },
     "hestiaRefresh": {
-      "checkedAt": "2026-11-12T11:30:41Z",
-      "sourceModifiedAt": "2026-11-12T11:14:38.612Z",
+      "checkedAt": "2026-11-18T07:41:43Z",
+      "sourceModifiedAt": "2026-11-16T15:30:35.057Z",
       "sourceDocumentDate": null,
-      "statusChanges": 1,
+      "statusChanges": 4,
       "priceChanges": 0,
       "changes": [
-        "DELOS 205: Available → Locked; price unchanged at €298,000"
+        "DELOS 201 Locked → Sold",
+        "DELOS 205/206 Locked → Available",
+        "DELOS 402 Available → Sold"
       ],
       "sheetsChecked": 4,
       "missingProjectSheets": [
@@ -31348,23 +31372,28 @@
       ]
     },
     "zafidoRefresh": {
-      "checkedAt": "2026-11-12T15:34:02Z",
-      "documentUpdatedAt": "2026-11-12T15:27:56.456Z",
-      "statusChanges": 1,
+      "checkedAt": "2026-11-18T07:41:43Z",
+      "documentUpdatedAt": "2026-11-17T14:29:53.857Z",
+      "statusChanges": 3,
       "priceChanges": 0,
+      "matchedUnits": 27,
       "changes": [
-        "Menandrou & Nirvana 6 - Ilioupoli 3.1: Available → Reserved; price unchanged at €281,000"
+        "Dimosthenous 270 GF3 Available → Reserved",
+        "Navarinou 5 B GF3/B GF4 Available → Reserved"
       ],
+      "preservedMissingSourceUnits": 23,
       "unmappedNewUnits": [
+        "Pyrras 6-8 & Evridamantos CENTER GF1",
         "Venus - Elliniko GF1"
       ]
     },
     "santheosRefresh": {
-      "checkedAt": "2026-11-13T12:28:51Z",
-      "documentUpdatedAt": "2026-11-13T09:27:27.069Z",
+      "checkedAt": "2026-11-18T07:41:43Z",
+      "documentUpdatedAt": "2026-11-17T15:48:22.410Z",
       "statusChanges": 0,
       "priceChanges": 0,
       "deliveryChanges": 0,
+      "matchedUnits": 87,
       "newUnitsAdded": [],
       "unmappedNewUnits": [
         "Smirnis I-1/Y-1",
@@ -31376,12 +31405,12 @@
       ],
       "availabilityRule": "Units without an explicit source status remain Check Availability",
       "changes": [
-        "Available and 19 project tabs are cell-for-cell unchanged from the prior verified source; no verified price/status changes"
+        "ARCH 10 C-5 is no longer present in the source and remains Check in Master Stock"
       ],
       "missingProjectSheets": []
     },
     "staticSourceSearch": {
-      "checkedAt": "2026-11-13T12:28:51Z",
+      "checkedAt": "2026-11-18T07:41:43Z",
       "terraceHeights": {
         "latestDocumentDate": "2026-11-05",
         "newerFileFound": false,
