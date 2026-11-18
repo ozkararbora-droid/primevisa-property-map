@@ -32,3 +32,10 @@ body{background:#e9edf2;color:#152940}body>header{background:#0a2344;padding:15p
 .proposal-banner-bottom img{width:100%;left:0;top:-25.2747253%}
 
 .offer-footer#companyContact{display:block;padding:0;border:0;background:transparent}
+/* Purchase estimate directly below the sale price in each property header. */
+.purchase-cost{margin:0 0 12px;padding:8px 10px;border:1px solid #ded3bb;border-radius:5px;background:#fbf8f1;color:#102e53;text-align:center;line-height:1.35}
+.purchase-cost dt{font-size:11px;font-weight:700}
+.purchase-cost dd{margin:3px 0 0}
+.purchase-cost dd strong{font-size:15px;font-variant-numeric:tabular-nums}
+.purchase-cost small,.purchase-cost .cost-detail{color:#526477;font-size:11px;font-weight:400}
+.purchase-cost del{text-decoration-color:#a33a38}

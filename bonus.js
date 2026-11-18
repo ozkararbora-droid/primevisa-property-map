@@ -6,10 +6,20 @@
   return name==='meridia'||name==='boulevard'?name:null;
  };
  const available=r=>!!project(r)&&normalize(r.status)==='available';
- const expenses=r=>{
-  const name=project(r),price=Number(r.price);
-  if(!name||!Number.isFinite(price)||price<=0)return null;
-  return {project:name,original:price*.11,payable:name==='meridia'?0:price*.03,covered:name==='meridia'?100:70};
+ // Shared by portfolio cards, map popups and comparison offers. Rates are
+ // percentages of the sale price; the supported buyer rate is set separately.
+ const minRate=9,maxRate=11;
+ const estimate=r=>{
+  const price=Number(r.price);
+  if(!Number.isFinite(price)||price<=0)return null;
+  const min=price*minRate/100,max=price*maxRate/100,name=project(r);
+  let support=null;
+  if(name){
+   const payableRate=name==='meridia'?0:3;
+   support={project:name,original:max,payable:price*payableRate/100,payableRate,covered:name==='meridia'?100:70};
+  }
+  return {min,max,support};
  };
- globalThis.PVBonus={project,available,expenses};
+ globalThis.PVPurchaseCosts={estimate,minRate,maxRate};
+ globalThis.PVBonus={project,available,expenses:r=>estimate(r)?.support??null};
 })();

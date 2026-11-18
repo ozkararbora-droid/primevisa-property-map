@@ -22,7 +22,7 @@ $('printOffer').onclick=()=>{
  if(!preview){document.body.classList.add('print-preview');$('printPages').removeAttribute('aria-hidden');$('summary').textContent='Baskı görünümü hazır. Yazdır / PDF kaydet düğmesine tekrar basın.';$('printOffer').onclick=()=>window.print();return}
  const base=new URL('./',location.href).href;
  preview.document.open();
- preview.document.write(`<!doctype html><html lang="tr"><head><meta name="robots" content="noindex, nofollow, noimageindex, nosnippet"><meta name="referrer" content="no-referrer"><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><base href="${esc(base)}"><title>PrimeVisa Gayrimenkul Yatırım Teklifi</title><link rel="stylesheet" href="./print.css?v=20261021-premium"></head><body><nav class="print-toolbar"><strong>PrimeVisa · Teklif baskı önizlemesi</strong><span id="printStatus" role="status">Görseller hazırlanıyor…</span><button type="button" id="printNow" disabled>Yazdır / PDF kaydet</button></nav><main id="offerDocument">${pages}</main><script src="./print-layout.js?v=20261021-premium"><\/script><script src="./print.js?v=20261017-print2"><\/script></body></html>`);
+ preview.document.write(`<!doctype html><html lang="tr"><head><meta name="robots" content="noindex, nofollow, noimageindex, nosnippet"><meta name="referrer" content="no-referrer"><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><base href="${esc(base)}"><title>PrimeVisa Gayrimenkul Yatırım Teklifi</title><link rel="stylesheet" href="./print.css?v=20261118-purchase-costs"></head><body><nav class="print-toolbar"><strong>PrimeVisa · Teklif baskı önizlemesi</strong><span id="printStatus" role="status">Görseller hazırlanıyor…</span><button type="button" id="printNow" disabled>Yazdır / PDF kaydet</button></nav><main id="offerDocument">${pages}</main><script src="./print-layout.js?v=20261021-premium"><\/script><script src="./print.js?v=20261017-print2"><\/script></body></html>`);
  preview.document.close();
 };
 let selected=PVFavorites.ids();try{if(location.hash.startsWith('#ids=')){const a=JSON.parse(decodeURIComponent(location.hash.slice(5)));if(Array.isArray(a))selected=[...new Set(a.filter(x=>typeof x==='string'))]}}catch{}
@@ -65,8 +65,26 @@ let pages='',page=0;for(let i=0;i<rows.length;i+=2){const batch=rows.slice(i,i+2
 for(const items of alternativePages){page++;pages+=`<section class="print-page">${pageHeader('Aynı binadaki alternatifler',page)}<div class="proposal-body">${items.map(item=>alternativeSection(item.record,item.list,item.offset,item.total)).join('')}${alternativeNote}</div>${footer(page)}</section>`;}
 $('printPages').innerHTML=pages;document.body.classList.add('has-print-pages');$('printOffer').disabled=false;
 }
+// Keep the expense with its unit and sale price, even in differences-only mode.
+const costCurrency=new Intl.NumberFormat('de-DE',{style:'currency',currency:'EUR',minimumFractionDigits:0,maximumFractionDigits:2});
+function purchaseCostHeader(r){
+ const {minRate,maxRate}=PVPurchaseCosts,estimate=PVPurchaseCosts.estimate(r);
+ let prefix='',amount='—',detail='Satış bedeli belirtilmemiş';
+ if(estimate){
+  const support=estimate.support;
+  if(support){
+   prefix='<small>Ödeyeceğiniz'+(support.payableRate?' (%'+support.payableRate+')':'')+':</small> ';
+   amount=costCurrency.format(support.payable);
+   detail='Firma desteği: %'+support.covered+' · Standart gider (%'+maxRate+'): <del>'+costCurrency.format(support.original)+'</del>';
+  }else{
+   amount=costCurrency.format(estimate.min)+' – '+costCurrency.format(estimate.max);
+   detail='Satış bedeli üzerinden %'+minRate+' – %'+maxRate;
+  }
+ }
+ return '<dl class="purchase-cost"><dt>Tahmini Satın Alma Masrafları</dt><dd>'+prefix+'<strong>'+amount+'</strong></dd><dd class="cost-detail">'+detail+'</dd></dl>';
+}
 function buildTable(rows,printMode=false,locationOnly=false){
-const heads=rows.map(r=>{const p=images.get(key(r.firm,r.project)),url=p?.exterior||p?.interior||p?.secondary;return `<th scope="col">${!locationOnly?(url?`<img class="photo" src="${esc(url)}" alt="${esc(r.project)} proje görseli" onerror="this.hidden=true;this.nextElementSibling.textContent='Proje görseli yüklenemedi'">`:'<div class="photo photo-placeholder"><span>PrimeVisa</span><small>GAYRİMENKUL PORTFÖYÜ</small></div>') : ''}<p class="photo-label" ${locationOnly?'hidden':''}>${url?'Proje görseli':'Proje görseli mevcut değil'}</p><div class="firm">${esc(r.firm)}</div><h2 class="project">${esc(r.project)}</h2><div class="unit">${esc(r.unit)} · ${esc(r.area)}</div><div class="price">${money(r.price)}</div><button class="remove" data-remove="${esc(r.id)}" aria-label="${esc(r.project+' '+r.unit)} karşılaştırmadan çıkar">× Listeden çıkar</button></th>`}).join('');
+const heads=rows.map(r=>{const p=images.get(key(r.firm,r.project)),url=p?.exterior||p?.interior||p?.secondary;return `<th scope="col">${!locationOnly?(url?`<img class="photo" src="${esc(url)}" alt="${esc(r.project)} proje görseli" onerror="this.hidden=true;this.nextElementSibling.textContent='Proje görseli yüklenemedi'">`:'<div class="photo photo-placeholder"><span>PrimeVisa</span><small>GAYRİMENKUL PORTFÖYÜ</small></div>') : ''}<p class="photo-label" ${locationOnly?'hidden':''}>${url?'Proje görseli':'Proje görseli mevcut değil'}</p><div class="firm">${esc(r.firm)}</div><h2 class="project">${esc(r.project)}</h2><div class="unit">${esc(r.unit)} · ${esc(r.area)}</div><div class="price">${money(r.price)}</div>${locationOnly?'':purchaseCostHeader(r)}<button class="remove" data-remove="${esc(r.id)}" aria-label="${esc(r.project+' '+r.unit)} karşılaştırmadan çıkar">× Listeden çıkar</button></th>`}).join('');
 let body='';if(!locationOnly)for(const [title,fields] of groups){const visible=fields.filter(([,f])=>!$('differences').checked||new Set(rows.map(r=>String(f(r)))).size>1);if(visible.length)body+=`<tr class="section"><th colspan="${rows.length+1}">${title}</th></tr>`+visible.map(([label,f])=>`<tr><th scope="row">${label}</th>${rows.map(r=>`<td>${esc(f(r))}</td>`).join('')}</tr>`).join('')}
 if(!printMode||locationOnly)body+=`<tr class="section"><th colspan="${rows.length+1}">Konum</th></tr><tr><th scope="row">Harita</th>${rows.map(r=>`<td>${mini(r)}</td>`).join('')}</tr><tr><th scope="row">Adres</th>${rows.map(r=>`<td>${esc(r.address||'—')}${r.locationDetails?`<br><small>${esc(r.locationDetails)}</small>`:''}</td>`).join('')}</tr><tr><th scope="row">Proje belgeleri</th>${rows.map(r=>`<td>${/^https?:\/\//i.test(r.media||'')?`<a class="media" href="${esc(r.media)}" target="_blank" rel="noopener">Broşür / Medya ↗</a>`:'—'}</td>`).join('')}</tr>`;
 return `<table style="min-width:${180+rows.length*290}px"><thead><tr><th scope="col">Özellikler</th>${heads}</tr></thead><tbody>${body}</tbody></table>`;}
