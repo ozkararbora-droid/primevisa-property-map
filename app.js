@@ -1,4 +1,4 @@
-(async()=>{
+window.PVMapReady=(async()=>{
 const statusGroup=s=>['Available','Check','Check Availability'].includes(s)?'Available':s==='Sold'?'Sold':'Reserved';
 const $=i=>document.getElementById(i),esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m])),euro=n=>n==null?'—':new Intl.NumberFormat('de-DE',{style:'currency',currency:'EUR',maximumFractionDigits:0}).format(n),num=n=>n==null?'—':new Intl.NumberFormat('tr-TR',{maximumFractionDigits:1}).format(n),st=s=>({'Available':'Müsait','Reserved':'Rezerve','Booked':'Rezerve','On Hold':'Rezerve','Under Offer':'Rezerve','Locked':'Rezerve','Sold':'Satıldı','Check':'Müsait · teyit gerekli','Check Availability':'Müsait · teyit gerekli'}[s]||s||'—'),norm=s=>String(s||'').trim().toLowerCase();
 const imageKey=(firm,project)=>`${norm(firm).normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,' ').trim().replace(/\s+/g,' ')}|${norm(project).normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,' ').trim().replace(/\s+/g,' ')}`;
@@ -26,7 +26,11 @@ const imageOptions=(r,view='exterior')=>{
 window.pvImageError=el=>{let options;try{options=JSON.parse(el.dataset.images)}catch{return}const next=Number(el.dataset.index||0)+1;if(next>=options.length){el.onerror=null;return}el.dataset.index=next;el.src=options[next].url;el.alt=options[next].label;const label=el.parentElement.querySelector('.image-label');if(label)label.textContent=options[next].label};
 const img=(r,view='exterior')=>{const options=imageOptions(r,view);return `<span class="image-frame"><img src="${esc(options[0].url)}" alt="${esc(r.project)} · ${esc(options[0].label)}" data-images="${esc(JSON.stringify(options))}" data-index="0" loading="lazy" referrerpolicy="no-referrer" onerror="window.pvImageError(this)"><span class="image-label">${esc(options[0].label)}</span></span>`},link=(u,t,c='')=>/^https?:\/\//i.test(String(u||''))?`<a class="${c}" href="${esc(u)}" target="_blank" rel="noopener">${t}</a>`:'';
 
-try{const [R,IR]=await Promise.all([fetch('./data.json?v='+Date.now(),{cache:'no-store'}),fetch('./project-images.json',{cache:'no-cache'})]);if(!R.ok)throw Error('data.json HTTP '+R.status);const D=await R.json();let imageManifest={projects:[]};if(IR.ok){try{imageManifest=await IR.json()}catch{}}projectImageIndex=new Map((imageManifest.projects||[]).map(p=>[imageKey(p.firm,p.project),p]));const rows=(D.records||[]).filter(r=>!(r.price!=null&&String(r.price).trim()!==''&&Number.isFinite(Number(r.price))&&Number(r.price)<250000)),colors=D.firmColors||{},col=f=>colors[f]||'#546E7A';
+try{
+const [{data:D,notice},projects]=await Promise.all([PVPortfolio.load(),PVPortfolio.images()]);
+if(notice){const banner=$('portfolioNotice');banner.textContent=notice;banner.hidden=false;}
+projectImageIndex=new Map(projects.map(p=>[imageKey(p.firm,p.project),p]));
+const rows=(D.records||[]).filter(r=>!(r.price!=null&&String(r.price).trim()!==''&&Number.isFinite(Number(r.price))&&Number(r.price)<250000)),colors=D.firmColors||{},col=f=>colors[f]||'#546E7A';
 const map=L.map('map',{minZoom:5,maxZoom:19,preferCanvas:true,zoomControl:false}).setView([37.9838,23.7275],11);
 L.control.zoom({position:'bottomright'}).addTo(map);
 const tileUrl='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',tileOptions={maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'};
@@ -82,16 +86,11 @@ function syncBonus(){const button=$('bonusBtn');button.disabled=!bonusAvailable.
 const val=i=>$(i).value.trim(),F=()=>({q:norm(val('q')),min:+val('minP')||null,max:+val('maxP')||null,status:val('status'),firm:val('firm'),minM:+val('minM')||null,maxM:+val('maxM')||null,b:val('beds'),d:val('delivery')}),ok=(r,f)=>{const h=norm(`${r.area} ${r.project} ${r.address} ${r.unit} ${r.firm}`);if(bonusOnly&&!PVBonus.available(r))return 0;if(featuredOnly&&!featuredProject(r))return 0;if(f.q&&!h.includes(f.q))return 0;if(f.min!=null&&(r.price==null||r.price<f.min))return 0;if(f.max!=null&&(r.price==null||r.price>f.max))return 0;if(f.status&&statusGroup(r.status)!==f.status)return 0;if(f.firm&&r.firm!==f.firm)return 0;if(f.minM!=null&&(r.total==null||r.total<f.minM))return 0;if(f.maxM!=null&&(r.total==null||r.total>f.maxM))return 0;if(f.b==='5+'&&!(r.bedrooms>=5))return 0;if(f.b&&f.b!=='5+'&&Number(r.bedrooms)!==Number(f.b))return 0;if(f.d&&(!r.deliveryDate||r.deliveryDate>f.d))return 0;if(bounds&&!bounds.contains([r.lat,r.lng]))return 0;return 1};
 function cards(a){if(!a.length){$('cards').innerHTML='<div class="empty">Sonuç bulunamadı.</div>';return}const cap=80;$('cards').innerHTML=a.slice(0,cap).map(r=>`<div class="card" tabindex="0" aria-label="Ev detaylarını göster" data-id="${esc(r.id)}"><div class="thumb">${img(r)}</div><div class="card-body"><div class="card-top"><div class="price">${euro(r.price)}</div><span class="pill" style="background:${col(r.firm)}">${esc(r.firm)}</span></div><div class="name">${esc(r.project)} · ${esc(r.unit)}</div><div class="meta">${esc(r.area)} · ${num(r.total)} m²${r.bedrooms!=null?` · ${r.bedrooms} oda`:''}</div>${deliveryBadge(r)}</div>${rentalSummary(r)}${expenseSummary(r)}${PVFavorites.button(r.id)}</div>`).join('')+(a.length>cap?`<div class="empty">İlk ${cap} sonuç gösteriliyor.</div>`:'');document.querySelectorAll('.card').forEach(e=>{e.onkeydown=event=>{if(event.target.closest('[data-favorite]'))return;if(event.key==='Enter'||event.key===' '){event.preventDefault();e.click()}};e.onclick=event=>{if(event.target.closest('[data-favorite]'))return;const m=marks.get(e.dataset.id);if(m){map.setView(m.getLatLng(),16);cl.zoomToShowLayer(m,()=>{const r=shown.find(r=>r.id===e.dataset.id);if(r)showDetail(r,m)});if(window.innerWidth<=820){$('side').classList.remove('open');$('filterBtn').setAttribute('aria-expanded','false')}}}})}
 window.addEventListener('pv:favorites',()=>{marks.forEach((m,id)=>{const r=rows.find(r=>r.id===id);if(r){m.setIcon(icon(r.firm,id));if(id===selectedId)m.getElement()?.classList.add('selected-marker')}});cl.refreshClusters()});
-window.PVApplyMasterStock=units=>{
- const allowed=new Set(['Available','Reserved','Booked','On Hold','Under Offer','Locked','Sold','Check','Check Availability']);
- const byId=new Map();
- for(const u of units){if(!u||typeof u.id!=='string'||byId.has(u.id)||!allowed.has(u.status))throw Error('Ana tabloda eksik, tekrarlanan veya tanınmayan durum var. Güncelleme uygulanmadı.');byId.set(u.id,u.status)}
- const missing=rows.filter(r=>!byId.has(r.id));
- if(missing.length)throw Error(missing.length+' ev ana tabloda bulunamadı. Güncelleme uygulanmadı.');
- rows.forEach(r=>{r.status=byId.get(r.id)});
+const applyMasterStock=units=>{
+ const count=PVPortfolio.applyStatuses(D.records,units);
  bonusAvailable=rows.filter(PVBonus.available);
  update();
- return rows.length;
+ return count;
 };
 function update(){syncBonus();syncFeatured();syncBudgetPreset();closeDetail();shown=rows.filter(r=>ok(r,F())).sort((a,b)=>(Number.isFinite(a.price)?a.price:Infinity)-(Number.isFinite(b.price)?b.price:Infinity)||String(a.project||'').localeCompare(String(b.project||''),'tr')||String(a.unit||'').localeCompare(String(b.unit||''),'tr',{numeric:true}));cl.clearLayers();marks.clear();shown.forEach(r=>{const m=L.marker([r.lat,r.lng],{icon:icon(r.firm,r.id),pvId:r.id,pvPrice:r.price,title:r.project+' · '+r.unit}).bindTooltip(tip(r),{className:'pvtip',direction:'top',offset:[0,-20],sticky:true,opacity:1}).on('click',()=>showDetail(r,m));cl.addLayer(m);marks.set(r.id,m)});cards(shown);renderLegend();const advanced=['minM','maxM','beds','delivery'].filter(id=>$(id).value!=='').length;$('advancedCount').textContent=advanced?`(${advanced})`:'';$('cnt').textContent=`${shown.length.toLocaleString('tr-TR')} Konut · ${new Set(shown.map(r=>r.firm+'|'+r.project)).size} Proje`;$('vc').textContent=`${shown.length} sonuç`;const dt=D.generatedAt?new Date(D.generatedAt).toLocaleString('tr-TR',{timeZone:'Europe/Istanbul',day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'}):'—';$('sum').textContent=`Toplam Portföy: ${rows.length.toLocaleString('tr-TR')} Konut · ${new Set(rows.map(r=>r.firm+'|'+r.project)).size} Proje`;$('sum').title=`${new Set(rows.map(r=>r.firm)).size} firma · Güncelleme: ${dt}`}
 const budgetRanges={'250':[250000,250000],'250-270':[250000,270001],'270-300':[270000,300001],'300+':[300000,null]};
@@ -134,5 +133,12 @@ const fullState=active=>{wrap.classList.toggle('is-fullscreen',active);$('full')
 $('full').onclick=async()=>{try{if(wrap.classList.contains('is-fullscreen')){const exit=document.exitFullscreen||document.webkitExitFullscreen;if((document.fullscreenElement||document.webkitFullscreenElement)&&exit)await exit.call(document);fullState(false)}else{fullState(true);const enter=wrap.requestFullscreen||wrap.webkitRequestFullscreen;if(enter)await enter.call(wrap)}}catch{resizeMap()}};
 for(const event of ['fullscreenchange','webkitfullscreenchange'])document.addEventListener(event,()=>fullState(!!(document.fullscreenElement||document.webkitFullscreenElement)));
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){if(!$('propertyDetail').hidden){closeDetail(true);return}if(!document.fullscreenElement&&!document.webkitFullscreenElement)fullState(false)}});
-$('mq').oninput=e=>{$('q').value=e.target.value;update()};$('q').oninput=e=>{$('mq').value=e.target.value;update()};document.querySelectorAll('.filters input,.filters select').forEach(e=>e.addEventListener('change',update));map.on('moveend',()=>{if(!sup)$('areaBtn').classList.add('dirty')});update();$('loading')?.remove();setTimeout(()=>map.invalidateSize(),100)}catch(e){console.error(e);(()=>{const loading=$('loading');if(loading){loading.textContent='Portföy yüklenemedi. Sayfayı yenileyerek tekrar deneyin.';loading.setAttribute('role','alert')}})()}})();
+$('mq').oninput=e=>{$('q').value=e.target.value;update()};$('q').oninput=e=>{$('mq').value=e.target.value;update()};document.querySelectorAll('.filters input,.filters select').forEach(e=>e.addEventListener('change',update));map.on('moveend',()=>{if(!sup)$('areaBtn').classList.add('dirty')});update();$('loading')?.remove();setTimeout(()=>map.invalidateSize(),100);
+window.PVApplyMasterStock=applyMasterStock;
+return applyMasterStock;
+}catch(e){
+ console.error(e);const loading=$('loading');
+ if(loading){loading.textContent='Portföy açılamadı. Üstteki “Portföyü yeniden yükle” düğmesiyle tekrar deneyin.';loading.setAttribute('role','alert');}
+ return null;
+}})();
 
