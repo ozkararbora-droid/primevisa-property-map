@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T07:50:00Z",
+  "generatedAt": "2026-11-25T13:17:00Z",
   "sourceSpreadsheet": "PrimeVisa Property Master",
   "unitCount": 944,
   "records": [
@@ -9781,7 +9781,7 @@
       "parking": "Yes",
       "storage": "N/A",
       "price": 319000,
-      "status": "Reserved",
+      "status": "Available",
       "gv": "Yes",
       "delivery": "Q4 2028",
       "deliveryDate": "2028-12-31",
@@ -9793,9 +9793,10 @@
       "lng": 23.802,
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navarinou%205%20%26%20Kosti%20Palama%2C%20Chalandri%2C%20Greece",
       "precision": "Intersection verified · pin approx",
-      "sourceStatus": "RESERVED",
-      "lastCheckedAt": "2026-11-12T08:56:50Z",
-      "sourceDocumentDate": "2026-11-12"
+      "sourceStatus": "Available",
+      "lastCheckedAt": "2026-11-25T13:17:00Z",
+      "sourceDocumentDate": "2026-11-25",
+      "dataNote": "25.11.2026 kaynak kontrolü: Available."
     },
     {
       "id": "Zafido|Navarinou 5 & Kosti Palama - CHALANDRI|A M7",
@@ -31278,7 +31279,7 @@
     }
   ],
   "audit": {
-    "checkedAt": "2026-11-25T07:50:00Z",
+    "checkedAt": "2026-11-25T13:17:00Z",
     "matchedUnits": 859,
     "missingSourceUnits": 85,
     "staticDocumentUnits": 168,
@@ -31387,14 +31388,14 @@
       ]
     },
     "zafidoRefresh": {
-      "checkedAt": "2026-11-25T07:28:29Z",
-      "documentUpdatedAt": "2026-11-24T07:54:16.081Z",
+      "checkedAt": "2026-11-25T13:17:00Z",
+      "documentUpdatedAt": "2026-11-25T12:24:59.314Z",
       "sourceDocumentDate": null,
       "statusChanges": 1,
       "priceChanges": 0,
       "matchedUnits": 24,
       "changes": [
-        "Navarinou 5 B M1 Reserved → Available"
+        "Navarinou 5 & Kosti Palama A M6 Reserved → Available"
       ],
       "preservedMissingSourceUnits": 26,
       "unmappedNewUnits": [
@@ -31428,7 +31429,7 @@
       "missingProjectSheets": []
     },
     "staticSourceSearch": {
-      "checkedAt": "2026-11-25T07:50:00Z",
+      "checkedAt": "2026-11-25T13:17:00Z",
       "terraceHeights": {
         "latestDocumentDate": "2026-11-05",
         "newerFileFound": false,
